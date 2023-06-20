@@ -1,0 +1,1324 @@
+9606	FBgn0011761	dhd		deadhead	-6.59	0.0	0.0	0.0	6.09
+7732	FBgn0024733	RpL10		Ribosomal protein L10	-5.52	0.0	0.0	0.03	5.2
+5444	FBgn0004432	Cyp1		Cyclophilin 1	-5.39	0.0	0.0	0.0	5.01
+5616	FBgn0022893	Df31		Decondensation factor 31	-4.79	0.0	0.0	0.0	4.32
+7771	FBgn0023170	RpL39		Ribosomal protein L39	-4.64	0.0	0.0	0.02	4.23
+11214	FBgn0004419	me31B		maternal expression at 31B	-4.59	0.0	0.0	0.0	4.11
+9316	FBgn0000150	awd		abnormal wing discs	-4.46	0.0	0.0	0.2	4.6
+9805	FBgn0037913	fabp		fatty acid binding protein	-4.42	0.0	0.0	0.0	3.93
+5433	FBgn0000405	CycB		Cyclin B	-4.36	0.0	0.0	0.0	3.74
+6423	FBgn0040309	Jafrac1		thioredoxin peroxidase 1	-4.36	0.0	0.0	0.0	3.9
+10217	FBgn0267910	lncRNA:CR34335		Isoform C of Homeotic protein proboscipedia	-4.3	0.0	0.0	1.15	5.31
+72	FBgn0039830	ATPsynC		ATP synthase, subunit C	-4.21	0.0	0.0	0.12	4.08
+10064	FBgn0028369	kirre		kin of irre	-4.09	0.0	0.0	0.18	1.19
+5887	FBgn0013954	Fkbp12		FK506-binding protein 12kD	-4.08	0.0	0.0	0.0	3.46
+5041	FBgn0034802	CNBP		CCHC-type zinc finger nucleic acid binding protein	-4.08	0.0	0.0	0.13	3.81
+9374	FBgn0284243	betaTub56D		beta-Tubulin at 56D	-4.06	0.0	0.0	0.04	3.73
+7770	FBgn0040007	RpL38		Ribosomal protein L38	-4.04	0.0	0.0	0.16	3.78
+8712	FBgn0283536	Vha13		Vacuolar H[+] ATPase 13kD subunit	-4.03	0.0	0.0	0.0	3.47
+7763	FBgn0029785	RpL35		Ribosomal protein L35	-3.98	0.0	0.0	0.13	3.79
+12403	FBgn0260780	wisp		wispy	-3.98	0.0	0.0	0.0	3.25
+7768	FBgn0030616	RpL37a		Ribosomal protein L37a	-3.96	0.0	0.0	0.43	4.54
+12287	FBgn0011726	tsr		twinstar	-3.91	0.0	0.0	0.01	3.31
+11887	FBgn0264922	smt3		smt3	-3.9	0.0	0.0	0.0	3.29
+7806	FBgn0086472	RpS25		Ribosomal protein S25	-3.83	0.0	0.0	0.52	4.65
+12269	FBgn0041775	tral		trailer hitch	-3.79	0.0	0.0	0.16	3.61
+718	FBgn0036334	CG11267		\N	-3.78	0.0	0.0	0.0	3.17
+5889	FBgn0013269	Fkbp39		FK506-binding protein 39kD	-3.77	0.0	0.0	0.01	3.25
+9421	FBgn0000114	bru1		bruno 1	-3.73	0.0	0.0	0.0	2.84
+6981	FBgn0016685	Nlp		Nucleoplasmin	-3.73	0.0	0.0	0.0	3.15
+6098	FBgn0001149	GstD1		Glutathione S transferase D1	-3.72	0.0	0.0	0.07	3.36
+10642	FBgn0266096	lncRNA:CR44833		Teyrha-meyrha, isoform D	-3.69	0.0	0.0	0.09	0.95
+6210	FBgn0001197	His2Av		Histone H2A variant	-3.67	0.0	0.0	0.0	3.07
+11491	FBgn0037728	p23		p23	-3.65	0.0	0.0	0.01	3.06
+11581	FBgn0004363	porin		porin	-3.63	0.0	0.0	0.0	2.99
+9913	FBgn0001120	gnu		giant nuclei	-3.63	0.0	0.0	0.0	2.88
+5963	FBgn0001092	Gapdh2		Glyceraldehyde 3 phosphate dehydrogenase 2	-3.63	0.0	0.0	0.0	3.03
+6898	FBgn0015268	Nap1		Nucleosome assembly protein 1	-3.61	0.0	0.0	0.02	3.15
+7773	FBgn0003941	RpL40		Ribosomal protein L40	-3.56	0.0	0.0	0.4	4.14
+9395	FBgn0011211	blw		bellwether	-3.53	0.0	0.0	0.0	2.83
+11534	FBgn0016053	pgc		polar granule component	-3.52	0.0	0.0	0.0	2.59
+9972	FBgn0286786	hoip		hoi-polloi	-3.51	0.0	0.0	0.0	2.86
+8397	FBgn0037874	Tctp		Translationally controlled tumor protein	-3.5	0.0	0.0	0.49	4.28
+7528	FBgn0262116	RNASEK		Ribonuclease kappa	-3.5	0.0	0.0	0.0	2.74
+7805	FBgn0261596	RpS24		Ribosomal protein S24	-3.47	0.0	0.0	0.25	3.62
+6221	FBgn0004362	HmgD		High mobility group protein D	-3.46	0.0	0.0	0.02	2.89
+6264	FBgn0001225	Hsp26		Heat shock protein 26	-3.44	0.0	0.0	0.1	3.14
+8481	FBgn0086355	Tpi		Triose phosphate isomerase	-3.44	0.0	0.0	0.0	2.82
+5047	FBgn0032833	COX4		Cytochrome c oxidase subunit 4	-3.43	0.0	0.0	0.0	2.74
+11718	FBgn0250838	roh		reduction of Rh1	-3.42	0.0	0.0	0.0	2.71
+368	FBgn0038252	BigH1		Histone H1 variant BigH1	-3.41	0.0	0.0	0.0	2.73
+12440	FBgn0004649	yl		yolkless	-3.41	0.0	0.0	0.0	2.57
+77	FBgn0035032	ATPsynF		ATP synthase, subunit F	-3.4	0.0	0.0	0.0	2.77
+7296	FBgn0287720	Pen		Pendulin	-3.4	0.0	0.0	0.0	2.76
+7808	FBgn0039300	RpS27		Ribosomal protein S27	-3.4	0.0	0.0	0.81	4.6
+7016	FBgn0039735	Nph		Nucleophosmin	-3.39	0.0	0.0	0.0	2.76
+2255	FBgn0037468	CG1943		\N	-3.38	0.0	0.0	0.02	2.75
+349	FBgn0031453	Bacc		Bacchus	-3.36	0.0	0.0	0.3	3.43
+6214	FBgn0004828	His3.3B		Histone H3.3B	-3.35	0.0	0.0	0.38	3.71
+11084	FBgn0263594	lost		lost	-3.34	0.0	0.0	0.01	2.71
+6422	FBgn0259682	Jabba		Jabba	-3.34	0.0	0.0	0.0	2.71
+9384	FBgn0000181	bic		bicaudal	-3.32	0.0	0.0	0.16	3.21
+9571	FBgn0015031	cype		cyclope	-3.31	0.0	0.0	0.0	2.59
+7745	FBgn0032987	RpL21		Ribosomal protein L21	-3.3	0.0	0.0	0.83	4.53
+9696	FBgn0032198	eEF1delta		eukaryotic translation elongation factor 1 delta	-3.26	0.0	0.0	0.01	2.65
+11882	FBgn0016070	smg		smaug	-3.24	0.0	0.0	0.01	2.57
+12357	FBgn0046214	vig2		vig2	-3.23	0.0	0.0	0.17	3.14
+7818	FBgn0038277	RpS5b		Ribosomal protein S5b	-3.22	0.0	0.0	0.32	3.53
+8519	FBgn0040070	Trx-2		thioredoxin-2	-3.22	0.0	0.0	0.0	2.57
+75	FBgn0016120	ATPsynD		ATP synthase, subunit D	-3.21	0.0	0.0	0.0	2.52
+78	FBgn0010612	ATPsynG		ATP synthase, subunit G	-3.17	0.0	0.0	0.0	2.45
+6257	FBgn0266599	Hsc70-4		Heat shock protein cognate 4	-3.16	0.0	0.0	0.33	3.45
+6215	FBgn0013981	His4r		Histone H4 replacement	-3.16	0.0	0.0	0.0	2.42
+7815	FBgn0017545	RpS3A		Ribosomal protein S3A	-3.15	0.0	0.0	1.24	4.95
+5795	FBgn0000579	Eno		Enolase	-3.13	0.0	0.0	0.13	2.93
+73	FBgn0016119	ATPsynCF6		ATP synthase, coupling factor 6	-3.13	0.0	0.0	0.0	2.43
+8897	FBgn0087040	alphaTub67C		alpha-Tubulin at 67C	-3.12	0.0	0.0	0.0	2.47
+5053	FBgn0031066	COX6B		Cytochrome c oxidase subunit 6B	-3.11	0.0	0.0	0.01	2.46
+12156	FBgn0266521	stai		stathmin	-3.11	0.0	0.0	0.03	2.42
+5054	FBgn0040529	COX7A		Cytochrome c oxidase subunit 7A	-3.08	0.0	0.0	0.0	2.34
+7788	FBgn0033699	RpS11		Ribosomal protein S11	-3.08	0.0	0.0	1.19	4.77
+80	FBgn0010217	ATPsynbeta		ATP synthase, beta subunit	-3.08	0.0	0.0	0.2	2.9
+6894	FBgn0086904	Nacalpha		Nascent polypeptide associated complex protein alpha subunit	-3.07	0.0	0.0	0.37	3.55
+5962	FBgn0001091	Gapdh1		Glyceraldehyde 3 phosphate dehydrogenase 1	-3.06	0.0	0.0	0.0	2.44
+5432	FBgn0000404	CycA		Cyclin A	-3.05	0.0	0.0	0.0	2.34
+5267	FBgn0260747	Chchd2		Coiled-coil-helix-coiled-coil-helix domain containing 2	-3.04	0.0	0.0	0.01	2.44
+8591	FBgn0260008	UQCR-11		Ubiquinol-cytochrome c reductase 11 kDa subunit	-3.01	0.0	0.0	0.0	2.29
+6861	FBgn0052230	ND-MLRQ		NADH dehydrogenase (ubiquinone) MLRQ subunit	-3.01	0.0	0.0	0.0	2.18
+6847	FBgn0011361	ND-ACP		NADH dehydrogenase (ubiquinone) acyl carrier protein	-2.98	0.0	0.0	0.0	2.29
+11483	FBgn0003028	ovo		ovo	-2.96	0.0	0.0	0.0	1.47
+5297	FBgn0264492	CkIIalpha		casein kinase IIalpha	-2.95	0.0	0.0	0.04	2.37
+42	FBgn0250816	AGO3		Argonaute 3	-2.95	0.0	0.0	0.12	1.5
+11686	FBgn0004795	retn		retained	-2.95	0.0	0.0	0.0	2.08
+9701	FBgn0035423	eIF1		eukaryotic translation initiation factor 1	-2.94	0.0	0.0	0.0	2.22
+11268	FBgn0002780	mod		modulo	-2.93	0.0	0.0	0.23	2.95
+6998	FBgn0038964	Nop56		Nop56	-2.93	0.0	0.0	0.0	2.2
+9699	FBgn0285952	eEF5		eukaryotic translation elongation factor 5	-2.93	0.0	0.0	1.01	4.45
+8728	FBgn0028663	VhaM9.7-b		Vacuolar H[+] ATPase M9.7 subunit b	-2.92	0.0	0.0	0.0	2.22
+6266	FBgn0015245	Hsp60A		Heat shock protein 60A	-2.92	0.0	0.0	0.01	2.18
+4521	FBgn0040793	CG7630		\N	-2.89	0.0	0.0	0.0	2.24
+6917	FBgn0083167	Neb-cGP		Neb-cGP	-2.89	0.0	0.0	0.0	2.16
+9729	FBgn0015218	eIF4E1		eukaryotic translation initiation factor 4E1	-2.89	0.0	0.0	0.07	2.43
+7509	FBgn0267385	PyK		Pyruvate kinase	-2.88	0.0	0.0	0.03	2.32
+76	FBgn0038224	ATPsynE		ATP synthase, subunit E	-2.85	0.0	0.0	0.0	2.11
+8598	FBgn0036728	UQCR-Q		Ubiquinol-cytochrome c reductase ubiquinone-binding protein	-2.85	0.0	0.0	0.0	2.16
+8871	FBgn0082598	akirin		akirin	-2.84	0.0	0.0	0.15	2.51
+71	FBgn0019644	ATPsynB		ATP synthase, subunit B	-2.82	0.0	0.0	0.0	2.14
+2979	FBgn0053129	CG33129		\N	-2.82	0.0	0.0	0.01	2.12
+7758	FBgn0086710	RpL30		Ribosomal protein L30	-2.8	0.0	0.0	0.26	2.86
+8611	FBgn0029996	UbcE2H		Ubiquitin conjugating enzyme E2H	-2.8	0.0	0.0	0.12	2.4
+9697	FBgn0029176	eEF1gamma		eukaryotic translation elongation factor 1 gamma	-2.77	0.0	0.0	0.2	2.68
+7766	FBgn0031980	RpL36A		Ribosomal protein L36A	-2.76	0.0	0.0	1.17	4.35
+9722	FBgn0015834	eIF3i		eukaryotic translation initiation factor 3 subunit i	-2.75	0.0	0.0	0.0	2.1
+12200	FBgn0003655	swa		swallow	-2.74	0.0	0.0	0.0	2.02
+503	FBgn0027512	CG10254		\N	-2.74	0.0	0.0	0.0	1.82
+8001	FBgn0031049	Sec61gamma		Sec61 gamma subunit	-2.74	0.0	0.0	0.02	2.15
+5049	FBgn0019624	COX5A		Cytochrome c oxidase subunit 5A	-2.74	0.0	0.0	0.0	2.08
+578	FBgn0035630	CG10576		\N	-2.74	0.0	0.0	0.0	2.09
+10488	FBgn0265457	lncRNA:CR44357		60S ribosomal protein L15	-2.73	0.0	0.0	0.03	0.57
+7774	FBgn0066084	RpL41		Ribosomal protein L41	-2.73	0.0	0.0	2.49	5.55
+8084	FBgn0025637	SkpA		SKP1-related A	-2.72	0.0	0.0	0.0	2.08
+7756	FBgn0016726	RpL29		Ribosomal protein L29	-2.71	0.0	0.0	0.51	3.34
+809	FBgn0030551	CG11674		\N	-2.71	0.0	0.0	0.0	2.02
+7814	FBgn0038834	RpS30		Ribosomal protein S30	-2.7	0.0	0.0	0.58	3.47
+7764	FBgn0037328	RpL35A		Ribosomal protein L35A	-2.7	0.0	0.0	1.16	4.34
+7584	FBgn0020255	Ran		Ran	-2.7	0.0	0.0	0.36	2.82
+83	FBgn0020235	ATPsyngamma		ATP synthase, gamma subunit	-2.69	0.0	0.0	0.0	1.97
+11462	FBgn0015522	olf186-M		olf186-M	-2.69	0.0	0.0	0.0	1.91
+176	FBgn0000064	Ald1		Aldolase 1	-2.66	0.0	0.0	0.01	1.98
+7742	FBgn0035753	RpL18		Ribosomal protein L18	-2.66	0.0	0.0	0.96	4.01
+8628	FBgn0035601	Uev1A		Ubiquitin-conjugating enzyme variant 1A	-2.64	0.0	0.0	0.0	1.97
+4243	FBgn0032350	CG6287		\N	-2.64	0.0	0.0	0.0	1.97
+9695	FBgn0028737	eEF1beta		eukaryotic translation elongation factor 1 beta	-2.63	0.0	0.0	0.62	3.53
+11117	FBgn0011787	mRpL12		mitochondrial ribosomal protein L12	-2.63	0.0	0.0	0.0	1.94
+8465	FBgn0036928	Tom20		Translocase of outer membrane 20	-2.63	0.0	0.0	0.0	1.93
+443	FBgn0015019	CCT3		Chaperonin containing TCP1 subunit 3	-2.63	0.0	0.0	0.0	1.98
+6677	FBgn0262782	Mdh1		Malate dehydrogenase 1	-2.63	0.0	0.0	0.09	2.24
+12192	FBgn0014391	sun		stunted	-2.62	0.0	0.0	0.0	1.87
+7454	FBgn0032596	Prosbeta4		Proteasome beta4 subunit	-2.61	0.0	0.0	0.0	1.9
+2818	FBgn0052267	CG32267		\N	-2.59	0.0	0.0	0.0	1.87
+1518	FBgn0040602	CG14545		\N	-2.59	0.0	0.0	0.0	1.9
+7735	FBgn0013325	RpL11		Ribosomal protein L11	-2.59	0.0	0.0	0.55	3.26
+81	FBgn0028342	ATPsyndelta		ATP synthase, delta subunit	-2.59	0.0	0.0	0.0	1.92
+7809	FBgn0003942	RpS27A		Ribosomal protein S27A	-2.58	0.0	0.0	1.49	4.49
+6658	FBgn0039972	Marf1		Meiosis regulator and mRNA stability factor 1	-2.58	0.0	0.0	0.03	1.4
+6	FBgn0250848	26-29-p		26-29kD-proteinase	-2.57	0.0	0.0	0.38	2.93
+7761	FBgn0039406	RpL34a		Ribosomal protein L34a	-2.57	0.0	0.0	0.09	2.13
+11345	FBgn0004177	mts		microtubule star	-2.56	0.0	0.0	0.06	2.02
+7437	FBgn0033635	Prip		Prip	-2.56	0.0	0.0	0.01	1.87
+3367	FBgn0058045	CG40045		\N	-2.56	0.0	0.0	0.33	2.74
+5530	FBgn0000412	D1		D1 chromosomal protein	-2.55	0.0	0.0	0.0	1.81
+9798	FBgn0000615	exu		exuperantia	-2.55	0.0	0.0	0.0	1.83
+1237	FBgn0040660	CG13551		\N	-2.54	0.0	0.0	0.0	1.81
+258	FBgn0032859	Arpc2		Actin-related protein 2/3 complex, subunit 2	-2.54	0.0	0.0	0.02	1.93
+5056	FBgn0040773	COX7C		Cytochrome c oxidase subunit 7C	-2.54	0.0	0.0	0.0	1.84
+8442	FBgn0027359	Tim8		Tim8	-2.53	0.0	0.0	0.0	1.85
+79	FBgn0016691	ATPsynO		ATP synthase, oligomycin sensitivity conferring protein	-2.53	0.0	0.0	0.0	1.84
+9718	FBgn0037270	eIF3f1		eukaryotic translation initiation factor 3 subunit f1	-2.53	0.0	0.0	0.0	1.85
+8286	FBgn0038746	Surf6		Surfeit 6	-2.53	0.0	0.0	0.0	1.79
+3737	FBgn0264503	CG43902		\N	-2.52	0.0	0.0	0.02	0.53
+9782	FBgn0061515	endos		endosulfine	-2.51	0.0	0.0	0.0	1.83
+8713	FBgn0262512	Vha14-1		Vacuolar H[+] ATPase 14kD subunit 1	-2.48	0.0	0.0	0.0	1.79
+4957	FBgn0029939	CG9650		\N	-2.47	0.0	0.0	0.03	0.62
+8274	FBgn0003607	Su(var)205		Suppressor of variegation 205	-2.47	0.0	0.0	0.0	1.78
+5754	FBgn0033879	Echs1		Enoyl-CoA hydratase, short chain 1	-2.46	0.0	0.0	0.0	1.8
+444	FBgn0032444	CCT4		Chaperonin containing TCP1 subunit 4	-2.46	0.0	0.0	0.0	1.78
+11469	FBgn0004882	orb		oo18 RNA-binding protein	-2.45	0.0	0.0	0.0	1.38
+8150	FBgn0003462	Sod1		Superoxide dismutase 1	-2.45	0.0	0.0	0.0	1.76
+10209	FBgn0052773	lncRNA:CR32773		IP05417p	-2.44	0.0	0.0	0.05	0.68
+7751	FBgn0037899	RpL24-like		Ribosomal protein L24-like	-2.44	0.0	0.0	0.0	1.77
+11079	FBgn0019686	lok		loki	-2.42	0.0	0.0	0.0	1.59
+7803	FBgn0015521	RpS21		Ribosomal protein S21	-2.41	0.0	0.0	0.93	3.63
+3379	FBgn0011824	CG4038		\N	-2.41	0.0	0.0	0.0	1.77
+7404	FBgn0032884	Pomp		Pomp	-2.4	0.0	0.0	0.0	1.67
+8383	FBgn0031030	Tao		Tao	-2.4	0.0	0.0	0.1	1.92
+7455	FBgn0029134	Prosbeta5		Proteasome beta5 subunit	-2.39	0.0	0.0	0.0	1.72
+10175	FBgn0034877	levy		levy	-2.38	0.0	0.0	0.0	1.65
+8467	FBgn0033357	Tom7		Translocase of outer membrane 7	-2.38	0.0	0.0	0.0	1.64
+4569	FBgn0032014	CG7840		\N	-2.38	0.0	0.0	0.0	1.72
+11344	FBgn0010431	mtrm		matrimony	-2.38	0.0	0.0	0.0	1.66
+5526	FBgn0284248	Cyt-c-p		Cytochrome c proximal	-2.38	0.0	0.0	0.25	2.41
+8012	FBgn0266666	Sem1		Suppressor of exocyst mutations 1	-2.36	0.0	0.0	0.0	1.67
+7790	FBgn0010265	RpS13		Ribosomal protein S13	-2.36	0.0	0.0	1.45	4.29
+2993	FBgn0053181	CG33181		\N	-2.35	0.0	0.0	0.1	1.64
+7338	FBgn0250906	Pgk		Phosphoglycerate kinase	-2.35	0.0	0.0	0.0	1.7
+7617	FBgn0002638	Rcc1		Regulator of chromosome condensation 1	-2.35	0.0	0.0	0.0	1.63
+7759	FBgn0285949	RpL31		Ribosomal protein L31	-2.34	0.0	0.0	1.44	4.3
+149	FBgn0036337	Adk2	AdenoK	Adenosine kinase 2	-2.34	0.0	0.0	0.0	1.66
+6151	FBgn0031459	HINT1	CG2862	histidine triad nucleotide binding protein 1	-2.34	0.0	0.0	0.0	1.64
+7835	FBgn0028694	Rpn11		Regulatory particle non-ATPase 11	-2.33	0.0	0.0	0.0	1.66
+8104	FBgn0023167	SmD3		Small ribonucleoprotein particle protein SmD3	-2.33	0.0	0.0	0.01	1.67
+7344	FBgn0010551	Phb2		Prohibitin 2	-2.33	0.0	0.0	0.0	1.67
+8027	FBgn0014879	Set		Set	-2.33	0.0	0.0	0.0	1.65
+9361	FBgn0000173	ben		bendless	-2.31	0.0	0.0	0.16	2.11
+11789	FBgn0021765	scu		scully	-2.31	0.0	0.0	0.0	1.65
+7739	FBgn0017579	RpL14		Ribosomal protein L14	-2.31	0.0	0.0	1.73	4.42
+7453	FBgn0026380	Prosbeta3		Proteasome beta3 subunit	-2.3	0.0	0.0	0.0	1.59
+7445	FBgn0004066	Prosalpha4		Proteasome alpha4 subunit	-2.3	0.0	0.0	0.0	1.61
+4670	FBgn0037624	CG8223		\N	-2.3	0.0	0.0	0.0	1.62
+6316	FBgn0001248	Idh		Isocitrate dehydrogenase	-2.29	0.0	0.0	0.02	1.69
+5057	FBgn0263911	COX8		Cytochrome c oxidase subunit 8	-2.29	0.0	0.0	0.0	1.55
+7711	FBgn0025638	Roc1a		Regulator of cullins 1a	-2.29	0.0	0.0	0.01	1.62
+7796	FBgn0034743	RpS16		Ribosomal protein S16	-2.28	0.0	0.0	1.83	4.44
+11423	FBgn0026196	nop5		nop5	-2.28	0.0	0.0	0.0	1.58
+8717	FBgn0283535	Vha26		Vacuolar H[+]-ATPase 26kD subunit	-2.28	0.0	0.0	0.21	2.17
+446	FBgn0027329	CCT6		Chaperonin containing TCP1 subunit 6	-2.28	0.0	0.0	0.04	1.66
+9688	FBgn0011586	e(r)		enhancer of rudimentary	-2.27	0.0	0.0	0.0	1.56
+8466	FBgn0016041	Tom40		Translocase of outer membrane 40	-2.27	0.0	0.0	0.0	1.59
+8597	FBgn0250814	UQCR-C2		Ubiquinol-cytochrome c reductase core protein 2	-2.27	0.0	0.0	0.01	1.63
+5678	FBgn0024558	Dph5		Diphthamide methyltransferase	-2.26	0.0	0.0	0.0	1.58
+7040	FBgn0031145	Ntf-2		Nuclear transport factor-2	-2.26	0.0	0.0	0.04	1.68
+5050	FBgn0031830	COX5B		Cytochrome c oxidase subunit 5B	-2.26	0.0	0.0	0.02	1.61
+10095	FBgn0038476	kuk		kugelkern	-2.25	0.0	0.0	0.0	1.51
+7166	FBgn0034259	P32		P32	-2.25	0.0	0.0	0.0	1.6
+9908	FBgn0015229	glec		gliolectin	-2.24	0.0	0.0	0.71	2.98
+6444	FBgn0027338	Kap-alpha3		karyopherin alpha3	-2.24	0.0	0.0	0.02	1.63
+8000	FBgn0010638	Sec61beta		Sec61 beta subunit	-2.24	0.0	0.0	0.14	2.0
+8704	FBgn0029687	Vap33		VAMP-associated protein 33kDa	-2.24	0.0	0.0	0.26	2.14
+445	FBgn0010621	CCT5		Chaperonin containing TCP1 subunit 5	-2.23	0.0	0.0	0.0	1.6
+4799	FBgn0033691	CG8860		\N	-2.23	0.0	0.0	0.02	1.6
+8718	FBgn0022097	Vha36-1		Vacuolar H[+] ATPase 36kD subunit 1	-2.23	0.0	0.0	0.0	1.56
+7811	FBgn0030136	RpS28b		Ribosomal protein S28b	-2.23	0.0	0.0	1.08	3.74
+7780	FBgn0261602	RpL8		Ribosomal protein L8	-2.23	0.0	0.0	1.56	4.27
+7142	FBgn0017561	Ork1		Open rectifier K[+] channel 1	-2.23	0.0	0.0	0.02	1.23
+7339	FBgn0014869	Pglym78		Phosphoglyceromutase 78	-2.22	0.0	0.0	0.02	1.63
+6751	FBgn0026409	Mpcp2		Mitochondrial phosphate carrier protein 2	-2.22	0.0	0.0	0.02	1.62
+1724	FBgn0030174	CG15312		\N	-2.22	0.0	0.0	0.02	1.02
+8721	FBgn0005671	Vha55		Vacuolar H[+]-ATPase 55kD subunit	-2.22	0.0	0.0	0.32	2.39
+7741	FBgn0029897	RpL17		Ribosomal protein L17	-2.22	0.0	0.0	1.98	4.66
+5935	FBgn0038149	GILT1		Gamma-interferon-inducible lysosomal thiol reductase 1	-2.21	0.0	0.0	0.07	1.77
+7444	FBgn0261394	Prosalpha3		Proteasome alpha3 subunit	-2.21	0.0	0.0	0.01	1.56
+9896	FBgn0005695	gcl		germ cell-less	-2.2	0.0	0.0	0.01	1.53
+9576	FBgn0250837	dUTPase		Deoxyuridine triphosphatase	-2.2	0.0	0.0	0.0	1.54
+6856	FBgn0029868	ND-B16.6		NADH dehydrogenase (ubiquinone) B16.6 subunit	-2.19	0.0	0.0	0.0	1.53
+8105	FBgn0261790	SmE		Small ribonucleoprotein particle protein SmE	-2.18	0.0	0.0	0.0	1.51
+6001	FBgn0030932	Ggt-1		gamma-glutamyl transpeptidase	-2.17	0.0	0.0	0.0	1.48
+7789	FBgn0286213	RpS12		Ribosomal protein S12	-2.17	0.0	0.0	1.67	4.17
+8590	FBgn0086691	UK114		UK114	-2.17	0.0	0.0	0.0	1.49
+442	FBgn0030086	CCT2		Chaperonin containing TCP1 subunit 2	-2.16	0.0	0.0	0.27	2.07
+12454	FBgn0259789	zld		zelda	-2.16	0.0	0.0	0.0	1.37
+9327	FBgn0031977	baf		barrier to autointegration factor	-2.16	0.0	0.0	0.0	1.49
+11479	FBgn0003023	otu		ovarian tumor	-2.16	0.0	0.0	0.0	1.24
+1999	FBgn0038043	CG17202		\N	-2.15	0.0	0.0	0.0	1.46
+10345	FBgn0264384	lncRNA:CR43836		Isoform 2 of Metallophosphoesterase 1 homolog	-2.15	0.0	0.0	0.57	1.11
+232	FBgn0013749	Arf102F		ADP ribosylation factor at 102F	-2.15	0.0	0.0	0.05	1.65
+6860	FBgn0032511	ND-B22		NADH dehydrogenase (ubiquinone) B22 subunit	-2.15	0.0	0.0	0.0	1.49
+441	FBgn0003676	CCT1		Chaperonin containing TCP1 subunit 1	-2.15	0.0	0.0	0.0	1.52
+8725	FBgn0285910	VhaAC39-1		Vacuolar H[+] ATPase AC39 subunit 1	-2.15	0.0	0.0	0.0	1.5
+7793	FBgn0034138	RpS15		Ribosomal protein S15	-2.14	0.0	0.0	1.97	4.51
+7446	FBgn0016697	Prosalpha5		Proteasome alpha5 subunit	-2.13	0.0	0.0	0.0	1.46
+5977	FBgn0036428	Gbs-70E		Glycogen binding subunit 70E	-2.13	0.0	0.0	0.04	1.55
+7755	FBgn0035422	RpL28		Ribosomal protein L28	-2.12	0.0	0.0	1.67	4.23
+5015	FBgn0038196	CG9922		\N	-2.12	0.0	0.0	0.0	1.46
+7743	FBgn0010409	RpL18A		Ribosomal protein L18A	-2.11	0.0	0.0	2.12	4.62
+7923	FBgn0261791	SNRPG		Small nuclear ribonucleoprotein G	-2.11	0.0	0.0	0.0	1.43
+2158	FBgn0034403	CG18190		\N	-2.11	0.0	0.0	0.0	1.42
+8593	FBgn0030733	UQCR-14		Ubiquinol-cytochrome c reductase 14 kDa subunit	-2.11	0.0	0.0	0.0	1.39
+11892	FBgn0041721	snRNA:U12		Isoform A of Nuclear pore complex protein Nup98-Nup96	-2.1	0.0	0.0	0.0	0.46
+5527	FBgn0035600	Cyt-c1		Cytochrome c1	-2.1	0.0	0.0	0.02	1.5
+6213	FBgn0014857	His3.3A		Histone H3.3A	-2.1	0.0	0.0	0.01	1.45
+7447	FBgn0250843	Prosalpha6		Proteasome alpha6 subunit	-2.1	0.0	0.0	0.0	1.41
+11725	FBgn0003285	rst		roughest	-2.1	0.0	0.0	0.0	0.67
+7520	FBgn0029133	REG		Proteasome regulator gamma	-2.09	0.0	0.0	0.0	1.44
+7787	FBgn0285947	RpS10b		Ribosomal protein S10b	-2.09	0.0	0.0	1.83	4.37
+8595	FBgn0034245	UQCR-6.4		Ubiquinol-cytochrome c reductase 6.4 kDa subunit	-2.08	0.0	0.0	0.0	1.4
+11750	FBgn0024188	san		separation anxiety	-2.08	0.0	0.0	0.0	1.42
+1678	FBgn0034398	CG15098		\N	-2.08	0.0	0.0	0.01	1.45
+11196	FBgn0029979	mahe		maheshvara	-2.08	0.0	0.0	0.04	1.41
+11294	FBgn0026252	msk		moleskin	-2.07	0.0	0.0	0.01	1.42
+5011	FBgn0030740	CG9917		\N	-2.07	0.0	0.0	0.0	1.39
+6832	FBgn0031228	ND-15		NADH dehydrogenase (ubiquinone) 15 kDa subunit	-2.07	0.0	0.0	0.0	1.39
+2091	FBgn0037890	CG17734		\N	-2.06	0.0	0.0	0.0	1.43
+8441	FBgn0267976	Tim23		Translocase of inner mitochondrial membrane 23	-2.06	0.0	0.0	0.0	1.41
+6868	FBgn0029148	NHP2		NHP2	-2.06	0.0	0.0	0.01	1.4
+556	FBgn0032746	CG10470		\N	-2.06	0.0	0.0	0.0	1.37
+11801	FBgn0003360	sesB		stress-sensitive B	-2.06	0.0	0.0	0.8	3.05
+11863	FBgn0037810	sle		slender lobes	-2.06	0.0	0.0	0.27	1.98
+5690	FBgn0028408	Drep2		DNA fragmentation factor-related protein 2	-2.05	0.0	0.0	0.0	1.36
+7451	FBgn0023174	Prosbeta2		Proteasome beta2 subunit	-2.05	0.0	0.0	0.0	1.4
+7784	FBgn0002593	RpLP1		Ribosomal protein LP1	-2.05	0.0	0.0	3.73	5.78
+8596	FBgn0038271	UQCR-C1		Ubiquinol-cytochrome c reductase core protein 1	-2.04	0.0	0.0	0.0	1.4
+8723	FBgn0263598	Vha68-2		Vacuolar H[+] ATPase 68 kDa subunit 2	-2.03	0.0	0.0	0.13	1.71
+7318	FBgn0010741	Pfdn2		Prefoldin 2	-2.03	0.0	0.0	0.0	1.36
+7450	FBgn0010590	Prosbeta1		Proteasome beta1 subunit	-2.03	0.0	0.0	0.0	1.38
+1369	FBgn0031677	CG14036		\N	-2.03	0.0	0.0	0.0	1.36
+7794	FBgn0010198	RpS15Aa		Ribosomal protein S15Aa	-2.03	0.0	0.0	1.55	4.0
+126	FBgn0027493	AdSS		Adenylosuccinate Synthetase	-2.02	0.0	0.0	0.01	1.36
+6317	FBgn0027291	Idh3a		Isocitrate dehydrogenase 3a	-2.02	0.0	0.0	0.03	1.44
+1193	FBgn0026879	CG13364		\N	-2.02	0.0	0.0	0.0	1.37
+9709	FBgn0261609	eIF2alpha		eukaryotic translation initiation factor 2 subunit alpha	-2.01	0.0	0.0	0.04	1.49
+7069	FBgn0016687	Nurf-38		Nucleosome remodeling factor - 38kD	-2.01	0.0	0.0	0.0	1.35
+7456	FBgn0002284	Prosbeta6		Proteasome beta6 subunit	-2.01	0.0	0.0	0.0	1.35
+8101	FBgn0262601	SmB		Small ribonucleoprotein particle protein SmB	-2.01	0.0	0.0	0.0	1.34
+4372	FBgn0038989	CG6937		\N	-2.0	0.0	0.0	0.0	1.34
+7802	FBgn0019936	RpS20		Ribosomal protein S20	-2.0	0.0	0.0	1.82	4.18
+1121	FBgn0032050	CG13096		\N	-2.0	0.0	0.0	0.0	1.35
+8433	FBgn0032988	Tif-IA		Tif-IA	-2.0	0.0	0.0	0.0	1.31
+5697	FBgn0038145	Droj2		DnaJ-like-2	-2.0	0.0	0.0	0.04	1.47
+6882	FBgn0260795	NaPi-III		Na[+]-dependent inorganic phosphate cotransporter type III	-2.0	0.0	0.0	0.0	1.32
+7570	FBgn0010333	Rac1		Rac1	-2.0	0.0	0.0	0.03	1.4
+11664	FBgn0003204	ras		raspberry	-1.99	0.0	0.0	0.0	1.32
+12358	FBgn0264848	vih		vihar	-1.99	0.0	0.0	0.0	1.34
+7633	FBgn0033906	ReepB		Receptor expression enhancing protein B	-1.99	0.0	0.0	0.05	1.49
+678	FBgn0039929	CG11076		\N	-1.99	0.0	0.0	0.0	1.32
+5911	FBgn0286222	Fum1		Fumarase 1	-1.99	0.0	0.0	0.01	1.39
+5981	FBgn0046114	Gclm		Glutamate-cysteine ligase modifier subunit	-1.99	0.0	0.0	0.0	1.33
+9698	FBgn0000559	eEF2		eukaryotic translation elongation factor 2	-1.99	0.0	0.0	0.58	2.64
+9857	FBgn0000927	fs(1)Ya		female sterile (1) Young arrest	-1.99	0.0	0.0	0.0	1.34
+5495	FBgn0033979	Cyp6a19		Cyp6a19	-1.98	0.0	0.0	0.0	1.33
+964	FBgn0033624	CG12384		\N	-1.98	0.0	0.0	0.03	1.42
+12166	FBgn0020248	stet		stem cell tumor	-1.98	0.0	0.0	0.0	1.36
+2863	FBgn0052473	CG32473		\N	-1.97	0.0	0.0	0.0	1.31
+7781	FBgn0015756	RpL9		Ribosomal protein L9	-1.97	0.0	0.0	1.57	3.94
+8112	FBgn0036272	Sms		Spermine synthase	-1.97	0.0	0.0	0.0	1.31
+7767	FBgn0261608	RpL37A		Ribosomal protein L37A	-1.96	0.0	0.0	1.36	3.76
+3134	FBgn0083968	CG34132		\N	-1.96	0.0	0.0	0.0	1.29
+7820	FBgn0039757	RpS7		Ribosomal protein S7	-1.96	0.0	0.0	2.15	4.51
+11324	FBgn0010438	mtSSB		mitochondrial single stranded DNA-binding protein	-1.96	0.0	0.0	0.0	1.34
+5917	FBgn0040372	G9a		G9a	-1.96	0.0	0.0	0.61	2.55
+1655	FBgn0035541	CG15019		\N	-1.95	0.0	0.0	0.0	1.31
+6995	FBgn0035370	Non2		Novel nucleolar protein 2	-1.95	0.0	0.0	0.0	1.28
+7269	FBgn0024841	Pcd		pterin-4a-carbinolamine dehydratase	-1.95	0.0	0.0	0.0	1.29
+7177	FBgn0005655	PCNA		Proliferating cell nuclear antigen	-1.95	0.0	0.0	0.0	1.28
+6265	FBgn0001226	Hsp27		Heat shock protein 27	-1.95	0.0	0.0	0.47	2.22
+11239	FBgn0264694	mgr		merry-go-round	-1.95	0.0	0.0	0.0	1.32
+11211	FBgn0025743	mbt		mushroom bodies tiny	-1.95	0.0	0.0	0.01	1.26
+7777	FBgn0005593	RpL7		Ribosomal protein L7	-1.94	0.0	0.0	2.19	4.55
+1329	FBgn0035165	CG13887		\N	-1.94	0.0	0.0	0.16	1.72
+12247	FBgn0003714	tko		technical knockout	-1.94	0.0	0.0	0.0	1.26
+12316	FBgn0037024	tzn		tenzing norgay	-1.94	0.0	0.0	0.01	1.33
+4970	FBgn0036661	CG9705		\N	-1.94	0.0	0.0	0.0	1.26
+9702	FBgn0026250	eIF1A		eukaryotic translation initiation factor 1A	-1.94	0.0	0.0	0.17	1.73
+7736	FBgn0034968	RpL12		Ribosomal protein L12	-1.94	0.0	0.0	1.57	3.94
+11676	FBgn0039644	rdog		red dog mine	-1.93	0.0	0.0	0.0	1.28
+5397	FBgn0035987	Cpsf5		Cleavage and polyadenylation specific factor 5	-1.93	0.0	0.0	0.0	1.29
+7448	FBgn0023175	Prosalpha7		Proteasome alpha7 subunit	-1.93	0.0	0.0	0.02	1.35
+1675	FBgn0034390	CG15093		\N	-1.92	0.0	0.0	0.0	1.3
+1822	FBgn0036538	CG15715		\N	-1.92	0.0	0.0	0.0	1.28
+447	FBgn0037632	CCT7		Chaperonin containing TCP1 subunit 7	-1.92	0.0	0.0	0.0	1.29
+177	FBgn0012036	Aldh		Aldehyde dehydrogenase	-1.91	0.0	0.0	0.0	1.27
+7850	FBgn0028687	Rpt1		Regulatory particle triple-A ATPase 1	-1.9	0.0	0.0	0.0	1.27
+7974	FBgn0004888	Scsalpha1		Succinyl-coenzyme A synthetase alpha subunit 1	-1.9	0.0	0.0	0.02	1.31
+6678	FBgn0262559	Mdh2		Malate dehydrogenase 2	-1.9	0.0	0.0	0.0	1.26
+448	FBgn0284436	CCT8		Chaperonin containing TCP1 subunit 8	-1.9	0.0	0.0	0.0	1.28
+7574	FBgn0026777	Rad23		Rad23	-1.9	0.0	0.0	0.13	1.56
+7981	FBgn0037873	SdhC		Succinate dehydrogenase, subunit C	-1.9	0.0	0.0	0.0	1.26
+9504	FBgn0000318	cl		clot	-1.89	0.0	0.0	0.01	1.26
+7443	FBgn0086134	Prosalpha2		Proteasome alpha2 subunit	-1.89	0.0	0.0	0.0	1.25
+6633	FBgn0030703	MSBP		membrane steroid binding protein	-1.89	0.0	0.0	0.1	1.51
+9171	FBgn0267037	asRNA:CR45481		RE13429p (Fragment)	-1.89	0.0	0.0	0.0	0.34
+8589	FBgn0035978	UGP		UDP-glucose pyrophosphorylase	-1.88	0.0	0.0	0.0	1.25
+6017	FBgn0283450	Glo1		Glyoxalase 1	-1.88	0.0	0.0	0.0	1.23
+234	FBgn0010348	Arf79F		ADP ribosylation factor at 79F	-1.88	0.0	0.0	0.42	2.29
+8898	FBgn0003884	alphaTub84B		alpha-Tubulin at 84B	-1.88	0.0	0.0	0.97	3.22
+6500	FBgn0002525	Lam		Lamin	-1.88	0.0	0.0	0.01	1.24
+8106	FBgn0000426	SmF		Small ribonucleoprotein particle protein SmF	-1.88	0.0	0.0	0.0	1.21
+7710	FBgn0011704	RnrS		Ribonucleoside diphosphate reductase small subunit	-1.87	0.0	0.0	0.0	1.15
+11209	FBgn0086912	mbm		mushroom body miniature	-1.87	0.0	0.0	0.02	1.25
+5873	FBgn0003062	Fib		Fibrillarin	-1.87	0.0	0.0	0.01	1.26
+6919	FBgn0032725	Nedd8		Nedd8	-1.87	0.0	0.0	0.0	1.21
+1502	FBgn0033000	CG14464		\N	-1.87	0.0	0.0	0.08	1.4
+10025	FBgn0001280	janA		janus A	-1.87	0.0	0.0	0.0	1.22
+163	FBgn0014455	Ahcy		Adenosylhomocysteinase	-1.87	0.0	0.0	0.0	1.24
+2812	FBgn0029882	CG3226		\N	-1.86	0.0	0.0	0.0	1.21
+10625	FBgn0266005	lncRNA:CR44779		Sodium channel protein	-1.86	0.0	0.0	0.07	0.7
+7540	FBgn0015789	Rab10		Rab10	-1.86	0.0	0.0	0.04	1.34
+8622	FBgn0011327	Uch-L5		Ubiquitin carboxy-terminal hydrolase L5	-1.85	0.0	0.0	0.0	1.19
+3805	FBgn0266101	CG44838		\N	-1.85	0.0	0.0	0.0	1.2
+6865	FBgn0011455	ND-SGDH		NADH dehydrogenase (ubiquinone) SGDH subunit	-1.85	0.0	0.0	0.0	1.21
+7752	FBgn0036825	RpL26		Ribosomal protein L26	-1.85	0.0	0.0	2.19	4.41
+10137	FBgn0010786	l(3)02640		lethal (3) 02640	-1.85	0.0	0.0	0.01	1.24
+12437	FBgn0265575	yin		yin	-1.85	0.0	0.0	0.06	1.33
+8445	FBgn0035083	Tina-1		Troponin C-akin-1	-1.84	0.0	0.0	0.0	1.21
+7792	FBgn0004404	RpS14b		Ribosomal protein S14b	-1.84	0.0	0.0	0.1	1.44
+7748	FBgn0010078	RpL23		Ribosomal protein L23	-1.84	0.0	0.0	2.38	4.59
+5182	FBgn0030054	Caf1-180		Chromatin assembly factor 1, p180 subunit	-1.84	0.0	0.0	0.18	1.42
+9717	FBgn0025582	eIF3e		eukaryotic translation initiation factor 3 subunit e	-1.84	0.0	0.0	0.0	1.23
+7284	FBgn0028325	Pdha		Pyruvate dehydrogenase E1 alpha subunit	-1.84	0.0	0.0	0.0	1.17
+7320	FBgn0038976	Pfdn5		Prefoldin 5	-1.84	0.0	0.0	0.0	1.2
+5926	FBgn0260743	GC1		Glutamate Carrier 1	-1.83	0.0	0.0	0.0	1.18
+6850	FBgn0034645	ND-B12		NADH dehydrogenase (ubiquinone) B12 subunit	-1.83	0.0	0.0	0.0	1.2
+4656	FBgn0034021	CG8180		\N	-1.83	0.0	0.0	0.61	2.69
+1299	FBgn0042092	CG13773		\N	-1.83	0.0	0.0	0.0	1.18
+7852	FBgn0028686	Rpt3		Regulatory particle triple-A ATPase 3	-1.83	0.0	0.0	0.01	1.2
+8385	FBgn0021795	Tapdelta		Translocon-associated protein delta	-1.83	0.0	0.0	0.42	2.26
+7471	FBgn0038519	Prx3		Peroxiredoxin 3	-1.82	0.0	0.0	0.0	1.19
+12420	FBgn0028554	x16		x16 splicing factor	-1.82	0.0	0.0	0.01	1.2
+5190	FBgn0000253	Cam		Calmodulin	-1.82	0.0	0.0	0.72	2.55
+8471	FBgn0284220	Top2		Topoisomerase 2	-1.82	0.0	0.0	0.0	1.15
+2245	FBgn0039869	CG1890		\N	-1.82	0.0	0.0	0.0	1.19
+6863	FBgn0085468	ND-MWFE		NADH dehydrogenase (ubiquinone) MWFE subunit	-1.82	0.0	0.0	0.0	1.17
+12456	FBgn0024177	zpg		zero population growth	-1.81	0.0	0.0	0.0	1.2
+5584	FBgn0263852	Dad1		Defender against apoptotic cell death 1	-1.81	0.0	0.0	0.0	1.17
+7595	FBgn0003205	Ras85D		Ras oncogene at 85D	-1.81	0.0	0.0	0.05	1.26
+7635	FBgn0010774	Ref1		RNA and export factor binding protein 1	-1.81	0.0	0.0	0.1	1.46
+5411	FBgn0004179	Csp		Cysteine string protein	-1.8	0.0	0.0	0.01	1.2
+3399	FBgn0069923	CG41128		\N	-1.8	0.0	0.0	0.0	1.16
+7856	FBgn0020369	Rpt6		Regulatory particle triple-A ATPase 6	-1.8	0.0	0.0	0.03	1.23
+6723	FBgn0029152	Mkrn1		Makorin 1	-1.8	0.0	0.0	0.02	1.23
+8102	FBgn0261933	SmD1		Small ribonucleoprotein particle protein SmD1	-1.8	0.0	0.0	0.0	1.17
+4567	FBgn0039697	CG7834		\N	-1.8	0.0	0.0	0.0	1.17
+170	FBgn0086254	Akr1B	CG6084	Aldo-keto reductase 1B	-1.8	0.0	0.0	0.03	1.23
+4154	FBgn0025700	CG5885		\N	-1.79	0.0	0.0	0.11	1.51
+8231	FBgn0035827	Srp9		Signal recognition particle 9	-1.79	0.0	0.0	0.0	1.17
+11207	FBgn0262732	mbf1		multiprotein bridging factor 1	-1.79	0.0	0.0	0.04	1.28
+8103	FBgn0261789	SmD2		Small ribonucleoprotein particle protein SmD2	-1.79	0.0	0.0	0.0	1.14
+6864	FBgn0021967	ND-PDSW		NADH dehydrogenase (ubiquinone) PDSW subunit	-1.79	0.0	0.0	0.0	1.14
+4342	FBgn0032400	CG6770		\N	-1.79	0.0	0.0	2.28	4.55
+7457	FBgn0250746	Prosbeta7		Proteasome beta7 subunit	-1.78	0.0	0.0	0.0	1.17
+4758	FBgn0033317	CG8635		\N	-1.78	0.0	0.0	0.01	1.17
+577	FBgn0037051	CG10565		\N	-1.78	0.0	0.0	0.0	1.16
+9933	FBgn0026238	gus		gustavus	-1.78	0.0	0.0	0.64	2.52
+5652	FBgn0024432	Dlc90F		Dynein light chain 90F	-1.78	0.0	0.0	0.0	1.13
+7572	FBgn0020618	Rack1		Receptor of activated protein kinase C 1	-1.77	0.0	0.0	1.71	3.87
+12332	FBgn0283478	und		uninitiated	-1.77	0.0	0.0	0.0	1.16
+7798	FBgn0010411	RpS18		Ribosomal protein S18	-1.77	0.0	0.0	2.63	4.72
+9596	FBgn0086251	del		deadlock	-1.76	0.0	0.0	0.0	1.1
+9819	FBgn0030241	feo		fascetto	-1.76	0.0	0.0	0.0	1.12
+867	FBgn0037652	CG11980		\N	-1.76	0.0	0.0	0.0	1.16
+9935	FBgn0260399	gwl		greatwall	-1.76	0.0	0.0	0.0	1.13
+96	FBgn0031992	Acbp1		Acyl-CoA binding protein 1	-1.76	0.0	0.0	0.0	1.13
+6999	FBgn0259937	Nop60B		Nucleolar protein at 60B	-1.75	0.0	0.0	1.06	3.11
+1695	FBgn0032732	EMC5	CG15168	ER membrane protein complex subunit 5	-1.75	0.0	0.0	0.0	1.13
+9738	FBgn0262734	eIF4H1		eukaryotic translation initiation factor 4H1	-1.75	0.0	0.0	0.24	1.61
+7854	FBgn0028685	Rpt4		Regulatory particle triple-A ATPase 4	-1.75	0.0	0.0	0.01	1.14
+1	FBgn0020238	14-3-3epsilon		14-3-3epsilon	-1.74	0.0	0.0	1.16	3.17
+11498	FBgn0265297	pAbp		poly(A) binding protein	-1.74	0.0	0.0	1.53	3.58
+8730	FBgn0028662	VhaPPA1-1		Vacuolar H[+] ATPase PPA1 subunit 1	-1.74	0.0	0.0	0.09	1.35
+5319	FBgn0287767	Cndp2		Cytosolic non-specific dipeptidase 2	-1.74	0.0	0.0	0.0	1.11
+7346	FBgn0031822	Phf5a		PHD finger protein 5a	-1.74	0.0	0.0	0.0	1.09
+11474	FBgn0003015	osk		oskar	-1.74	0.0	0.0	0.0	0.92
+5890	FBgn0029174	Fkbp59		FK506-binding protein 59kD	-1.74	0.0	0.0	0.0	1.12
+9627	FBgn0278604	dmt		dalmatian	-1.74	0.0	0.0	0.0	1.05
+2144	FBgn0036537	CG18081		\N	-1.73	0.0	0.0	0.0	1.12
+7987	FBgn0024509	Sec13		Secretory 13	-1.73	0.0	0.0	0.01	1.14
+6874	FBgn0027785	NP15.6		NP15.6	-1.73	0.0	0.0	0.0	1.1
+7508	FBgn0261987	Pxt		Peroxinectin-like	-1.73	0.0	0.0	0.0	1.1
+7844	FBgn0002787	Rpn8		Regulatory particle non-ATPase 8	-1.72	0.0	0.0	0.0	1.1
+7680	FBgn0036921	RhoGDI		RhoGDI	-1.72	0.0	0.0	0.05	1.22
+8606	FBgn0015321	Ubc4		Ubiquitin conjugating enzyme 4	-1.72	0.0	0.0	0.02	1.15
+2300	FBgn0032955	CG2201		\N	-1.72	0.0	0.0	0.0	1.07
+6447	FBgn0087013	Karybeta3		Karyopherin beta 3	-1.71	0.0	0.0	0.01	1.1
+4834	FBgn0040931	CG9034		\N	-1.71	0.0	0.0	0.0	1.05
+9724	FBgn0034654	eIF3k		eukaryotic translation initiation factor 3 subunit k	-1.71	0.0	0.0	0.0	1.11
+3330	FBgn0022343	CG3760		\N	-1.71	0.0	0.0	0.01	1.11
+11160	FBgn0038307	mRpS10		mitochondrial ribosomal protein S10	-1.7	0.0	0.0	0.0	1.1
+7841	FBgn0028690	Rpn5		Regulatory particle non-ATPase 5	-1.7	0.0	0.0	0.09	1.32
+6318	FBgn0038922	Idh3b		Isocitrate dehydrogenase 3b	-1.7	0.0	0.0	0.0	1.1
+7514	FBgn0036726	QIL1		QIL1	-1.7	0.0	0.0	0.0	1.09
+7845	FBgn0028691	Rpn9		Regulatory particle non-ATPase 9	-1.7	0.0	0.0	0.0	1.1
+8521	FBgn0020653	Trxr-1		Thioredoxin reductase-1	-1.7	0.0	0.0	0.01	1.06
+10120	FBgn0002031	l(2)37Cc		lethal (2) 37Cc	-1.7	0.0	0.0	0.0	1.09
+9328	FBgn0045866	bai		baiser	-1.7	0.0	0.0	0.11	1.35
+8599	FBgn0023143	Uba1		Ubiquitin activating enzyme 1	-1.69	0.0	0.0	0.03	1.15
+4369	FBgn0029733	CG6927		\N	-1.69	0.0	0.0	0.0	1.07
+4121	FBgn0039186	CG5746		\N	-1.69	0.0	0.0	0.14	1.38
+5296	FBgn0062442	Cisd2		CDGSH iron sulfur domain 2	-1.69	0.0	0.0	0.0	1.09
+8018	FBgn0011710	Septin1	Sep1	Septin 1	-1.68	0.0	0.0	0.01	1.08
+9635	FBgn0015379	dod		dodo	-1.68	0.0	0.0	0.0	1.06
+265	FBgn0037834	Art1		Arginine methyltransferase 1	-1.68	0.0	0.0	0.0	1.08
+11193	FBgn0002736	mago		mago nashi	-1.68	0.0	0.0	0.0	1.08
+7664	FBgn0014020	Rho1		Rho1	-1.68	0.0	0.0	0.38	1.95
+5785	FBgn0266711	EloC		Elongin C	-1.67	0.0	0.0	0.0	1.09
+2372	FBgn0023528	CG2924		\N	-1.67	0.0	0.0	0.26	1.63
+4425	FBgn0035878	CG7182		\N	-1.67	0.0	0.0	0.0	1.07
+118	FBgn0000042	Act5C		Actin 5C	-1.67	0.0	0.0	1.54	3.7
+8660	FBgn0083124	Uhg4		IP12842p (Fragment)	-1.67	0.0	0.0	0.0	0.93
+698	FBgn0030519	CG11151		\N	-1.67	0.0	0.0	0.0	1.05
+1109	FBgn0026566	CG1307		\N	-1.67	0.0	0.0	0.0	1.04
+6705	FBgn0025814	Mgstl		Microsomal glutathione S-transferase-like	-1.67	0.0	0.0	0.0	1.07
+5883	FBgn0039969	Fis1		Fission, mitochondrial 1	-1.67	0.0	0.0	0.16	1.45
+7523	FBgn0021906	RFeSP		Rieske iron-sulfur protein	-1.66	0.0	0.0	0.11	1.34
+6498	FBgn0011638	La		La autoantigen-like	-1.66	0.0	0.0	0.01	1.09
+5523	FBgn0264294	Cyt-b5		Cytochrome b5	-1.66	0.0	0.0	0.08	1.24
+5065	FBgn0046776	CR14033		Uncharacterized protein, isoform A	-1.66	0.0	0.0	0.0	1.06
+7754	FBgn0285948	RpL27A		Ribosomal protein L27A	-1.66	0.0	0.0	3.1	4.85
+5204	FBgn0042134	Capr		Caprin	-1.66	0.0	0.0	0.04	1.14
+6873	FBgn0266570	NO66		Nucleolar protein 66	-1.66	0.0	0.0	0.0	1.05
+5769	FBgn0000566	Eip55E		Ecdysone-induced protein 55E	-1.66	0.0	0.0	0.0	1.05
+7740	FBgn0028697	RpL15		Ribosomal protein L15	-1.65	0.0	0.0	2.14	4.09
+4405	FBgn0038099	CG7091		\N	-1.65	0.0	0.0	0.0	1.04
+9720	FBgn0029629	eIF3g1		eukaryotic translation initiation factor 3 subunit g1	-1.65	0.0	0.0	0.03	1.11
+8063	FBgn0029823	Shmt		Serine hydroxymethyl transferase	-1.65	0.0	0.0	0.15	1.28
+900	FBgn0033209	CG12107		\N	-1.65	0.0	0.0	0.0	1.06
+7744	FBgn0285950	RpL19		Ribosomal protein L19	-1.65	0.0	0.0	2.49	4.4
+1416	FBgn0031040	CG14210		\N	-1.64	0.0	0.0	0.0	1.02
+7114	FBgn0014184	Oda		Ornithine decarboxylase antizyme	-1.64	0.0	0.0	1.07	2.93
+9339	FBgn0040239	bc10		bc10	-1.64	0.0	0.0	0.0	1.01
+6584	FBgn0029833	MCTS1		Malignant T cell amplified sequence 1	-1.64	0.0	0.0	0.0	1.03
+7539	FBgn0285937	Rab1		Rab1	-1.64	0.0	0.0	0.32	1.81
+4075	FBgn0034902	CG5532		\N	-1.63	0.0	0.0	0.0	1.02
+7321	FBgn0036918	Pfdn6		Prefoldin 6	-1.63	0.0	0.0	0.0	1.03
+11393	FBgn0261479	nero		nero	-1.63	0.0	0.0	0.0	1.03
+5216	FBgn0038925	Cchl		Cytochrome c heme lyase	-1.63	0.0	0.0	0.0	1.03
+9927	FBgn0261278	grp		grapes	-1.63	0.0	0.0	0.44	1.98
+11184	FBgn0032236	mRpS7		mitochondrial ribosomal protein S7	-1.63	0.0	0.0	0.0	1.02
+6884	FBgn0031020	Naa15-16		N(alpha)-acetyltransferase 15/16	-1.63	0.0	0.0	0.0	1.01
+11891	FBgn0083987	snRNA:U11		Uncharacterized protein, isoform B	-1.63	0.0	0.0	0.0	0.45
+3354	FBgn0036824	CG3902		\N	-1.63	0.0	0.0	0.06	1.18
+6160	FBgn0030301	HP5		Heterochromatin protein 5	-1.63	0.0	0.0	0.14	1.26
+854	FBgn0014427	CG11899		\N	-1.63	0.0	0.0	0.0	1.04
+7864	FBgn0030711	Rrp47		Ribosomal RNA processing 47	-1.62	0.0	0.0	0.0	1.02
+6835	FBgn0030718	ND-20		NADH dehydrogenase (ubiquinone) 20 kDa subunit	-1.62	0.0	0.0	0.0	0.98
+5862	FBgn0035529	Fdx2		Ferredoxin 2	-1.62	0.0	0.0	0.0	1.0
+4158	FBgn0038400	CG5903		\N	-1.62	0.0	0.0	0.0	1.03
+4204	FBgn0040985	CG6115		\N	-1.62	0.0	0.0	0.0	1.02
+8614	FBgn0086558	Ubi-p5E		Ubiquitin-5E	-1.62	0.0	0.0	0.12	1.32
+9411	FBgn0032105	borr		borealin-related	-1.61	0.0	0.0	0.0	0.98
+11368	FBgn0266347	nAChRalpha4		nicotinic Acetylcholine Receptor alpha4	-1.61	0.0	0.0	0.02	0.54
+8206	FBgn0261270	Sps1	SelD	Selenophosphate synthetase 1	-1.61	0.0	0.0	0.0	1.01
+10088	FBgn0040890	ksh		kish	-1.61	0.0	0.0	0.0	1.02
+7198	FBgn0035438	PHGPx		PHGPx	-1.61	0.0	0.0	0.0	1.01
+340	FBgn0015602	BEAF-32		Boundary element-associated factor of 32kD	-1.61	0.0	0.0	0.0	0.99
+1723	FBgn0030183	Ypel	CG15309	Yippee-like	-1.61	0.0	0.0	0.12	0.64
+9713	FBgn0034237	eIF3b		eukaryotic translation initiation factor 3 subunit b	-1.61	0.0	0.0	0.01	1.06
+541	FBgn0033021	CG10417		\N	-1.61	0.0	0.0	0.12	1.27
+8088	FBgn0041186	Slbp		Stem-loop binding protein	-1.6	0.0	0.0	0.0	0.96
+2040	FBgn0039977	Spf30	CG17454	Splicing factor 30	-1.6	0.0	0.0	0.18	1.39
+155	FBgn0005694	Aef1		Adult enhancer factor 1	-1.6	0.0	0.0	0.02	1.01
+7609	FBgn0260944	Rbp1		RNA-binding protein 1	-1.6	0.0	0.0	0.12	1.31
+3846	FBgn0029929	CG4593		\N	-1.6	0.0	0.0	0.01	0.99
+1068	FBgn0037755	CG12945		\N	-1.6	0.0	0.0	0.03	1.1
+6313	FBgn0026415	Idgf4		Imaginal disc growth factor 4	-1.6	0.0	0.0	0.0	0.96
+8372	FBgn0023477	Taldo		Transaldolase	-1.6	0.0	0.0	0.07	1.17
+11723	FBgn0022981	rpk		ripped pocket	-1.6	0.0	0.0	0.0	1.02
+7760	FBgn0002626	RpL32		Ribosomal protein L32	-1.59	0.0	0.0	2.0	3.88
+9457	FBgn0038478	cal1		chromosome alignment defect 1	-1.59	0.0	0.0	0.0	0.95
+7762	FBgn0037686	RpL34b		Ribosomal protein L34b	-1.59	0.0	0.0	1.64	3.61
+9902	FBgn0033081	geminin		geminin	-1.59	0.0	0.0	0.0	0.94
+770	FBgn0029715	CG11444		\N	-1.59	0.0	0.0	0.0	0.99
+763	FBgn0024364	CG11417		\N	-1.59	0.0	0.0	0.01	0.92
+2100	FBgn0040899	CG17776		\N	-1.58	0.0	0.0	0.0	0.98
+12347	FBgn0283442	vas		vasa	-1.58	0.0	0.0	0.0	0.97
+9478	FBgn0029092	ced-6		ced-6	-1.58	0.0	0.0	0.19	1.46
+8621	FBgn0010288	Uch		Ubiquitin carboxy-terminal hydrolase	-1.58	0.0	0.0	0.01	0.99
+7179	FBgn0036580	PDCD-5		Programmed Cell Death 5	-1.58	0.0	0.0	0.0	0.99
+7842	FBgn0028689	Rpn6		Regulatory particle non-ATPase 6	-1.58	0.0	0.0	0.02	1.02
+6258	FBgn0001220	Hsc70-5		Heat shock protein cognate 5	-1.58	0.0	0.0	0.0	1.01
+7746	FBgn0015288	RpL22		Ribosomal protein L22	-1.58	0.0	0.0	0.56	2.2
+44	FBgn0033351	AIMP1		aaRS-interacting multifunctional protein 1	-1.57	0.0	0.0	0.0	0.98
+7797	FBgn0005533	RpS17		Ribosomal protein S17	-1.57	0.0	0.0	1.51	3.47
+6502	FBgn0032949	Lamp1		Lamp1	-1.57	0.0	0.0	0.52	2.14
+4386	FBgn0039233	CG7006		\N	-1.57	0.0	0.0	0.0	0.96
+7804	FBgn0033912	RpS23		Ribosomal protein S23	-1.57	0.0	0.0	2.38	4.26
+11165	FBgn0051450	mRpS18A		mitochondrial ribosomal protein S18A	-1.57	0.0	0.0	0.0	0.97
+8844	FBgn0028516	ZnT35C		Zinc transporter 35C	-1.57	0.0	0.0	0.0	0.94
+6851	FBgn0033570	ND-B14		NADH dehydrogenase (ubiquinone) B14 subunit	-1.57	0.0	0.0	0.0	0.96
+11204	FBgn0038965	mats		mob as tumor suppressor	-1.57	0.0	0.0	0.04	1.1
+537	FBgn0033019	CG10395		\N	-1.57	0.0	0.0	0.06	1.07
+7753	FBgn0039359	RpL27		Ribosomal protein L27	-1.56	0.0	0.0	2.28	4.09
+6031	FBgn0004507	GlyP		Glycogen phosphorylase	-1.56	0.0	0.0	0.0	0.97
+7750	FBgn0032518	RpL24		Ribosomal protein L24	-1.56	0.0	0.0	2.46	4.28
+7830	FBgn0050499	Rpe		Ribulose-5-phosphate-3-epimerase	-1.56	0.0	0.0	0.0	0.98
+788	FBgn0035524	CG11583		\N	-1.56	0.0	0.0	0.0	0.97
+4178	FBgn0036998	CG5969		\N	-1.55	0.0	0.0	0.0	0.97
+7276	FBgn0030520	Pdcd4		Programmed cell death 4	-1.55	0.0	0.0	0.78	2.3
+6315	FBgn0013763	Idgf6		Imaginal disc growth factor 6	-1.55	0.0	0.0	0.01	1.0
+2844	FBgn0052409	CG32409		\N	-1.55	0.0	0.0	0.01	0.97
+893	FBgn0035228	CG12091		\N	-1.55	0.0	0.0	0.0	0.96
+11575	FBgn0003124	polo		polo	-1.55	0.0	0.0	0.0	0.99
+6852	FBgn0025839	ND-B14.5A		NADH dehydrogenase (ubiquinone) B14.5 A subunit	-1.55	0.0	0.0	0.02	0.96
+6597	FBgn0040339	MED22		Mediator complex subunit 22	-1.55	0.0	0.0	0.0	0.94
+1195	FBgn0025633	CG13366		\N	-1.55	0.0	0.0	0.5	1.79
+9630	FBgn0022338	dnk		deoxyribonucleoside kinase	-1.55	0.0	0.0	0.0	0.92
+12290	FBgn0030502	tth		toothrin	-1.55	0.0	0.0	0.13	1.18
+4071	FBgn0039163	CG5515		\N	-1.55	0.0	0.0	0.0	0.96
+4146	FBgn0015338	CG5861		\N	-1.54	0.0	0.0	0.01	0.98
+8225	FBgn0038808	Srp14		Signal recognition particle 14	-1.54	0.0	0.0	0.0	0.93
+7843	FBgn0028688	Rpn7		Regulatory particle non-ATPase 7	-1.54	0.0	0.0	0.0	0.95
+7246	FBgn0020513	Paics		PAICS bifunctional enzyme	-1.54	0.0	0.0	0.1	1.04
+9515	FBgn0000339	cni		cornichon	-1.54	0.0	0.0	0.0	0.95
+12442	FBgn0022959	yps		ypsilon schachtel	-1.53	0.0	0.0	0.09	1.18
+7000	FBgn0037137	Nopp140		Nopp140	-1.53	0.0	0.0	0.01	0.96
+5196	FBgn0015614	CanB2		Calcineurin B2	-1.53	0.0	0.0	0.24	1.53
+8617	FBgn0031057	Ubqn		Ubiquilin	-1.53	0.0	0.0	0.01	0.96
+11558	FBgn0086706	pix		pixie	-1.53	0.0	0.0	0.02	1.0
+8414	FBgn0011289	TfIIA-L		Transcription factor IIA L	-1.53	0.0	0.0	0.0	0.94
+5311	FBgn0024814	Clc		Clathrin light chain	-1.53	0.0	0.0	0.05	1.07
+0	FBgn0010339	128up		upstream of RpIII128	-1.53	0.0	0.0	0.0	0.97
+56	FBgn0039132	AP-1sigma		Adaptor Protein complex 1, sigma subunit	-1.53	0.0	0.0	0.05	1.06
+7011	FBgn0031381	Npc2a		Niemann-Pick type C-2a	-1.53	0.0	0.0	0.11	1.24
+5612	FBgn0086687	Desat1		Desaturase 1	-1.52	0.0	0.0	0.34	1.68
+3163	FBgn0085229	CG34200		\N	-1.52	0.0	0.0	0.0	0.93
+11351	FBgn0002873	mud		mushroom body defect	-1.52	0.0	0.0	0.0	0.86
+11163	FBgn0033907	mRpS16		mitochondrial ribosomal protein S16	-1.52	0.0	0.0	0.0	0.91
+7413	FBgn0004103	Pp1-87B		Protein phosphatase 1 at 87B	-1.52	0.0	0.0	0.14	1.29
+252	FBgn0011742	Arp2		Actin-related protein 2	-1.52	0.0	0.0	0.15	1.28
+6092	FBgn0001142	Gs1		Glutamine synthetase 1	-1.52	0.0	0.0	0.0	0.9
+11105	FBgn0024556	mEFTu1		mitochondrial translation elongation factor Tu 1	-1.52	0.0	0.0	0.0	0.94
+9692	FBgn0087008	e(y)3		enhancer of yellow 3	-1.52	0.0	0.0	0.26	1.48
+11467	FBgn0264389	opm		opossum	-1.52	0.0	0.0	0.0	0.95
+5434	FBgn0015625	CycB3		Cyclin B3	-1.52	0.0	0.0	0.0	0.91
+11220	FBgn0026206	mei-P26		meiotic P26	-1.52	0.0	0.0	1.36	2.84
+8011	FBgn0031670	SelT		Selenoprotein T	-1.52	0.0	0.0	0.01	0.94
+5240	FBgn0016131	Cdk4		Cyclin-dependent kinase 4	-1.52	0.0	0.0	0.0	0.93
+2985	FBgn0053156	CG33156		\N	-1.51	0.0	0.0	0.0	0.92
+9723	FBgn0027619	eIF3j		eukaryotic translation initiation factor 3 subunit j	-1.51	0.0	0.0	0.09	1.18
+3892	FBgn0038739	CG4686		\N	-1.51	0.0	0.0	0.0	0.94
+8172	FBgn0037723	SpdS		Spermidine Synthase	-1.51	0.0	0.0	0.01	0.92
+7832	FBgn0050410	Rpi		Ribose-5-phosphate isomerase	-1.51	0.0	0.0	0.0	0.95
+2095	FBgn0035425	CG17746		\N	-1.51	0.0	0.0	0.0	0.92
+4289	FBgn0032509	CG6523		\N	-1.51	0.0	0.0	0.0	0.93
+6830	FBgn0031684	ND-13A		NADH dehydrogenase (ubiquinone) 13 kDa A subunit	-1.51	0.0	0.0	0.0	0.93
+6834	FBgn0035046	ND-19		NADH dehydrogenase (ubiquinone) 19 kDa subunit	-1.51	0.0	0.0	0.0	0.93
+8415	FBgn0013347	TfIIA-S		Transcription-factor-IIA-S	-1.51	0.0	0.0	0.01	0.95
+7836	FBgn0028693	Rpn12		Regulatory particle non-ATPase 12	-1.51	0.0	0.0	0.01	0.92
+5634	FBgn0028743	Dhit		Double hit	-1.51	0.0	0.0	0.0	0.83
+9487	FBgn0000308	chic		chickadee	-1.51	0.0	0.0	0.72	2.33
+6596	FBgn0040020	MED21		Mediator complex subunit 21	-1.5	0.0	0.0	0.0	0.88
+5266	FBgn0000319	Chc		Clathrin heavy chain	-1.5	0.0	0.0	0.06	1.01
+7542	FBgn0015791	Rab14		Rab14	-1.5	0.0	0.0	0.03	0.97
+11681	FBgn0003231	ref(2)P		refractory to sigma P	-1.5	0.0	0.0	0.0	0.93
+5987	FBgn0004868	Gdi		GDP dissociation inhibitor	-1.5	0.0	0.0	0.13	1.27
+7749	FBgn0026372	RpL23A		Ribosomal protein L23A	-1.5	0.0	0.0	1.42	3.32
+5231	FBgn0010341	Cdc42		Cdc42	-1.49	0.0	0.0	0.03	0.98
+6181	FBgn0014189	Hel25E		Helicase at 25E	-1.49	0.0	0.0	0.37	1.73
+6994	FBgn0028473	Non1		Novel nucleolar protein 1	-1.49	0.0	0.0	0.04	0.98
+2044	FBgn0040010	CG17493		\N	-1.49	0.0	0.0	0.0	0.92
+7607	FBgn0030067	Rbm13		RNA-binding motif protein 13	-1.49	0.0	0.0	0.07	1.02
+1495	FBgn0029893	CG14442		\N	-1.49	0.0	0.0	0.13	1.15
+6090	FBgn0036820	Grx1		Glutaredoxin 1	-1.49	0.0	0.0	0.0	0.9
+6853	FBgn0031505	ND-B14.5B		NADH dehydrogenase (ubiquinone) B14.5 B subunit	-1.49	0.0	0.0	0.0	0.91
+253	FBgn0262716	Arp3		Actin-related protein 3	-1.49	0.0	0.0	0.0	0.91
+8024	FBgn0031497	SerRS		Seryl-tRNA synthetase	-1.48	0.0	0.0	0.0	0.92
+430	FBgn0026144	CBP		sarcoplasmic calcium-binding protein	-1.48	0.0	0.0	0.0	0.69
+7726	FBgn0003275	RpII18		RNA polymerase II 18kD subunit	-1.48	0.0	0.0	0.0	0.91
+6002	FBgn0011770	Gip		GIP-like	-1.48	0.0	0.0	0.0	0.87
+11095	FBgn0010602	lwr		lesswright	-1.48	0.0	0.0	0.0	0.9
+835	FBgn0036099	CG11811		\N	-1.48	0.0	0.0	0.0	0.9
+8151	FBgn0010213	Sod2		Superoxide dismutase 2 (Mn)	-1.47	0.0	0.0	0.0	0.88
+7834	FBgn0015283	Rpn10		Regulatory particle non-ATPase 10	-1.47	0.0	0.0	0.03	0.98
+1033	FBgn0031535	CG12795		\N	-1.47	0.0	0.0	0.0	0.88
+552	FBgn0033017	CG10465		\N	-1.47	0.0	0.0	0.02	0.93
+2118	FBgn0023537	CG17896		\N	-1.47	0.0	0.0	0.02	0.94
+599	FBgn0035592	CG10674		\N	-1.47	0.0	0.0	0.0	0.91
+2820	FBgn0047135	CG32276		\N	-1.46	0.0	0.0	0.45	1.89
+6992	FBgn0022069	Nnp-1		Nnp-1	-1.46	0.0	0.0	0.0	0.91
+8240	FBgn0015299	Ssb-c31a		Single stranded-binding protein c31A	-1.46	0.0	0.0	0.0	0.86
+6831	FBgn0047038	ND-13B		NADH dehydrogenase (ubiquinone) 13 kDa B subunit	-1.46	0.0	0.0	0.0	0.88
+1034	FBgn0037779	CG12811		\N	-1.46	0.0	0.0	0.0	0.9
+12289	FBgn0033378	tsu		tsunagi	-1.46	0.0	0.0	0.0	0.88
+6855	FBgn0033961	ND-B15		NADH dehydrogenase (ubiquinone) B15 subunit	-1.46	0.0	0.0	0.0	0.89
+7855	FBgn0028684	Rpt5		Regulatory particle triple-A ATPase 5	-1.46	0.0	0.0	0.0	0.9
+4129	FBgn0039207	Cftr	CG5789	CF transmembrane conductance regulator	-1.46	0.0	0.0	0.0	0.89
+943	FBgn0032620	CG12288		\N	-1.46	0.0	0.0	0.01	0.89
+6857	FBgn0001989	ND-B17		NADH dehydrogenase (ubiquinone) B17 subunit	-1.46	0.0	0.0	0.0	0.9
+4122	FBgn0034299	CG5757		\N	-1.46	0.0	0.0	0.0	0.88
+10145	FBgn0002283	l(3)73Ah		lethal (3) 73Ah	-1.45	0.0	0.0	0.0	0.87
+3699	FBgn0032138	CG4364		\N	-1.45	0.0	0.0	0.01	0.92
+11267	FBgn0002778	mnd		minidiscs	-1.45	0.0	0.0	0.3	1.59
+784	FBgn0086856	CG11555		\N	-1.45	0.0	0.0	0.0	0.86
+6746	FBgn0033773	Mos		Mos oncogene	-1.45	0.0	0.0	0.0	0.89
+11555	FBgn0266581	pit		pitchoune	-1.45	0.0	0.0	0.01	0.91
+6975	FBgn0030724	Nipsnap		Nipsnap	-1.45	0.0	0.0	0.01	0.89
+248	FBgn0038453	Arl6IP1		ADP-ribosylation factor-like 6 interacting protein 1	-1.45	0.0	0.0	0.0	0.87
+4326	FBgn0036058	CG6707		\N	-1.45	0.0	0.0	0.09	1.09
+11358	FBgn0033757	muskelin		muskelin	-1.45	0.0	0.0	0.0	0.89
+880	FBgn0035285	CG12025		\N	-1.45	0.0	0.0	0.01	0.93
+821	FBgn0030292	CG11752		\N	-1.45	0.0	0.0	0.0	0.87
+8053	FBgn0032640	Sgt		small glutamine-rich tetratricopeptide containing protein	-1.45	0.0	0.0	0.0	0.88
+5230	FBgn0011573	Cdc37		Cdc37	-1.44	0.0	0.0	0.03	0.93
+9584	FBgn0010316	dap		dacapo	-1.44	0.0	0.0	0.03	0.9
+11437	FBgn0021768	nudC		nudC	-1.44	0.0	0.0	0.0	0.88
+3799	FBgn0035969	CG4476		\N	-1.44	0.0	0.0	0.0	0.88
+7337	FBgn0003074	Pgi		Phosphoglucose isomerase	-1.44	0.0	0.0	0.0	0.87
+12310	FBgn0262801	twr		twisted bristles roughened eye	-1.44	0.0	0.0	0.07	1.07
+5237	FBgn0004106	Cdk1		Cyclin-dependent kinase 1	-1.44	0.0	0.0	0.0	0.86
+6201	FBgn0036815	HipHop		HP1-HOAP-interacting protein	-1.44	0.0	0.0	0.0	0.82
+7714	FBgn0014877	Roe1		Roe1	-1.44	0.0	0.0	0.0	0.88
+233	FBgn0013750	Arf51F		ADP ribosylation factor at 51F	-1.44	0.0	0.0	0.01	0.93
+7317	FBgn0031776	Pfdn1		Prefoldin 1	-1.44	0.0	0.0	0.0	0.89
+11564	FBgn0003114	plu		plutonium	-1.44	0.0	0.0	0.0	0.88
+2298	FBgn0035213	CG2199		\N	-1.44	0.0	0.0	0.0	0.87
+9455	FBgn0000251	cad		caudal	-1.44	0.0	0.0	0.0	0.87
+11482	FBgn0032197	ova		ovaries absent	-1.44	0.0	0.0	0.2	1.32
+10113	FBgn0022288	l(2)09851		lethal (2) 09851	-1.44	0.0	0.0	0.0	0.89
+1601	FBgn0026089	CG14817		\N	-1.44	0.0	0.0	0.0	0.86
+9726	FBgn0033902	eIF3m		eukaryotic translation initiation factor 3 subunit m	-1.44	0.0	0.0	0.09	1.11
+3357	FBgn0029873	CG3918		\N	-1.44	0.0	0.0	0.0	0.86
+8784	FBgn0046222	Wdr33		WD repeat domain 33	-1.43	0.0	0.0	0.0	0.89
+4501	FBgn0037087	CG7519		\N	-1.43	0.0	0.0	0.0	0.88
+11237	FBgn0035473	mge		maggie	-1.43	0.0	0.0	0.0	0.89
+645	FBgn0029969	CG10932		\N	-1.43	0.0	0.0	0.0	0.89
+4106	FBgn0032200	CG5676		\N	-1.42	0.0	0.0	0.0	0.85
+11875	FBgn0030018	slpr		slipper	-1.42	0.0	0.0	0.26	1.35
+11153	FBgn0030433	mRpL49		mitochondrial ribosomal protein L49	-1.42	0.0	0.0	0.0	0.86
+5211	FBgn0031148	Cbs		Cystathionine beta-synthase	-1.42	0.0	0.0	0.0	0.77
+7555	FBgn0031090	Rab35		Rab35	-1.42	0.0	0.0	0.45	1.79
+11190	FBgn0035640	mad2		mad2	-1.42	0.0	0.0	0.0	0.84
+3953	FBgn0030817	CG4991		\N	-1.42	0.0	0.0	0.34	1.7
+2846	FBgn0052428	CG32428		\N	-1.42	0.0	0.0	0.06	1.0
+4600	FBgn0035252	CG7970		\N	-1.42	0.0	0.0	0.0	0.85
+4062	FBgn0032429	CG5446		\N	-1.41	0.0	0.0	0.01	0.88
+4520	FBgn0032026	CG7627		\N	-1.41	0.0	0.0	0.0	0.86
+12167	FBgn0003525	stg		string	-1.41	0.0	0.0	1.03	2.69
+7757	FBgn0020910	RpL3		Ribosomal protein L3	-1.41	0.0	0.0	1.97	3.78
+7958	FBgn0035471	Sc2		Sc2	-1.41	0.0	0.0	0.0	0.87
+7851	FBgn0015282	Rpt2		Regulatory particle triple-A ATPase 2	-1.41	0.0	0.0	0.01	0.85
+11721	FBgn0011705	rost		rolling stone	-1.41	0.0	0.0	0.0	0.86
+6988	FBgn0020392	Nmt		N-myristoyl transferase	-1.41	0.0	0.0	0.0	0.85
+6839	FBgn0037001	ND-39		NADH dehydrogenase (ubiquinone) 39 kDa subunit	-1.41	0.0	0.0	0.01	0.87
+8292	FBgn0003660	Syb		Synaptobrevin	-1.4	0.0	0.0	0.1	1.1
+11151	FBgn0014023	mRpL47		mitochondrial ribosomal protein L47	-1.4	0.0	0.0	0.0	0.85
+846	FBgn0039303	CG11857		\N	-1.4	0.0	0.0	0.06	0.98
+5268	FBgn0010808	Chchd3		Coiled-coil-helix-coiled-coil-helix domain containing 3	-1.4	0.0	0.0	0.01	0.85
+5741	FBgn0062440	EMRE		Essential MCU regulator	-1.4	0.0	0.0	0.0	0.83
+8136	FBgn0265192	Snp		Snipper	-1.4	0.0	0.0	0.04	0.86
+10124	FBgn0267365	l(2)SH0834		lethal (2) SH0834	-1.4	0.0	0.0	0.0	0.87
+8443	FBgn0030480	Tim9a		Tim9a	-1.4	0.0	0.0	0.0	0.83
+62	FBgn0029879	APC7		Anaphase Promoting Complex subunit 7	-1.4	0.0	0.0	0.0	0.85
+5214	FBgn0036909	Ccdc58		Coiled-coil domain-containing 58	-1.4	0.0	0.0	0.0	0.85
+1964	FBgn0030321	CG1703		\N	-1.4	0.0	0.0	0.41	1.64
+5511	FBgn0031126	Cyp6v1		Cyp6v1	-1.39	0.0	0.0	0.47	1.78
+9721	FBgn0022023	eIF3h		eukaryotic translation initiation factor 3 subunit h	-1.39	0.0	0.0	0.02	0.9
+7783	FBgn0033485	RpLP0-like		Ribosomal protein LP0-like	-1.39	0.0	0.0	0.0	0.85
+4732	FBgn0037756	CG8507		\N	-1.39	0.0	0.0	0.2	1.34
+8605	FBgn0015320	Ubc2		Ubiquitin conjugating enzyme 2	-1.39	0.0	0.0	0.03	0.88
+9340	FBgn0000166	bcd		bicoid	-1.39	0.0	0.0	0.0	0.42
+2633	FBgn0051549	CG31549		\N	-1.39	0.0	0.0	0.0	0.85
+780	FBgn0037156	CG11523		\N	-1.39	0.0	0.0	0.0	0.81
+8562	FBgn0031263	Tspo		Translocator protein	-1.39	0.0	0.0	0.0	0.85
+8143	FBgn0038065	Snx3		Sorting nexin 3	-1.38	0.0	0.0	0.02	0.86
+5408	FBgn0022213	Cse1		Chromosome segregation 1	-1.38	0.0	0.0	0.0	0.84
+5986	FBgn0001098	Gdh		Glutamate dehydrogenase	-1.38	0.0	0.0	0.13	1.17
+8272	FBgn0003612	Su(var)2-10		Suppressor of variegation 2-10	-1.38	0.0	0.0	0.01	0.84
+7819	FBgn0261592	RpS6		Ribosomal protein S6	-1.38	0.0	0.0	1.4	3.19
+4866	FBgn0036887	CG9231		\N	-1.38	0.0	0.0	0.0	0.82
+5585	FBgn0028833	Cmpk	Dak1	Cytidine/uridine monophosphate kinase 1	-1.38	0.0	0.0	0.01	0.87
+2017	FBgn0038830	CG17272		\N	-1.38	0.0	0.0	0.0	0.81
+180	FBgn0086378	Alg-2		Apoptosis-linked gene-2	-1.38	0.0	0.0	0.1	1.06
+6838	FBgn0266582	ND-30		NADH dehydrogenase (ubiquinone) 30 kDa subunit	-1.37	0.0	0.0	0.0	0.81
+11156	FBgn0033208	mRpL52		mitochondrial ribosomal protein L52	-1.37	0.0	0.0	0.0	0.83
+9725	FBgn0036258	eIF3l		eukaryotic translation initiation factor 3 subunit l	-1.37	0.0	0.0	0.01	0.83
+7970	FBgn0262467	Scox		Synthesis of cytochrome c oxidase	-1.37	0.0	0.0	0.0	0.83
+4959	FBgn0031529	CG9662		\N	-1.37	0.0	0.0	0.0	0.82
+2046	FBgn0039970	CG17508		\N	-1.37	0.0	0.0	0.06	0.98
+8459	FBgn0024921	Tnpo		Transportin	-1.36	0.0	0.0	0.1	1.01
+828	FBgn0039259	EMC6	CG11781	ER membrane protein complex subunit 6	-1.36	0.0	0.0	0.0	0.81
+1151	FBgn0033608	CG13220		\N	-1.36	0.0	0.0	0.0	0.82
+7414	FBgn0003134	Pp1alpha-96A		Protein phosphatase 1alpha at 96A	-1.36	0.0	0.0	0.08	0.99
+9540	FBgn0011570	cpb		capping protein beta	-1.36	0.0	0.0	0.0	0.83
+4068	FBgn0002174	CG5504		\N	-1.36	0.0	0.0	0.0	0.81
+10093	FBgn0036667	kud		kuduk	-1.36	0.0	0.0	0.0	0.82
+2240	FBgn0042138	Apt1	CG18815	Acyl-protein thioesterase 1	-1.36	0.0	0.0	0.08	0.99
+1042	FBgn0040666	CG12848		\N	-1.36	0.0	0.0	0.0	0.82
+4222	FBgn0032453	CG6180		\N	-1.36	0.0	0.0	0.0	0.81
+2031	FBgn0030293	CG1737		\N	-1.36	0.0	0.0	0.12	1.01
+8246	FBgn0010278	Ssrp		Structure specific recognition protein	-1.36	0.0	0.0	0.0	0.8
+4947	FBgn0030787	CG9609		\N	-1.36	0.0	0.0	0.04	0.9
+6781	FBgn0027786	Mtch		Mitochondrial carrier homolog 1	-1.36	0.0	0.0	0.0	0.82
+146	FBgn0052068	Adi1		Acireductone dioxygenase 1	-1.36	0.0	0.0	0.0	0.82
+11427	FBgn0002962	nos		nanos	-1.36	0.0	0.0	0.0	0.74
+7738	FBgn0037351	RpL13A		Ribosomal protein L13A	-1.35	0.0	0.0	2.96	4.55
+6408	FBgn0037637	IscU		Iron-sulfur cluster assembly enzyme	-1.35	0.0	0.0	0.09	1.02
+4479	FBgn0037135	CG7414		\N	-1.35	0.0	0.0	0.05	0.93
+6858	FBgn0031436	ND-B17.2		NADH dehydrogenase (ubiquinone) B17.2 subunit	-1.35	0.0	0.0	0.0	0.79
+6153	FBgn0029676	HIP-R		Hsc/Hsp70-interacting protein related	-1.35	0.0	0.0	0.0	0.78
+8241	FBgn0011481	Ssdp		Sequence-specific single-stranded DNA-binding protein	-1.35	0.0	0.0	0.86	2.26
+9855	FBgn0005390	fs(1)M3		female sterile (1) M3	-1.35	0.0	0.0	0.0	0.81
+7799	FBgn0010412	RpS19a		Ribosomal protein S19a	-1.35	0.0	0.0	1.49	3.21
+11579	FBgn0040078	pont		pontin	-1.35	0.0	0.0	0.0	0.81
+4621	FBgn0037607	CG8036		\N	-1.34	0.0	0.0	0.25	1.31
+9711	FBgn0263740	eIF2gamma		eukaryotic translation initiation factor 2 subunit gamma	-1.34	0.0	0.0	0.0	0.81
+908	FBgn0033473	CG12128		\N	-1.34	0.0	0.0	0.0	0.8
+6654	FBgn0034282	Mapmodulin		Mapmodulin	-1.34	0.0	0.0	0.52	1.83
+6859	FBgn0030605	ND-B18		NADH dehydrogenase (ubiquinone) B18 subunit	-1.34	0.0	0.0	0.01	0.8
+8899	FBgn0003885	alphaTub84D		alpha-Tubulin at 84D	-1.34	0.0	0.0	0.01	0.82
+7295	FBgn0032482	Pect		Phosphoethanolamine cytidylyltransferase	-1.34	0.0	0.0	0.14	1.13
+12127	FBgn0028683	spt4		spt4	-1.34	0.0	0.0	0.0	0.79
+918	FBgn0037354	CG12171		\N	-1.34	0.0	0.0	0.0	0.8
+3129	FBgn0083953	CG34117		\N	-1.33	0.0	0.0	0.0	0.81
+9712	FBgn0037249	eIF3a		eukaryotic translation initiation factor 3 subunit a	-1.33	0.0	0.0	0.14	1.1
+694	FBgn0037199	EMC4	CG11137	ER membrane protein complex subunit 4	-1.33	0.0	0.0	0.0	0.78
+11118	FBgn0032720	mRpL13		mitochondrial ribosomal protein L13	-1.33	0.0	0.0	0.0	0.78
+1513	FBgn0039640	superdeath	CG14516	Suppressor of ER stress-induced death	-1.33	0.0	0.0	0.0	0.8
+5680	FBgn0037580	DppIII		Dipeptidyl aminopeptidase III	-1.33	0.0	0.0	0.0	0.78
+8585	FBgn0005411	U2af50		U2 small nuclear riboprotein auxiliary factor 50	-1.33	0.0	0.0	0.0	0.79
+3857	FBgn0035016	CG4612		\N	-1.33	0.0	0.0	0.03	0.82
+9445	FBgn0000246	c(3)G		crossover suppressor on 3 of Gowen	-1.33	0.0	0.0	0.0	0.58
+4716	FBgn0034073	CG8414		\N	-1.33	0.0	0.0	0.05	0.9
+6495	FBgn0261068	LSm7		Like Sm 7	-1.33	0.0	0.0	0.0	0.78
+7980	FBgn0014028	SdhB		Succinate dehydrogenase, subunit B (iron-sulfur)	-1.32	0.0	0.0	0.0	0.8
+1198	FBgn0029522	CG13373		\N	-1.32	0.0	0.0	0.0	0.78
+59	FBgn0043012	AP-2sigma		Adaptor Protein complex 2, sigma subunit	-1.32	0.0	0.0	0.0	0.78
+217	FBgn0029512	Aos1		Activator of SUMO 1	-1.32	0.0	0.0	0.0	0.79
+7064	FBgn0034118	Nup62		Nucleoporin 62kD	-1.32	0.0	0.0	0.0	0.82
+3948	FBgn0032214	CG4968		\N	-1.32	0.0	0.0	0.0	0.78
+7840	FBgn0261396	Rpn3		Regulatory particle non-ATPase 3	-1.32	0.0	0.0	0.01	0.8
+12342	FBgn0003964	usp		ultraspiracle	-1.32	0.0	0.0	0.02	0.83
+11174	FBgn0036774	mRpS26		mitochondrial ribosomal protein S26	-1.32	0.0	0.0	0.0	0.8
+7513	FBgn0052412	QC		Glutaminyl cyclase	-1.32	0.0	0.0	0.0	0.74
+6088	FBgn0026430	Grip84		Gamma-tubulin ring protein 84	-1.32	0.0	0.0	0.0	0.44
+7319	FBgn0035603	Pfdn4		Prefoldin 4	-1.32	0.0	0.0	0.0	0.76
+9505	FBgn0261016	clos		closca	-1.32	0.0	0.0	0.0	0.78
+246	FBgn0035866	Arl5		ADP-ribosylation factor-like 5	-1.32	0.0	0.0	0.0	0.78
+6790	FBgn0025352	Mtpbeta		Mitochondrial trifunctional protein beta subunit	-1.32	0.0	0.0	0.01	0.77
+7238	FBgn0037378	PSMG1	CG2046	Proteasome assembly chaperone 1	-1.32	0.0	0.0	0.0	0.77
+12135	FBgn0003514	sqh		spaghetti squash	-1.32	0.0	0.0	0.09	1.03
+7959	FBgn0040285	Scamp		Scamp	-1.32	0.0	0.0	0.08	0.96
+8140	FBgn0032191	Snx17	CG5734	Sorting nexin 17	-1.32	0.0	0.0	0.0	0.8
+12237	FBgn0035110	thoc7		thoc7	-1.31	0.0	0.0	0.0	0.76
+8691	FBgn0030366	Usp7		Ubiquitin-specific protease 7	-1.31	0.0	0.0	0.16	1.11
+6833	FBgn0031021	ND-18		NADH dehydrogenase (ubiquinone) 18 kDa subunit	-1.31	0.0	0.0	0.0	0.75
+4741	FBgn0033741	CG8545		\N	-1.31	0.0	0.0	0.02	0.8
+8859	FBgn0023129	aay		astray	-1.31	0.0	0.0	0.0	0.76
+9773	FBgn0037358	elm		ethanol sensitive with low memory	-1.31	0.0	0.0	0.04	0.9
+6109	FBgn0034354	GstE11		Glutathione S transferase E11	-1.31	0.0	0.0	0.0	0.78
+11169	FBgn0044511	mRpS21		mitochondrial ribosomal protein S21	-1.31	0.0	0.0	0.0	0.77
+7776	FBgn0039857	RpL6		Ribosomal protein L6	-1.31	0.0	0.0	2.44	4.08
+4475	FBgn0036173	CG7394		\N	-1.31	0.0	0.0	0.0	0.78
+7953	FBgn0029755	Sas10		Something about silencing 10	-1.3	0.0	0.0	0.0	0.75
+8612	FBgn0035853	UbcE2M		NEDD8-conjugating enzyme UbcE2M	-1.3	0.0	0.0	0.05	0.87
+9715	FBgn0040227	eIF3d1		eukaryotic translation initiation factor 3 subunit d1	-1.3	0.0	0.0	0.27	1.38
+5739	FBgn0032292	EMC3		ER membrane protein complex subunit 3	-1.3	0.0	0.0	0.04	0.82
+6783	FBgn0039532	Mtl		Mig-2-like	-1.3	0.0	0.0	0.0	0.75
+6124	FBgn0050000	GstT1		Glutathione S transferase T1	-1.3	0.0	0.0	0.0	0.78
+9299	FBgn0029094	asf1		anti-silencing factor 1	-1.3	0.0	0.0	0.01	0.76
+7162	FBgn0266420	Ote		Otefin	-1.3	0.0	0.0	0.0	0.76
+12458	FBgn0265767	zyd		zydeco	-1.3	0.0	0.0	0.0	0.59
+7734	FBgn0036213	RpL10Ab		Ribosomal protein L10Ab	-1.29	0.0	0.0	2.7	4.11
+3735	FBgn0038771	CG4390		\N	-1.29	0.0	0.0	0.0	0.74
+3279	FBgn0029854	CG3566		\N	-1.29	0.0	0.0	0.0	0.76
+12354	FBgn0036237	viaf		viral IAP-associated factor	-1.29	0.0	0.0	0.0	0.75
+5365	FBgn0025335	Cpes		Ceramide phosphoethanolamine synthase	-1.29	0.0	0.0	0.0	0.76
+629	FBgn0027552	CG10863		\N	-1.29	0.0	0.0	0.0	0.76
+4823	FBgn0035334	CG8993		\N	-1.28	0.0	0.0	0.0	0.77
+3031	FBgn0036018	CG3335		\N	-1.28	0.0	0.0	0.02	0.79
+5281	FBgn0043002	Chrac-14		Chromatin accessibility complex 14kD protein	-1.28	0.0	0.0	0.0	0.71
+5949	FBgn0036927	Gabat		gamma-aminobutyric acid transaminase	-1.28	0.0	0.0	0.0	0.77
+6848	FBgn0058002	ND-AGGG		NADH dehydrogenase (ubiquinone) AGGG subunit	-1.28	0.0	0.0	0.0	0.75
+7807	FBgn0261597	RpS26		Ribosomal protein S26	-1.28	0.0	0.0	2.44	3.96
+355	FBgn0025463	Bap60		Brahma associated protein 60kD	-1.28	0.0	0.0	0.0	0.75
+9776	FBgn0020497	emb		embargoed	-1.28	0.0	0.0	0.1	0.96
+268	FBgn0037770	Art4		Arginine methyltransferase 4	-1.28	0.0	0.0	0.0	0.76
+4696	FBgn0033677	CG8321		\N	-1.28	0.0	0.0	0.0	0.78
+12136	FBgn0267347	squ		squash	-1.28	0.0	0.0	0.07	0.89
+3144	FBgn0085188	CG34159		\N	-1.27	0.0	0.0	0.03	0.8
+5936	FBgn0039099	GILT2		Gamma-interferon-inducible lysosomal thiol reductase 2	-1.27	0.0	0.0	0.0	0.74
+7896	FBgn0265298	SC35		SR family splicing factor SC35	-1.27	0.0	0.0	0.2	1.23
+11104	FBgn0032646	mEFTs		mitochondrial translation elongation factor Ts	-1.27	0.0	0.0	0.0	0.75
+6110	FBgn0027590	GstE12		Glutathione S transferase E12	-1.27	0.0	0.0	0.0	0.74
+4568	FBgn0036124	CG7839		\N	-1.27	0.0	0.0	0.1	0.94
+5860	FBgn0011768	Fdh		Formaldehyde dehydrogenase	-1.27	0.0	0.0	0.0	0.75
+4015	FBgn0037891	CG5214		\N	-1.27	0.0	0.0	0.02	0.8
+8600	FBgn0029113	Uba2		Ubiquitin-like activating enzyme 2	-1.27	0.0	0.0	0.14	1.05
+317	FBgn0052446	Atox1		Antioxidant 1 copper chaperone	-1.27	0.0	0.0	0.06	0.87
+5604	FBgn0029131	Debcl		Death executioner Bcl-2	-1.27	0.0	0.0	0.01	0.79
+4892	FBgn0034564	CG9344		\N	-1.27	0.0	0.0	0.0	0.75
+9807	FBgn0028380	fal		falten	-1.26	0.0	0.0	0.01	0.76
+11127	FBgn0036853	mRpL21		mitochondrial ribosomal protein L21	-1.26	0.0	0.0	0.0	0.75
+4592	FBgn0039741	CG7943		\N	-1.26	0.0	0.0	0.0	0.76
+3769	FBgn0265177	CG44242		\N	-1.26	0.0	0.0	0.0	0.76
+5937	FBgn0039098	GILT3		Gamma-interferon-inducible lysosomal thiol reductase 3	-1.26	0.0	0.0	0.0	0.75
+9871	FBgn0261722	fwe		flower	-1.26	0.0	0.0	0.14	1.02
+8732	FBgn0027779	VhaSFD		Vacuolar H[+]-ATPase SFD subunit	-1.26	0.0	0.0	0.03	0.84
+9771	FBgn0036574	elg1		enhanced level of genomic instability 1	-1.26	0.0	0.0	0.03	0.78
+6849	FBgn0029888	ND-ASHI		NADH dehydrogenase (ubiquinone) ASHI subunit	-1.26	0.0	0.0	0.01	0.76
+1630	FBgn0032374	CG14931		\N	-1.26	0.0	0.0	0.0	0.74
+4851	FBgn0031769	CG9135		\N	-1.26	0.0	0.0	0.0	0.73
+8376	FBgn0031312	Tango14		Transport and Golgi organization 14	-1.26	0.0	0.0	0.0	0.74
+5740	FBgn0034791	EMC8-9		ER membrane protein complex subunit 8/9	-1.26	0.0	0.0	0.0	0.74
+3585	FBgn0038388	CG4287		\N	-1.26	0.0	0.0	0.0	0.76
+11549	FBgn0003087	pim		pimples	-1.26	0.0	0.0	0.0	0.64
+5183	FBgn0263979	Caf1-55		Chromatin assembly factor 1, p55 subunit	-1.26	0.0	0.0	0.02	0.75
+6996	FBgn0038585	Non3		Novel nucleolar protein 3	-1.26	0.0	0.0	0.0	0.77
+6728	FBgn0034051	Mlf		Myelodysplasia/myeloid leukemia factor	-1.26	0.0	0.0	0.04	0.82
+11295	FBgn0005617	msl-1		male-specific lethal 1	-1.25	0.0	0.0	0.06	0.83
+7772	FBgn0003279	RpL4		Ribosomal protein L4	-1.25	0.0	0.0	1.72	3.38
+6653	FBgn0010342	Map60		Microtubule-associated protein 60	-1.25	0.0	0.0	0.0	0.68
+2304	FBgn0039767	CG2218		\N	-1.25	0.0	0.0	0.0	0.72
+6539	FBgn0015754	Lis-1		Lissencephaly-1	-1.25	0.0	0.0	0.22	1.19
+6906	FBgn0013303	Nca		Neurocalcin	-1.25	0.0	0.0	0.0	0.74
+10100	FBgn0027334	l(1)G0004		lethal (1) G0004	-1.25	0.0	0.0	0.01	0.75
+1479	FBgn0030582	CG14411		\N	-1.25	0.0	0.0	0.0	0.7
+706	FBgn0034528	CG11180		\N	-1.24	0.0	0.0	0.17	1.07
+7816	FBgn0011284	RpS4		Ribosomal protein S4	-1.24	0.0	0.0	3.13	4.53
+7839	FBgn0028692	Rpn2		Regulatory particle non-ATPase 2	-1.24	0.0	0.0	0.05	0.83
+10001	FBgn0029079	icln		icln	-1.24	0.0	0.0	0.0	0.73
+6434	FBgn0051363	Jupiter		Jupiter	-1.24	0.0	0.0	1.09	2.63
+8330	FBgn0038805	TFAM		mitochondrial transcription factor A	-1.24	0.0	0.0	0.0	0.74
+4036	FBgn0034362	CG5323		\N	-1.24	0.0	0.0	0.0	0.71
+5637	FBgn0035964	Dhpr		Dihydropteridine reductase	-1.24	0.0	0.0	0.0	0.74
+7077	FBgn0027615	OXA1L		OXA1L mitochondrial inner membrane protein	-1.24	0.0	0.0	0.0	0.73
+6740	FBgn0259483	Mob4		MOB kinase activator 4	-1.24	0.0	0.0	0.0	0.72
+11134	FBgn0029718	mRpL30		mitochondrial ribosomal protein L30	-1.24	0.0	0.0	0.0	0.7
+6789	FBgn0028479	Mtpalpha		Mitochondrial trifunctional protein alpha subunit	-1.24	0.0	0.0	0.02	0.75
+7245	FBgn0025809	Paf-AHalpha		Platelet-activating factor acetylhydrolase alpha	-1.24	0.0	0.0	0.01	0.73
+8891	FBgn0030007	alpha-PheRS		Phenylalanyl-tRNA synthetase, alpha-subunit	-1.24	0.0	0.0	0.0	0.71
+6046	FBgn0001124	Got1		Glutamate oxaloacetate transaminase 1	-1.24	0.0	0.0	0.0	0.74
+2851	FBgn0052441	EMC10	CG32441	ER membrane protein complex subunit 10	-1.24	0.0	0.0	0.08	0.9
+8561	FBgn0039465	Tsp97E		Tetraspanin 97E	-1.23	0.0	0.0	0.0	0.71
+3904	FBgn0030790	CG4768		\N	-1.23	0.0	0.0	0.15	1.03
+2679	FBgn0051715	CG31715		\N	-1.23	0.0	0.0	0.0	0.73
+8137	FBgn0011715	Snr1		Snf5-related 1	-1.23	0.0	0.0	0.0	0.72
+2526	FBgn0033005	CG3107		\N	-1.23	0.0	0.0	0.03	0.73
+11157	FBgn0034579	mRpL54		mitochondrial ribosomal protein L54	-1.23	0.0	0.0	0.0	0.72
+2805	FBgn0029885	CG3224		\N	-1.23	0.0	0.0	0.0	0.7
+4814	FBgn0030720	CG8939		\N	-1.23	0.0	0.0	0.02	0.71
+7271	FBgn0003044	Pcl		Polycomblike	-1.23	0.0	0.0	0.0	0.7
+6435	FBgn0032704	Jwa		Jwa	-1.23	0.0	0.0	0.01	0.73
+5734	FBgn0024371	E2f2		E2F transcription factor 2	-1.23	0.0	0.0	0.0	0.71
+11481	FBgn0259834	out		outsiders	-1.23	0.0	0.0	0.0	0.68
+7982	FBgn0039112	SdhD		Succinate dehydrogenase, subunit D	-1.23	0.0	0.0	0.0	0.71
+8374	FBgn0030330	Tango10		Transport and Golgi organization 10	-1.23	0.0	0.0	0.0	0.7
+5881	FBgn0037255	Fip1		Factor interacting with poly(A) polymerase 1	-1.23	0.0	0.0	0.0	0.69
+6565	FBgn0030364	Lsm12a		LSM12 homolog a	-1.23	0.0	0.0	0.03	0.78
+1823	FBgn0030451	CG15717		\N	-1.23	0.0	0.0	0.0	0.73
+9408	FBgn0026261	bonsai		bonsai	-1.23	0.0	0.0	0.0	0.7
+11350	FBgn0283658	muc		midline uncoordinated	-1.23	0.0	0.0	0.01	0.76
+9928	FBgn0040493	grsm		granny smith	-1.23	0.0	0.0	0.01	0.73
+262	FBgn0031437	Arpc5		Actin-related protein 2/3 complex, subunit 5	-1.22	0.0	0.0	0.0	0.73
+11171	FBgn0260407	mRpS23		mitochondrial ribosomal protein S23	-1.22	0.0	0.0	0.0	0.7
+4176	FBgn0029831	CG5966		\N	-1.22	0.0	0.0	0.0	0.37
+66	FBgn0037671	ATP6AP2		ATPase H+ transporting accessory protein 2	-1.22	0.0	0.0	0.37	1.51
+11648	FBgn0022985	qkr58E-2		quaking related 58E-2	-1.22	0.0	0.0	0.0	0.69
+3941	FBgn0030813	CG4949		\N	-1.22	0.0	0.0	0.0	0.59
+662	FBgn0034455	CG11007		\N	-1.22	0.0	0.0	0.01	0.71
+4911	FBgn0033101	CG9436		\N	-1.22	0.0	0.0	0.0	0.69
+11775	FBgn0013732	sced		scrambled	-1.22	0.0	0.0	0.0	0.73
+410	FBgn0004856	Bx42		Bx42	-1.22	0.0	0.0	0.01	0.71
+1987	FBgn0039942	CG17163		\N	-1.22	0.0	0.0	0.0	0.71
+6594	FBgn0036761	MED19		Mediator complex subunit 19	-1.22	0.0	0.0	0.28	1.23
+7976	FBgn0037643	ScsbetaA		Succinyl-coenzyme A synthetase beta subunit, ADP-forming	-1.21	0.0	0.0	0.04	0.81
+7828	FBgn0051155	Rpb7		Rpb7	-1.21	0.0	0.0	0.0	0.69
+1235	FBgn0030151	CG1354		\N	-1.21	0.0	0.0	0.1	0.89
+39	FBgn0053138	AGBE		1,4-Alpha-Glucan Branching Enzyme	-1.21	0.0	0.0	0.01	0.71
+5150	FBgn0037102	CRIF		CR6-interacting factor	-1.21	0.0	0.0	0.0	0.71
+11158	FBgn0038678	mRpL55		mitochondrial ribosomal protein L55	-1.21	0.0	0.0	0.0	0.71
+8020	FBgn0259923	Septin4	Sep4	Septin 4	-1.21	0.0	0.0	0.0	0.56
+9447	FBgn0040235	c12.1		c12.1	-1.21	0.0	0.0	0.0	0.71
+3258	FBgn0024984	CG3457		\N	-1.21	0.0	0.0	0.0	0.72
+1839	FBgn0029801	CG15771		\N	-1.21	0.0	0.0	0.2	1.17
+4481	FBgn0036762	CG7430		\N	-1.21	0.0	0.0	0.0	0.72
+1600	FBgn0023515	Gcna	CG14814	Germ cell nuclear acidic peptidase	-1.21	0.0	0.0	0.0	0.64
+7304	FBgn0034058	Pex11ab	Pex11	Peroxin 11a/b	-1.21	0.0	0.0	0.0	0.7
+7559	FBgn0014010	Rab5		Rab5	-1.21	0.0	0.0	0.14	1.0
+11300	FBgn0027948	msps		mini spindles	-1.21	0.0	0.0	0.07	0.84
+3304	FBgn0031600	CG3652		\N	-1.2	0.0	0.0	0.01	0.7
+5327	FBgn0039965	Coa7		Cytochrome c oxidase assembly factor 7	-1.2	0.0	0.0	0.01	0.73
+7960	FBgn0037298	Sccpdh1		Saccheropin dehydrogenase 1	-1.2	0.0	0.0	0.0	0.7
+11205	FBgn0039914	mav		maverick	-1.2	0.0	0.0	0.0	0.67
+9304	FBgn0034793	asrij		asrij	-1.2	0.0	0.0	0.0	0.7
+11185	FBgn0037529	mRpS9		mitochondrial ribosomal protein S9	-1.2	0.0	0.0	0.03	0.75
+1475	FBgn0030584	CG14407		\N	-1.2	0.0	0.0	0.0	0.69
+3562	FBgn0025626	CG4281		\N	-1.2	0.0	0.0	0.01	0.71
+5436	FBgn0010315	CycD		Cyclin D	-1.2	0.0	0.0	0.02	0.72
+7824	FBgn0032634	Rpb11		Rpb11	-1.2	0.0	0.0	0.0	0.69
+814	FBgn0030311	CG11699		\N	-1.2	0.0	0.0	0.02	0.72
+8420	FBgn0010282	TfIIFalpha		Transcription factor IIFalpha	-1.2	0.0	0.0	0.24	1.16
+9742	FBgn0034915	eIF6		eukaryotic translation initiation factor 6	-1.19	0.0	0.0	0.0	0.7
+11164	FBgn0034986	mRpS17		mitochondrial ribosomal protein S17	-1.19	0.0	0.0	0.0	0.69
+1122	FBgn0032051	CG13097		\N	-1.19	0.0	0.0	0.03	0.74
+1872	FBgn0033191	CG1598		\N	-1.19	0.0	0.0	0.0	0.69
+8896	FBgn0250791	alphaSnap		alpha Soluble NSF attachment protein	-1.19	0.0	0.0	0.07	0.85
+4112	FBgn0032196	CG5708		\N	-1.19	0.0	0.0	0.01	0.69
+6787	FBgn0013756	Mtor		Megator	-1.19	0.0	0.0	0.09	0.87
+7812	FBgn0261599	RpS29		Ribosomal protein S29	-1.19	0.0	0.0	2.35	3.86
+2739	FBgn0031360	CG31937		\N	-1.19	0.0	0.0	0.0	0.7
+4040	FBgn0034925	CG5339		\N	-1.19	0.0	0.0	0.0	0.68
+8034	FBgn0031493	Sf3b2		Splicing factor 3b subunit 2	-1.19	0.0	0.0	0.05	0.79
+6843	FBgn0031771	ND-51		NADH dehydrogenase (ubiquinone) 51 kDa subunit	-1.19	0.0	0.0	0.02	0.74
+2659	FBgn0051673	CG31673		\N	-1.19	0.0	0.0	0.0	0.69
+5235	FBgn0028360	Cdc7		Cdc7 kinase	-1.19	0.0	0.0	0.0	0.68
+1748	FBgn0039828	CG1542		\N	-1.19	0.0	0.0	0.0	0.7
+7725	FBgn0004855	RpII15		RNA polymerase II 15kD subunit	-1.19	0.0	0.0	0.0	0.7
+11146	FBgn0033480	mRpL42		mitochondrial ribosomal protein L42	-1.19	0.0	0.0	0.0	0.69
+8808	FBgn0004698	Xpc		Xeroderma pigmentosum, complementation group C	-1.19	0.0	0.0	0.0	0.59
+8743	FBgn0052350	Vps11		Vacuolar protein sorting 11	-1.19	0.0	0.0	0.12	0.91
+7916	FBgn0261698	SLO2		slowpoke 2	-1.19	0.0	0.0	0.01	0.53
+4085	FBgn0035641	CG5568		\N	-1.18	0.0	0.0	0.0	0.68
+7933	FBgn0286813	SRPK		SR Protein Kinase	-1.18	0.0	0.0	0.39	1.47
+2426	FBgn0050159	CG30159		\N	-1.18	0.0	0.0	0.01	0.72
+5708	FBgn0010269	Dsor1		Downstream of raf1	-1.18	0.0	0.0	0.0	0.68
+2015	FBgn0038828	CG17270		\N	-1.18	0.0	0.0	0.0	0.7
+7821	FBgn0039713	RpS8		Ribosomal protein S8	-1.18	0.0	0.0	2.84	4.22
+7562	FBgn0262518	Rab8		Rab8	-1.18	0.0	0.0	0.16	1.02
+2253	FBgn0027547	CG1927		\N	-1.18	0.0	0.0	0.05	0.79
+7934	FBgn0027052	STUB1		STIP1 homology and U-box containing protein 1	-1.18	0.0	0.0	0.01	0.69
+11583	FBgn0010770	ppan		peter pan	-1.18	0.0	0.0	0.0	0.68
+8753	FBgn0022027	Vps25		Vacuolar protein sorting 25	-1.18	0.0	0.0	0.0	0.69
+249	FBgn0037551	Arl8		ADP ribosylation factor-like 8	-1.18	0.0	0.0	0.02	0.73
+7737	FBgn0011272	RpL13		Ribosomal protein L13	-1.18	0.0	0.0	2.25	3.74
+46	FBgn0050185	AIMP3		aaRS-interacting multifunctional protein 3	-1.17	0.0	0.0	0.0	0.68
+7782	FBgn0000100	RpLP0		Ribosomal protein LP0	-1.17	0.0	0.0	2.17	3.67
+3821	FBgn0037843	CG4511		\N	-1.17	0.0	0.0	0.0	0.68
+8109	FBgn0036641	Smn		survival motor neuron	-1.17	0.0	0.0	0.11	0.95
+6159	FBgn0035829	HP4		Heterochromatin protein 4	-1.17	0.0	0.0	0.0	0.63
+2251	FBgn0022349	CG1910		\N	-1.17	0.0	0.0	0.46	1.53
+2308	FBgn0039790	CG2246		\N	-1.17	0.0	0.0	0.05	0.81
+2632	FBgn0051548	CG31548		\N	-1.17	0.0	0.0	0.0	0.68
+11906	FBgn0003449	snf		sans fille	-1.17	0.0	0.0	0.0	0.65
+131	FBgn0037555	Ada2b		transcriptional Adaptor 2b	-1.17	0.0	0.0	0.13	0.95
+1726	FBgn0031143	CG1532		\N	-1.17	0.0	0.0	0.0	0.65
+8476	FBgn0025615	Torsin		Torsin	-1.17	0.0	0.0	0.07	0.82
+4430	FBgn0038575	CG7208		\N	-1.17	0.0	0.0	0.0	0.64
+371	FBgn0010520	Bka		Bekka	-1.17	0.0	0.0	0.0	0.66
+11123	FBgn0026741	mRpL18		mitochondrial ribosomal protein L18	-1.17	0.0	0.0	0.0	0.67
+6886	FBgn0024362	Naa30A		N(alpha)-acetyltransferase 30 A	-1.17	0.0	0.0	0.07	0.83
+6047	FBgn0001125	Got2		Glutamate oxaloacetate transaminase 2	-1.17	0.0	0.0	0.0	0.69
+4220	FBgn0039156	CG6178		\N	-1.17	0.0	0.0	0.0	0.69
+7071	FBgn0028411	Nxt1		NTF2-related export protein 1	-1.16	0.0	0.0	0.0	0.66
+7642	FBgn0021800	Reph		Regulator of eph expression	-1.16	0.0	0.0	0.13	0.91
+11572	FBgn0013726	pnut		peanut	-1.16	0.0	0.0	0.02	0.71
+399	FBgn0000228	Bsg25D		Blastoderm-specific gene 25D	-1.16	0.0	0.0	0.02	0.69
+909	FBgn0033475	CG12129		\N	-1.16	0.0	0.0	0.01	0.64
+8359	FBgn0011290	Taf12		TBP-associated factor 12	-1.16	0.0	0.0	0.01	0.69
+4358	FBgn0036488	CG6878		\N	-1.16	0.0	0.0	0.0	0.67
+8174	FBgn0086683	Spf45		Spf45	-1.16	0.0	0.0	0.14	0.96
+8633	FBgn0085220	Ufm1		Ubiquitin-fold modifier 1	-1.16	0.0	0.0	0.01	0.68
+3974	FBgn0038326	CG5044		\N	-1.16	0.0	0.0	0.0	0.69
+2291	FBgn0030025	CG2147		\N	-1.16	0.0	0.0	0.0	0.66
+966	FBgn0033581	CG12391		\N	-1.16	0.0	0.0	0.0	0.61
+9549	FBgn0032421	crok		crooked	-1.16	0.0	0.0	0.01	0.66
+6426	FBgn0028425	JhI-21		Juvenile hormone Inducible-21	-1.16	0.0	0.0	0.02	0.72
+4804	FBgn0031663	CG8891		\N	-1.15	0.0	0.0	0.0	0.67
+8258	FBgn0024352	Stip1		Stress induced phosphoprotein 1	-1.15	0.0	0.0	0.0	0.67
+10159	FBgn0011640	lark		lark	-1.15	0.0	0.0	0.2	1.1
+9893	FBgn0039487	gb		genderblind	-1.15	0.0	0.0	0.01	0.7
+7837	FBgn0033886	Rpn13		Regulatory particle non-ATPase 13	-1.15	0.0	0.0	0.07	0.8
+12407	FBgn0034876	wmd		wing morphogenesis defect	-1.15	0.0	0.0	0.05	0.75
+5029	FBgn0030744	CG9992		\N	-1.15	0.0	0.0	0.0	0.67
+11121	FBgn0023519	mRpL16		mitochondrial ribosomal protein L16	-1.15	0.0	0.0	0.0	0.67
+8422	FBgn0010422	TfIIS		RNA polymerase II elongation factor	-1.15	0.0	0.0	0.0	0.65
+8537	FBgn0032943	Tsp39D		Tetraspanin 39D	-1.15	0.0	0.0	0.02	0.7
+2482	FBgn0050423	CG30423		\N	-1.15	0.0	0.0	0.07	0.82
+3669	FBgn0030456	CG4332		\N	-1.15	0.0	0.0	0.01	0.69
+6573	FBgn0027084	LysRS		Lysyl-tRNA synthetase	-1.15	0.0	0.0	0.0	0.65
+8604	FBgn0026316	Ubc10		Ubiquitin conjugating enzyme 10	-1.15	0.0	0.0	0.0	0.66
+11128	FBgn0030786	mRpL22		mitochondrial ribosomal protein L22	-1.15	0.0	0.0	0.01	0.67
+3933	FBgn0035959	CG4911		\N	-1.15	0.0	0.0	0.1	0.88
+10178	FBgn0261524	lic		licorne	-1.15	0.0	0.0	0.0	0.65
+8578	FBgn0035631	Txl		Thioredoxin-like	-1.15	0.0	0.0	0.0	0.66
+1516	FBgn0039404	CG14543		\N	-1.15	0.0	0.0	0.0	0.65
+9438	FBgn0000239	bur		burgundy	-1.14	0.0	0.0	0.03	0.71
+12349	FBgn0039269	veli		veli	-1.14	0.0	0.0	0.0	0.68
+8774	FBgn0035251	Vta1		Vesicle trafficking 1	-1.14	0.0	0.0	0.0	0.66
+7833	FBgn0028695	Rpn1		Regulatory particle non-ATPase 1	-1.14	0.0	0.0	0.03	0.7
+1877	FBgn0030468	CG1622		\N	-1.14	0.0	0.0	0.05	0.71
+5689	FBgn0024732	Drep1		DNA fragmentation factor-related protein 1	-1.14	0.0	0.0	0.01	0.66
+793	FBgn0023522	CG11596		\N	-1.14	0.0	0.0	0.0	0.67
+7533	FBgn0032906	RPA2		Replication protein A2	-1.14	0.0	0.0	0.0	0.6
+5431	FBgn0031452	Cwc25		Cwc25	-1.14	0.0	0.0	0.11	0.83
+11507	FBgn0026192	par-6		par-6	-1.14	0.0	0.0	0.0	0.64
+3411	FBgn0025628	CG4199		\N	-1.14	0.0	0.0	0.01	0.66
+7592	FBgn0283666	Rap2l		Ras-associated protein 2-like	-1.14	0.0	0.0	0.03	0.71
+5217	FBgn0038331	Ccm3		Cerebral cavernous malformation 3	-1.14	0.0	0.0	0.01	0.67
+7244	FBgn0005648	Pabp2		Pabp2	-1.14	0.0	0.0	0.25	1.17
+4244	FBgn0037807	CG6293		\N	-1.14	0.0	0.0	0.0	0.66
+3812	FBgn0266409	CG45049		\N	-1.14	0.0	0.0	0.12	0.9
+965	FBgn0037368	CG1239		\N	-1.14	0.0	0.0	0.0	0.66
+7336	FBgn0004654	Pgd		Phosphogluconate dehydrogenase	-1.14	0.0	0.0	0.01	0.66
+1051	FBgn0039544	CG12877		\N	-1.14	0.0	0.0	0.03	0.6
+8338	FBgn0037614	TMEM216		Transmembrane protein 216	-1.14	0.0	0.0	0.02	0.68
+5155	FBgn0027054	CSN4		COP9 signalosome subunit 4	-1.14	0.0	0.0	0.0	0.65
+7823	FBgn0039218	Rpb10		Rpb10	-1.13	0.0	0.0	0.0	0.64
+470	FBgn0035722	CG10075		\N	-1.13	0.0	0.0	0.0	0.66
+5340	FBgn0021944	Coprox		Coproporphyrinogen oxidase	-1.13	0.0	0.0	0.0	0.65
+12382	FBgn0266848	wap		wings apart	-1.13	0.0	0.0	0.08	0.79
+4590	FBgn0039737	CG7920		\N	-1.13	0.0	0.0	0.07	0.8
+8307	FBgn0036341	Syx13		Syntaxin 13	-1.13	0.0	0.0	0.0	0.65
+2357	FBgn0034753	CG2852		\N	-1.13	0.0	0.0	2.66	4.03
+3942	FBgn0039563	CG4951		\N	-1.13	0.0	0.0	0.0	0.62
+7419	FBgn0005777	PpD3		Protein phosphatase D3	-1.13	0.0	0.0	0.0	0.66
+8325	FBgn0034451	TBCB		tubulin-binding cofactor B	-1.13	0.0	0.0	0.0	0.65
+542	FBgn0036277	CG10418		\N	-1.13	0.0	0.0	0.0	0.65
+7175	FBgn0027580	PCB		Pyruvate carboxylase	-1.13	0.0	0.0	0.0	0.63
+2295	FBgn0037360	CG2182		\N	-1.13	0.0	0.0	0.32	1.29
+902	FBgn0030048	CG12112		\N	-1.13	0.0	0.0	0.02	0.66
+5999	FBgn0004921	Ggamma1		G protein gamma 1	-1.13	0.0	0.0	0.03	0.73
+7765	FBgn0002579	RpL36		Ribosomal protein L36	-1.13	0.0	0.0	2.26	3.72
+8037	FBgn0035692	Sf3b6		Splicing factor 3b subunit 6	-1.13	0.0	0.0	0.0	0.64
+4472	FBgn0032262	CG7384		\N	-1.13	0.0	0.0	0.0	0.64
+9910	FBgn0027657	glob1		globin 1	-1.13	0.0	0.0	0.0	0.67
+5232	FBgn0026143	Cdc45	CDC45L	Cell division cycle 45	-1.13	0.0	0.0	0.01	0.62
+4190	FBgn0038924	CG6028		\N	-1.13	0.0	0.0	0.0	0.66
+12140	FBgn0037248	srl		spargel	-1.12	0.0	0.0	0.34	1.3
+2269	FBgn0035271	CG2021		\N	-1.12	0.0	0.0	0.0	0.66
+10005	FBgn0001941	ifc		infertile crescent	-1.12	0.0	0.0	0.12	0.9
+9507	FBgn0034087	clu		clueless	-1.12	0.0	0.0	0.07	0.81
+6494	FBgn0051184	LSm3		Like Sm 3	-1.12	0.0	0.0	0.0	0.61
+11136	FBgn0040907	mRpL33		mitochondrial ribosomal protein L33	-1.12	0.0	0.0	0.0	0.63
+787	FBgn0039868	CG11563		\N	-1.12	0.0	0.0	0.0	0.65
+12381	FBgn0010516	wal		walrus	-1.12	0.0	0.0	0.01	0.67
+7534	FBgn0266421	RPA3		Replication protein A3	-1.12	0.0	0.0	0.0	0.63
+1025	FBgn0033459	CG12744		\N	-1.12	0.0	0.0	0.0	0.63
+8607	FBgn0004436	Ubc6		Ubiquitin conjugating enzyme 6	-1.12	0.0	0.0	0.08	0.82
+9727	FBgn0001942	eIF4A		eukaryotic translation initiation factor 4A	-1.12	0.0	0.0	1.0	2.39
+8228	FBgn0010747	Srp54k		Signal recognition particle 54k	-1.11	0.0	0.0	0.02	0.69
+610	FBgn0037250	CG1074		\N	-1.11	0.0	0.0	0.01	0.67
+2035	FBgn0033934	CG17385		\N	-1.11	0.0	0.0	0.0	0.63
+7779	FBgn0014026	RpL7A		Ribosomal protein L7A	-1.11	0.0	0.0	2.75	4.1
+11115	FBgn0031231	mRpL10		mitochondrial ribosomal protein L10	-1.11	0.0	0.0	0.0	0.63
+6749	FBgn0038662	Mpc1		Mitochondrial pyruvate carrier	-1.11	0.0	0.0	0.0	0.63
+125	FBgn0038467	AdSL		Adenylosuccinate Lyase	-1.11	0.0	0.0	0.0	0.63
+6993	FBgn0026400	Noa36		Noa36	-1.11	0.0	0.0	0.01	0.64
+732	FBgn0039849	CG11334		\N	-1.11	0.0	0.0	0.02	0.67
+4693	FBgn0034057	CG8314		\N	-1.11	0.0	0.0	0.0	0.64
+11576	FBgn0086371	poly		poly	-1.11	0.0	0.0	0.0	0.64
+6146	FBgn0026428	HDAC6		Histone deacetylase 6	-1.11	0.0	0.0	0.01	0.6
+8869	FBgn0041171	ago		archipelago	-1.11	0.0	0.0	0.01	0.62
+4454	FBgn0030970	CG7326		\N	-1.11	0.0	0.0	0.0	0.61
+8260	FBgn0034936	Stoml2		Stomatin like 2	-1.11	0.0	0.0	0.0	0.63
+235	FBgn0020655	ArfGAP1		ADP-ribosylation factor GTPase activating protein 1	-1.11	0.0	0.0	0.02	0.68
+6093	FBgn0019982	Gs1l		GS1-like	-1.11	0.0	0.0	0.0	0.64
+4955	FBgn0031485	CG9643		\N	-1.11	0.0	0.0	0.0	0.64
+243	FBgn0000115	Arl1		ADP ribosylation factor-like 1	-1.1	0.0	0.0	0.02	0.66
+7406	FBgn0036239	Pop2		Pop2	-1.1	0.0	0.0	0.0	0.65
+7709	FBgn0011703	RnrL		Ribonucleoside diphosphate reductase large subunit	-1.1	0.0	0.0	0.01	0.58
+521	FBgn0022344	CG10340		\N	-1.1	0.0	0.0	0.0	0.64
+4695	FBgn0034059	CG8320		\N	-1.1	0.0	0.0	0.02	0.69
+4137	FBgn0038515	CG5823		\N	-1.1	0.0	0.0	0.02	0.68
+11183	FBgn0035534	mRpS6		mitochondrial ribosomal protein S6	-1.1	0.0	0.0	0.0	0.63
+11484	FBgn0011227	ox		oxen	-1.1	0.0	0.0	0.0	0.62
+658	FBgn0037379	CG10979		\N	-1.1	0.0	0.0	0.02	0.68
+2821	FBgn0052278	CG32278		\N	-1.1	0.0	0.0	0.0	0.65
+500	FBgn0032783	CG10237		\N	-1.1	0.0	0.0	0.16	0.94
+2117	FBgn0030063	CG1789		\N	-1.1	0.0	0.0	0.0	0.59
+6157	FBgn0030082	HP1b		Heterochromatin Protein 1b	-1.1	0.0	0.0	0.0	0.57
+4198	FBgn0039488	CG6066		\N	-1.1	0.0	0.0	0.01	0.59
+9904	FBgn0266124	ghi		ghiberti	-1.1	0.0	0.0	0.0	0.63
+6217	FBgn0027087	HisRS		Histidyl-tRNA synthetase	-1.1	0.0	0.0	0.01	0.64
+3874	FBgn0286778	CG46385		\N	-1.1	0.0	0.0	1.8	3.4
+1668	FBgn0030938	CG15047		\N	-1.1	0.0	0.0	0.0	0.59
+11138	FBgn0038923	mRpL35		mitochondrial ribosomal protein L35	-1.1	0.0	0.0	0.0	0.61
+11162	FBgn0044030	mRpS14		mitochondrial ribosomal protein S14	-1.09	0.0	0.0	0.0	0.62
+3883	FBgn0032170	CG4658		\N	-1.09	0.0	0.0	0.01	0.66
+8819	FBgn0260858	Ykt6		YKT6 v-SNARE	-1.09	0.0	0.0	0.0	0.6
+1621	FBgn0038428	CG14894		\N	-1.09	0.0	0.0	0.01	0.65
+6954	FBgn0029905	Nf-YC		Nuclear factor Y-box C	-1.09	0.0	0.0	0.0	0.61
+6739	FBgn0259482	Mob3		MOB kinase activator 3	-1.09	0.0	0.0	0.0	0.64
+11692	FBgn0004400	rhi		rhino	-1.09	0.0	0.0	0.0	0.54
+5280	FBgn0036805	Chmp1		Charged multivesicular body protein 1	-1.09	0.0	0.0	0.02	0.69
+6361	FBgn0016672	Ipp		Inositol polyphosphate 1-phosphatase	-1.09	0.0	0.0	0.0	0.61
+7536	FBgn0034763	RYBP		Ring and YY1 Binding Protein	-1.09	0.0	0.0	0.0	0.62
+8256	FBgn0045073	Stim		Stromal interaction molecule	-1.09	0.0	0.0	0.18	0.98
+9617	FBgn0039802	dj-1beta		dj-1beta	-1.09	0.0	0.0	0.0	0.61
+11496	FBgn0033179	p47		p47	-1.09	0.0	0.0	0.0	0.62
+5665	FBgn0027453	Dnz1		DNZDHHC/NEW1 zinc finger protein 11	-1.09	0.0	0.0	0.0	0.62
+12409	FBgn0010328	woc		without children	-1.09	0.0	0.0	0.11	0.81
+3758	FBgn0030431	CG4407		\N	-1.09	0.0	0.0	0.0	0.61
+584	FBgn0032721	CG10602		\N	-1.09	0.0	0.0	0.0	0.61
+6123	FBgn0010226	GstS1		Glutathione S transferase S1	-1.09	0.0	0.0	0.02	0.62
+8418	FBgn0015828	TfIIEalpha		Transcription factor IIEalpha	-1.09	0.0	0.0	0.0	0.63
+8584	FBgn0017457	U2af38		U2 small nuclear riboprotein auxiliary factor 38	-1.09	0.0	0.0	0.0	0.6
+7285	FBgn0039635	Pdhb		Pyruvate dehydrogenase E1 beta subunit	-1.09	0.0	0.0	0.01	0.64
+9311	FBgn0000146	aub		aubergine	-1.09	0.0	0.0	0.0	0.61
+8232	FBgn0011509	SrpRbeta		Signal recognition particle receptor beta	-1.09	0.0	0.0	0.12	0.88
+10191	FBgn0050055	lncRNA:CR30055		RH03140p	-1.08	0.0	0.0	0.24	1.1
+7791	FBgn0004403	RpS14a		Ribosomal protein S14a	-1.08	0.0	0.0	1.12	2.42
+5156	FBgn0027053	CSN5		COP9 signalosome subunit 5	-1.08	0.0	0.0	0.0	0.62
+7697	FBgn0032189	Ripalpha		RPA-interacting protein alpha	-1.08	0.0	0.0	0.0	0.6
+11119	FBgn0040389	mRpL14		mitochondrial ribosomal protein L14	-1.08	0.0	0.0	0.0	0.61
+1364	FBgn0031739	CG14005		\N	-1.08	0.0	0.0	0.0	0.63
+8720	FBgn0287825	Vha44		Vacuolar H[+] ATPase 44kD subunit	-1.08	0.0	0.0	0.53	1.6
+4301	FBgn0030944	Hou	CG6617	Houki	-1.08	0.0	0.0	0.0	0.6
+6053	FBgn0001128	Gpdh1		Glycerol-3-phosphate dehydrogenase 1	-1.08	0.0	0.0	0.21	1.07
+7056	FBgn0030943	Nup35		Nucleoporin 35kDa	-1.08	0.0	0.0	0.0	0.59
+12365	FBgn0259978	vlc		vulcan	-1.08	0.0	0.0	0.05	0.69
+6840	FBgn0019957	ND-42		NADH dehydrogenase (ubiquinone) 42 kDa subunit	-1.08	0.0	0.0	0.01	0.61
+10185	FBgn0029800	lin-52		lin-52	-1.08	0.0	0.0	0.0	0.59
+3220	FBgn0031229	CG3436		\N	-1.08	0.0	0.0	0.0	0.59
+11672	FBgn0027872	rdgBbeta		rdgBbeta	-1.08	0.0	0.0	0.0	0.62
+7775	FBgn0064225	RpL5		Ribosomal protein L5	-1.08	0.0	0.0	1.28	2.61
+7813	FBgn0002622	RpS3		Ribosomal protein S3	-1.08	0.0	0.0	2.22	3.63
+12447	FBgn0034368	zda		zonda	-1.08	0.0	0.0	0.01	0.63
+11132	FBgn0031660	mRpL28		mitochondrial ribosomal protein L28	-1.08	0.0	0.0	0.0	0.63
+280	FBgn0002069	AspRS		Aspartyl-tRNA synthetase	-1.08	0.0	0.0	0.0	0.61
+8681	FBgn0032216	Usp14		Ubiquitin specific protease 14	-1.07	0.0	0.0	0.02	0.61
+6032	FBgn0027088	GlyRS		Glycyl-tRNA synthetase	-1.07	0.0	0.0	0.02	0.65
+7061	FBgn0033264	Nup50		Nucleoporin 50kD	-1.07	0.0	0.0	0.0	0.59
+9663	FBgn0002183	dre4		dre4	-1.07	0.0	0.0	0.06	0.71
+9575	FBgn0033015	d4		d4	-1.07	0.0	0.0	0.55	1.65
+7029	FBgn0038473	Ns1		Nucleostemin 1	-1.07	0.0	0.0	0.0	0.61
+5234	FBgn0035918	Cdc6		Cdc6	-1.07	0.0	0.0	0.05	0.67
+245	FBgn0039889	Arl4		ADP ribosylation factor-like 4	-1.07	0.0	0.0	0.19	1.01
+1057	FBgn0033507	CG12909		\N	-1.07	0.0	0.0	0.0	0.6
+4006	FBgn0034345	CG5174		\N	-1.07	0.0	0.0	0.11	0.86
+8643	FBgn0036842	Ugt316A1		UDP-glycosyltransferase family 316 member A1	-1.07	0.0	0.0	0.01	0.65
+3421	FBgn0250868	CG42239		\N	-1.07	0.0	0.0	0.0	0.61
+5405	FBgn0024811	Crk		Crk oncogene	-1.07	0.0	0.0	0.15	0.92
+4180	FBgn0043455	CG5986		\N	-1.07	0.0	0.0	0.05	0.69
+4115	FBgn0034313	CG5726		\N	-1.07	0.0	0.0	0.0	0.6
+241	FBgn0000116	Argk		Arginine kinase	-1.07	0.0	0.0	0.07	0.75
+4868	FBgn0032925	CG9246		\N	-1.07	0.0	0.0	0.02	0.63
+8630	FBgn0036136	Ufd1-like		Ubiquitin fusion-degradation 1-like	-1.07	0.0	0.0	0.0	0.61
+5292	FBgn0033972	Ciao1		Ciao1	-1.07	0.0	0.0	0.0	0.6
+8756	FBgn0031310	Vps29		Vacuolar protein sorting 29	-1.07	0.0	0.0	0.0	0.6
+9714	FBgn0034258	eIF3c		eukaryotic translation initiation factor 3 subunit c	-1.06	0.0	0.0	0.25	1.1
+343	FBgn0035871	BI-1		Bax Inhibitor-1	-1.06	0.0	0.0	0.02	0.64
+2270	FBgn0015359	CG2034		\N	-1.06	0.0	0.0	0.0	0.6
+2126	FBgn0038421	CG17931		\N	-1.06	0.0	0.0	0.0	0.59
+764	FBgn0037504	CG1142		\N	-1.06	0.0	0.0	0.0	0.58
+572	FBgn0030034	CG10555		\N	-1.06	0.0	0.0	0.13	0.83
+11494	FBgn0024846	p38b		p38b MAP kinase	-1.06	0.0	0.0	0.0	0.61
+395	FBgn0030434	Brms1		BRMS1 transcriptional repressor	-1.06	0.0	0.0	0.0	0.59
+5208	FBgn0020224	Cbl		Cbl proto-oncogene	-1.06	0.0	0.0	0.02	0.63
+7545	FBgn0014009	Rab2		Rab2	-1.06	0.0	0.0	0.24	1.1
+11510	FBgn0052528	parvin		parvin	-1.06	0.0	0.0	0.0	0.58
+7557	FBgn0016701	Rab4		Rab4	-1.06	0.0	0.0	0.04	0.69
+6143	FBgn0015805	HDAC1		Histone deacetylase 1	-1.06	0.0	0.0	0.1	0.76
+7708	FBgn0037707	RnpS1		RNA-binding protein S1	-1.06	0.0	0.0	0.0	0.58
+7525	FBgn0036187	RIOK1		RIO kinase 1	-1.05	0.0	0.0	0.0	0.59
+5303	FBgn0010314	Cks30A		Cyclin-dependent kinase subunit 30A	-1.05	0.0	0.0	0.0	0.55
+5965	FBgn0000053	Gart		GART trifunctional enzyme	-1.05	0.0	0.0	0.01	0.63
+2113	FBgn0028480	CG17841		\N	-1.05	0.0	0.0	0.09	0.73
+4033	FBgn0038491	CG5292		\N	-1.05	0.0	0.0	0.0	0.6
+261	FBgn0284255	Arpc4		Actin-related protein 2/3 complex, subunit 4	-1.05	0.0	0.0	0.01	0.6
+5662	FBgn0032474	DnaJ-H		DnaJ homolog	-1.05	0.0	0.0	0.01	0.58
+8918	FBgn0031458	aph-1		anterior pharynx defective 1	-1.05	0.0	0.0	0.01	0.6
+7616	FBgn0017551	Rca1		Regulator of cyclin A1	-1.05	0.0	0.0	0.0	0.55
+11407	FBgn0005322	nmd		no mitochondrial derivative	-1.05	0.0	0.0	0.21	1.02
+6720	FBgn0024326	Mkk4		MAP kinase kinase 4	-1.05	0.0	0.0	0.0	0.6
+11529	FBgn0011207	pelo		pelota	-1.05	0.0	0.0	0.04	0.68
+139	FBgn0036337	Adk2	AdenoK	Adenosine kinase 2	-1.05	0.0	0.0	0.0	0.62
+12395	FBgn0040066	wds		will die slowly	-1.05	0.0	0.0	0.06	0.68
+7554	FBgn0002567	Rab32		Rab32	-1.05	0.0	0.0	0.01	0.64
+6579	FBgn0034962	MAN1		MAN1	-1.05	0.0	0.0	0.0	0.6
+7591	FBgn0004636	Rap1		Rap1 GTPase	-1.05	0.0	0.0	0.63	1.65
+4327	FBgn0032408	CG6712		\N	-1.05	0.0	0.0	0.04	0.66
+2890	FBgn0052625	CG32625		\N	-1.05	0.0	0.0	0.0	0.58
+4674	FBgn0033349	CG8243		\N	-1.05	0.0	0.0	0.0	0.6
+1856	FBgn0035337	CG15877		\N	-1.04	0.0	0.0	0.0	0.58
+2114	FBgn0030061	CG1785		\N	-1.04	0.0	0.0	0.0	0.59
+5607	FBgn0026533	Dek		Dek	-1.04	0.0	0.0	0.41	1.32
+9877	FBgn0027342	fz4		frizzled 4	-1.04	0.0	0.0	0.03	0.64
+5841	FBgn0025608	Faf2		Fas-associated factor 2	-1.04	0.0	0.0	0.01	0.59
+11315	FBgn0013686	mt:lrRNA		GH05377p	-1.04	0.0	0.0	2.19	3.35
+9710	FBgn0004926	eIF2beta		eukaryotic translation initiation factor 2 subunit beta	-1.04	0.0	0.0	1.46	2.86
+1490	FBgn0029915	CG14434		\N	-1.04	0.0	0.0	0.0	0.59
+9443	FBgn0010292	bys		by S6	-1.04	0.0	0.0	0.0	0.58
+4658	FBgn0030863	CG8188		\N	-1.04	0.0	0.0	0.05	0.64
+3563	FBgn0261995	CG42813		\N	-1.04	0.0	0.0	0.0	0.6
+11102	FBgn0010100	mAcon1		Mitochondrial aconitase 1	-1.04	0.0	0.0	0.01	0.6
+3162	FBgn0033100	CG3420		\N	-1.04	0.0	0.0	0.0	0.6
+6016	FBgn0027090	GlnRS		Glutaminyl-tRNA synthetase	-1.04	0.0	0.0	0.01	0.59
+7366	FBgn0030670	Pis		Phosphatidylinositol synthase	-1.04	0.0	0.0	0.03	0.65
+3124	FBgn0036008	CG3408		\N	-1.04	0.0	0.0	0.07	0.71
+6476	FBgn0266449	Kr-h2		Kruppel homolog 2	-1.04	0.0	0.0	0.06	0.73
+7829	FBgn0037121	Rpb8		Rpb8	-1.04	0.0	0.0	0.0	0.58
+5001	FBgn0037242	CG9855		\N	-1.04	0.0	0.0	0.0	0.6
+1400	FBgn0032961	CG1416		\N	-1.03	0.0	0.0	0.19	0.98
+8310	FBgn0039212	Syx18		Syntaxin 18	-1.03	0.0	0.0	0.01	0.61
+3427	FBgn0266569	CG42259		\N	-1.03	0.0	0.0	0.0	0.59
+934	FBgn0031048	CG12237		\N	-1.03	0.0	0.0	0.0	0.57
+5440	FBgn0010317	CycJ		Cyclin J	-1.03	0.0	0.0	0.0	0.57
+55	FBgn0024833	AP-1mu		Adaptor Protein complex 1, mu subunit	-1.03	0.0	0.0	0.0	0.56
+7859	FBgn0034879	Rrp4		Rrp4	-1.03	0.0	0.0	0.0	0.59
+1188	FBgn0033884	CG13344		\N	-1.03	0.0	0.0	0.0	0.57
+4354	FBgn0036827	CG6843		\N	-1.03	0.0	0.0	0.02	0.61
+11172	FBgn0039159	mRpS24		mitochondrial ribosomal protein S24	-1.03	0.0	0.0	0.0	0.6
+5328	FBgn0029594	Coa8	CG14806	Cytochrome c oxidase assembly factor 8	-1.03	0.0	0.0	0.0	0.58
+11143	FBgn0001995	mRpL4		mitochondrial ribosomal protein L4	-1.03	0.0	0.0	0.0	0.58
+2527	FBgn0051075	CG31075		\N	-1.03	0.0	0.0	0.0	0.51
+6039	FBgn0004913	Gnf1		Germ line transcription factor 1	-1.03	0.0	0.0	0.05	0.65
+12293	FBgn0250874	ttm50		tiny tim 50	-1.03	0.0	0.0	0.0	0.57
+4163	FBgn0038401	CG5916		\N	-1.03	0.0	0.0	0.0	0.58
+7650	FBgn0260985	RfC4		Replication factor C subunit 4	-1.03	0.0	0.0	0.0	0.55
+7510	FBgn0034918	Pym		Partner of Y14 and Mago	-1.03	0.0	0.0	0.0	0.57
+172	FBgn0027094	AlaRS		Alanyl-tRNA synthetase	-1.03	0.0	0.0	0.04	0.66
+4496	FBgn0035805	CG7506		\N	-1.02	0.0	0.0	0.0	0.58
+12194	FBgn0028563	sut1		sugar transporter 1	-1.02	0.0	0.0	0.0	0.6
+5157	FBgn0028837	CSN6		COP9 signalosome subunit 6	-1.02	0.0	0.0	0.0	0.58
+6670	FBgn0017577	Mcm5		Minichromosome maintenance 5	-1.02	0.0	0.0	0.0	0.54
+9623	FBgn0010497	dmGlut		Dietary and metabolic glutamate transporter	-1.02	0.0	0.0	0.0	0.57
+11131	FBgn0053002	mRpL27		mitochondrial ribosomal protein L27	-1.02	0.0	0.0	0.0	0.56
+9755	FBgn0069242	eca		eclair	-1.02	0.0	0.0	0.14	0.87
+231	FBgn0038893	Archease		Archease	-1.02	0.0	0.0	0.0	0.57
+5239	FBgn0004107	Cdk2		Cyclin-dependent kinase 2	-1.02	0.0	0.0	0.0	0.56
+11904	FBgn0261792	snRNP-U1-C		small ribonucleoprotein particle U1 subunit C	-1.02	0.0	0.0	0.0	0.54
+1599	FBgn0026090	CG14812		\N	-1.02	0.0	0.0	0.01	0.59
+11654	FBgn0003187	qua		quail	-1.02	0.0	0.0	0.04	0.63
+86	FBgn0031851	Aatf		Apoptosis antagonizing transcription factor	-1.02	0.0	0.0	0.03	0.61
+1586	FBgn0033236	CG14764		\N	-1.02	0.0	0.0	0.05	0.7
+11658	FBgn0003257	r-l		rudimentary-like	-1.02	0.0	0.0	0.01	0.61
+7946	FBgn0030788	Sap30		SIN3-associated polypeptide 30	-1.02	0.0	0.0	0.05	0.66
+9342	FBgn0013432	bcn92		bcn92	-1.02	0.0	0.0	0.04	0.63
+7585	FBgn0039110	RanBP3		Ran binding protein 3	-1.02	0.0	0.0	0.0	0.57
+6918	FBgn0259174	Nedd4		Nedd4	-1.02	0.0	0.0	0.42	1.34
+7367	FBgn0026576	Pisd		Phosphatidylserine decarboxylase	-1.02	0.0	0.0	0.04	0.66
+10096	FBgn0033032	kune		kune-kune	-1.02	0.0	0.0	0.05	0.67
+7983	FBgn0038437	Sdhaf3		Succinate dehydrogenase assembly factor 3	-1.02	0.0	0.0	0.0	0.57
+7543	FBgn0015794	Rab18		Rab18	-1.01	0.0	0.0	0.0	0.57
+4477	FBgn0037134	CG7407		\N	-1.01	0.0	0.0	0.0	0.57
+11161	FBgn0038474	mRpS11		mitochondrial ribosomal protein S11	-1.01	0.0	0.0	0.0	0.57
+4837	FBgn0030610	Cox17	CG9065	Cytochrome c oxidase copper chaperone COX17	-1.01	0.0	0.0	0.0	0.56
+5635	FBgn0000447	Dhod		Dihydroorotate dehydrogenase	-1.01	0.0	0.0	0.01	0.57
+11888	FBgn0003447	sn		singed	-1.01	0.0	0.0	0.21	0.98
+664	FBgn0037235	CG1103		\N	-1.01	0.0	0.0	0.04	0.65
+11640	FBgn0043900	pygo		pygopus	-1.01	0.0	0.0	0.0	0.55
+6086	FBgn0032705	Grip71		Grip71	-1.01	0.0	0.0	0.0	0.58
+9312	FBgn0000147	aurA		aurora A	-1.01	0.0	0.0	0.0	0.56
+7340	FBgn0003076	Pgm1		Phosphoglucose mutase 1	-1.01	0.0	0.0	0.0	0.55
+12379	FBgn0035120	wac		wee Augmin	-1.01	0.0	0.0	0.0	0.57
+6756	FBgn0033341	MrgBP		MRG/MORF4L binding protein	-1.01	0.0	0.0	0.0	0.54
+9772	FBgn0283649	elgi		early girl	-1.01	0.0	0.0	0.0	0.57
+9818	FBgn0030090	fend		forked end	-1.01	0.0	0.0	0.36	1.19
+7906	FBgn0283477	SF2		Splicing factor 2	-1.01	0.0	0.0	0.59	1.65
+11659	FBgn0031951	r2d2		r2d2	-1.01	0.0	0.0	0.0	0.56
+6045	FBgn0044871	Gos28		Golgi SNARE, 28 kDa	-1.01	0.0	0.0	0.01	0.57
+7576	FBgn0039065	Rad60		Rad60	-1.01	0.0	0.0	0.0	0.54
+6340	FBgn0025885	Inos		myo-inositol-1-phosphate synthase	-1.01	0.0	0.0	0.03	0.6
+4647	FBgn0037700	CG8149		\N	-1.01	0.0	0.0	0.0	0.57
+8473	FBgn0026015	Top3beta		Topoisomerase 3beta	-1.01	0.0	0.0	0.0	0.56
+10024	FBgn0037374	jagn		jagunal	-1.0	0.0	0.0	0.01	0.59
+8423	FBgn0033929	Tfb1		Transcription factor B1	-1.0	0.0	0.0	0.01	0.58
+7822	FBgn0010408	RpS9		Ribosomal protein S9	-1.0	0.0	0.0	2.78	4.0
+12355	FBgn0267975	vib		vibrator	-1.0	0.0	0.0	0.14	0.86
+1653	FBgn0035528	CG15012		\N	-1.0	0.0	0.0	0.04	0.65
+9381	FBgn0027348	bgm		bubblegum	-1.0	0.0	0.0	0.0	0.53
+1888	FBgn0030481	CG1662		\N	-1.0	0.0	0.0	0.0	0.56
+4888	FBgn0036888	CG9330		\N	-1.0	0.0	0.0	0.03	0.64
+9539	FBgn0034577	cpa		capping protein alpha	-1.0	0.0	0.0	0.01	0.56
+9748	FBgn0000536	eas		easily shocked	-1.0	0.0	0.0	0.05	0.63
+949	FBgn0036483	CG12316		\N	-1.0	0.0	0.0	0.0	0.54
+4304	FBgn0035911	CG6638		\N	-1.0	0.0	0.0	0.0	0.57
+5548	FBgn0030802	DENR		Density regulated protein	-1.0	0.0	0.0	0.0	0.55
+827	FBgn0038683	CG11779		\N	-1.0	0.0	0.0	0.0	0.57
+2021	FBgn0032029	CG17292		\N	-1.0	0.0	0.0	0.0	0.55
+4420	FBgn0031947	CG7154		\N	-1.0	0.0	0.0	0.15	0.79
+11192	FBgn0034534	maf-S		maf-S	-1.0	0.0	0.0	0.02	0.59
+8029	FBgn0030486	Set2		SET domain containing 2	-1.0	0.0	0.0	0.02	0.54
+955	FBgn0037489	CG1234		\N	-1.0	0.0	0.0	0.11	0.77
+3374	FBgn0035986	CG4022		\N	-1.0	0.0	0.0	0.0	0.55
+9331	FBgn0037081	barc		barricade	-1.0	0.0	0.0	0.03	0.59
+10081	FBgn0264816	koko		kokopelli	-1.0	0.0	0.0	0.0	0.56

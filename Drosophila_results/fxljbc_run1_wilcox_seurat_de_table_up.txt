@@ -1,0 +1,664 @@
+14387	FBgn0040765	luna		luna	5.04	0.0	0.0	5.17	0.5
+14340	FBgn0001234	lncRNA:Hsromega		LD48048p	4.68	0.0	0.0	7.62	1.93
+11698	FBgn0032629	beat-IIIc		beaten path IIIc	4.57	0.0	0.0	3.08	0.41
+11931	FBgn0285955	cv-c		crossveinless c	4.4	0.0	0.0	4.74	0.72
+14536	FBgn0261260	mgl		Megalin	4.27	0.0	0.0	4.87	0.62
+10006	FBgn0032330	Samuel		SAM-motif ubiquitously expressed punctatedly localized protein	4.26	0.0	0.0	4.05	0.2
+6570	FBgn0262160	CG9932		\N	4.24	0.0	0.0	4.48	0.5
+14626	FBgn0259735	mtgo		miles to go	4.15	0.0	0.0	4.34	0.56
+7593	FBgn0000636	Fas3		Fasciclin 3	4.07	0.0	0.0	2.99	0.45
+15161	FBgn0052423	shep		alan shepard	4.02	0.0	0.0	5.67	1.26
+14970	FBgn0262614	pyd		polychaetoid	4.01	0.0	0.0	4.78	0.79
+7515	FBgn0000568	Eip75B		Ecdysone-induced protein 75B	3.96	0.0	0.0	3.64	0.33
+7798	FBgn0027287	Gmap		Golgi microtubule-associated protein	3.93	0.0	0.0	4.32	0.57
+4918	FBgn0263706	CG43658		\N	3.85	0.0	0.0	4.07	0.42
+15430	FBgn0034903	sona		sol narae	3.83	0.0	0.0	2.83	0.19
+372	FBgn0002921	Atpalpha		Na pump alpha subunit	3.79	0.0	0.0	3.76	0.35
+7517	FBgn0264490	Eip93F		Ecdysone-induced protein 93F	3.78	0.0	0.0	3.5	0.32
+15167	FBgn0013733	shot		short stop	3.74	0.0	0.0	3.97	0.46
+11824	FBgn0023095	caps		capricious	3.69	0.0	0.0	3.44	0.18
+9488	FBgn0040752	Prosap		Prosap	3.64	0.0	0.0	4.33	0.96
+9645	FBgn0264895	RapGAP1		Rap GTPase activating protein 1	3.61	0.0	0.0	3.72	0.69
+4232	FBgn0085446	CG34417		\N	3.56	0.0	0.0	3.27	0.29
+9664	FBgn0260943	Rbp6		RNA-binding protein 6	3.51	0.0	0.0	2.57	0.31
+9301	FBgn0259171	Pde9		Phosphodiesterase 9	3.51	0.0	0.0	2.58	0.35
+9311	FBgn0016694	Pdp1		PAR-domain protein 1	3.5	0.0	0.0	3.27	0.49
+14624	FBgn0013576	mtd		mustard	3.47	0.0	0.0	3.92	0.76
+188	FBgn0036043	Ae2	CG8177	Anion exchanger 2	3.42	0.0	0.0	2.6	0.28
+12243	FBgn0004652	fru		fruitless	3.38	0.0	0.0	2.78	0.61
+6954	FBgn0033313	Cirl		Calcium-independent receptor for alpha-latrotoxin	3.38	0.0	0.0	3.61	0.31
+14366	FBgn0019661	lncRNA:roX1		IP13828p (Fragment)	3.36	0.0	0.0	5.14	1.27
+12137	FBgn0000547	ed		echinoid	3.36	0.0	0.0	3.61	0.41
+8771	FBgn0030505	NFAT		NFAT nuclear factor	3.33	0.0	0.0	4.05	0.72
+6140	FBgn0034021	CG8180		\N	3.33	0.0	0.0	2.7	0.21
+14750	FBgn0013718	nuf		nuclear fallout	3.31	0.0	0.0	3.46	0.5
+15561	FBgn0041092	tai		taiman	3.3	0.0	0.0	3.82	0.63
+11779	FBgn0262475	bru2		bruno 2	3.27	0.0	0.0	3.61	0.48
+10015	FBgn0262579	Sarm	Ect4	Sterile alpha and Armadillo motif	3.22	0.0	0.0	3.32	0.36
+12739	FBgn0286827	lncRNA:CR43334		Augmin complex subunit dgt5	3.19	0.0	0.0	2.61	0.28
+9297	FBgn0085370	Pde11		Phosphodiesterase 11	3.19	0.0	0.0	3.07	0.19
+12454	FBgn0263929	jvl		javelin-like	3.17	0.0	0.0	4.1	0.91
+2496	FBgn0038881	CG16791		\N	3.16	0.0	0.0	2.69	0.18
+11798	FBgn0259176	bun		bunched	3.13	0.0	0.0	4.84	1.46
+10591	FBgn0036373	Tgi		Tondu-domain-containing Growth Inhibitor	3.12	0.0	0.0	2.99	0.45
+11684	FBgn0000163	baz		bazooka	3.1	0.0	0.0	3.12	0.35
+7437	FBgn0016930	Dyrk2		Dual-specificity tyrosine phosphorylation-regulated kinase 2	3.08	0.0	0.0	3.02	0.5
+14866	FBgn0029881	pigs		pickled eggs	3.07	0.0	0.0	2.76	0.28
+12467	FBgn0031016	kek5		kekkon 5	3.04	0.0	0.0	3.2	0.48
+15639	FBgn0284408	trol		terribly reduced optic lobes	3.04	0.0	0.0	2.8	0.39
+7266	FBgn0051646	DIP-theta		Dpr-interacting protein theta	3.0	0.0	0.0	1.85	0.09
+12738	FBgn0263019	lncRNA:CR43314		FI04012p	2.99	0.0	0.0	1.51	0.09
+4463	FBgn0250867	CG42238		\N	2.96	0.0	0.0	2.71	0.5
+7199	FBgn0031726	Cyp6a16		Cyp6a16	2.95	0.0	0.0	1.65	0.04
+13645	FBgn0266414	lncRNA:CR45054		Uncharacterized protein, isoform D	2.95	0.0	0.0	2.66	0.12
+12383	FBgn0264491	how		held out wings	2.94	0.0	0.0	3.2	0.42
+5132	FBgn0266801	CG45263		\N	2.93	0.0	0.0	2.46	0.82
+5362	FBgn0036576	CG5151		\N	2.92	0.0	0.0	2.54	0.2
+15174	FBgn0263873	sick		sickie	2.92	0.0	0.0	2.38	0.52
+15179	FBgn0085400	side-V		sidestep V	2.92	0.0	0.0	2.36	0.26
+14823	FBgn0260934	par-1		par-1	2.91	0.0	0.0	3.49	0.51
+6953	FBgn0035533	Cip4		Cdc42-interacting protein 4	2.9	0.0	0.0	3.57	0.7
+6258	FBgn0032945	CG8665		\N	2.88	0.0	0.0	1.31	0.24
+4553	FBgn0260429	CG42524		\N	2.88	0.0	0.0	2.32	0.12
+7291	FBgn0020493	Dad		Daughters against dpp	2.86	0.0	0.0	2.41	0.11
+12463	FBgn0015399	kek1		kekkon 1	2.84	0.0	0.0	1.81	0.11
+7591	FBgn0285925	Fas1		Fasciclin 1	2.84	0.0	0.0	2.79	0.38
+15007	FBgn0243486	rdo		reduced ocelli	2.83	0.0	0.0	1.02	0.13
+9549	FBgn0032006	Pvr		PDGF- and VEGF-receptor related	2.83	0.0	0.0	2.45	0.15
+468	FBgn0003502	Btk29A		Btk family kinase at 29A	2.82	0.0	0.0	2.59	0.29
+15137	FBgn0003345	sd		scalloped	2.81	0.0	0.0	3.43	0.57
+12049	FBgn0000504	dsx		doublesex	2.79	0.0	0.0	1.91	0.13
+12043	FBgn0027594	drpr		draper	2.79	0.0	0.0	3.17	0.52
+3109	FBgn0028496	CG30116		\N	2.77	0.0	0.0	2.07	0.15
+9985	FBgn0264357	SNF4Agamma		SNF4/AMP-activated protein kinase gamma subunit	2.77	0.0	0.0	3.39	0.67
+12473	FBgn0262127	kibra		kibra	2.75	0.0	0.0	2.69	0.42
+7687	FBgn0050115	GEFmeso		Guanine nucleotide exchange factor in mesoderm	2.75	0.0	0.0	2.5	0.29
+4604	FBgn0261545	CG42663		\N	2.74	0.0	0.0	2.31	0.19
+7592	FBgn0000635	Fas2		Fasciclin 2	2.74	0.0	0.0	2.89	0.57
+8514	FBgn0036801	MYPT-75D		Myosin phosphatase targeting subunit 75D	2.74	0.0	0.0	2.25	0.35
+9975	FBgn0051163	SKIP		Shal K[+] channel interacting protein	2.73	0.0	0.0	2.51	0.46
+14532	FBgn0260745	mfas		midline fasciclin	2.73	0.0	0.0	1.81	0.22
+12616	FBgn0051044	lncRNA:CR31044		Glutathione S-transferase C-terminal domain-containing protein homolog	2.71	0.0	0.0	2.22	0.23
+77	FBgn0034606	ASPP		Ankyrin-repeat, SH3-domain, and Proline-rich-region containing Protein	2.71	0.0	0.0	2.22	0.06
+10473	FBgn0004359	T48		Transcript 48	2.71	0.0	0.0	1.78	0.1
+14791	FBgn0003016	osp		outspread	2.71	0.0	0.0	2.7	0.34
+11998	FBgn0000479	dnc		dunce	2.7	0.0	0.0	3.33	0.89
+15136	FBgn0041094	scyl		scylla	2.68	0.0	0.0	2.89	0.55
+548	FBgn0034644	CG10082		\N	2.68	0.0	0.0	2.23	0.33
+8399	FBgn0026411	Lim1		LIM homeobox 1	2.68	0.0	0.0	1.32	0.41
+4609	FBgn0261555	CG42673		\N	2.67	0.0	0.0	2.27	0.28
+81	FBgn0037989	ATP8B		ATPase 8B	2.67	0.0	0.0	2.2	0.12
+11930	FBgn0000395	cv-2		crossveinless 2	2.67	0.0	0.0	1.62	0.1
+12444	FBgn0039350	jigr1		jing interacting gene regulatory 1	2.65	0.0	0.0	1.69	0.27
+3659	FBgn0052369	CG32369		\N	2.65	0.0	0.0	2.38	0.27
+11730	FBgn0003888	betaTub60D		beta-Tubulin at 60D	2.65	0.0	0.0	2.34	0.21
+4226	FBgn0085427	CG34398		\N	2.65	0.0	0.0	1.65	0.09
+9357	FBgn0050463	Pgant9		Polypeptide N-Acetylgalactosaminyltransferase 9	2.64	0.0	0.0	3.06	0.67
+3341	FBgn0051324	CG31324		\N	2.64	0.0	0.0	1.96	0.1
+4943	FBgn0039078	CG4374		\N	2.62	0.0	0.0	0.4	0.07
+14592	FBgn0011666	msi		musashi	2.61	0.0	0.0	3.3	0.88
+14665	FBgn0004657	mys		myospheroid	2.59	0.0	0.0	2.64	0.28
+5286	FBgn0027556	CG4928		\N	2.59	0.0	0.0	2.03	0.23
+14883	FBgn0039431	plum		plum	2.58	0.0	0.0	2.46	0.26
+14497	FBgn0002643	mam		mastermind	2.58	0.0	0.0	2.62	0.44
+14597	FBgn0010909	msn		misshapen	2.58	0.0	0.0	3.19	0.55
+10634	FBgn0029114	Tollo		Tollo	2.58	0.0	0.0	2.0	0.09
+7096	FBgn0004396	CrebA		Cyclic-AMP response element binding protein A	2.58	0.0	0.0	2.11	0.14
+8154	FBgn0283499	InR		Insulin-like receptor	2.57	0.0	0.0	3.61	0.88
+2581	FBgn0032297	CG17124		\N	2.57	0.0	0.0	2.29	0.21
+12807	FBgn0263617	lncRNA:CR43626		Multiple ankyrin repeats single KH domain, isoform F	2.57	0.0	0.0	1.77	0.06
+3752	FBgn0052719	CG32719		\N	2.56	0.0	0.0	1.89	0.32
+4341	FBgn0029824	CG3726		\N	2.55	0.0	0.0	1.95	0.29
+10619	FBgn0003721	Tm1		Tropomyosin 1	2.53	0.0	0.0	3.61	0.87
+12509	FBgn0259984	kuz		kuzbanian	2.53	0.0	0.0	3.68	0.98
+4949	FBgn0264090	CG43759		\N	2.52	0.0	0.0	1.92	0.24
+14498	FBgn0267033	mamo		maternal gene required for meiosis	2.51	0.0	0.0	2.55	0.56
+15140	FBgn0261873	sdt		stardust	2.51	0.0	0.0	2.26	0.15
+12339	FBgn0001168	h		hairy	2.5	0.0	0.0	1.8	0.08
+15233	FBgn0263346	smash		smallish	2.49	0.0	0.0	2.87	0.59
+15689	FBgn0035756	unc-13-4A		unc-13-4A	2.49	0.0	0.0	1.02	0.23
+10819	FBgn0003944	Ubx		Ultrabithorax	2.49	0.00222	0.00222	0.46	0.18
+14364	FBgn0263049	lncRNA:let7C		LD20590p	2.49	0.0	0.0	1.99	0.14
+11947	FBgn0263930	dally		division abnormally delayed	2.48	0.0	0.0	2.05	0.13
+12438	FBgn0028371	jbug		jitterbug	2.47	0.0	0.0	1.68	0.06
+4610	FBgn0261556	CG42674		\N	2.47	0.0	0.0	2.4	0.25
+3698	FBgn0052512	CG32512		\N	2.47	0.0	0.0	2.06	0.19
+11150	FBgn0000097	aop		anterior open	2.47	0.0	0.0	2.45	0.29
+7792	FBgn0267336	Glut4EF		Glucose transporter 4 enhancer factor	2.47	0.0	0.0	1.89	0.34
+15610	FBgn0039257	tnc		tenectin	2.46	0.0	0.0	0.79	0.1
+103	FBgn0000017	Abl		Abl tyrosine kinase	2.45	0.0	0.0	3.22	0.76
+8917	FBgn0259734	Nost		Nostrin	2.45	0.0	0.0	2.17	0.26
+9410	FBgn0020621	Pkn		Protein kinase N	2.44	0.0	0.0	2.91	0.63
+420	FBgn0035696	Best2		Bestrophin 2	2.44	0.0	0.0	2.17	0.15
+11794	FBgn0266756	btsz		bitesize	2.44	0.0	0.0	1.74	0.08
+10044	FBgn0010415	Sdc		Syndecan	2.44	0.0	0.0	3.4	1.0
+15519	FBgn0086708	stv		starvin	2.43	0.0	0.0	2.19	0.29
+7576	FBgn0000723	FER		FER tyrosine kinase	2.43	0.0	0.0	1.82	0.09
+4660	FBgn0261859	CG42788		\N	2.43	0.0	0.0	2.05	0.11
+15209	FBgn0032901	sky		skywalker	2.42	0.0	0.0	1.7	0.33
+4533	FBgn0259935	CG42458		\N	2.42	0.0	0.0	1.83	0.16
+4874	FBgn0263077	CG43340		\N	2.41	0.0	0.0	1.75	0.15
+10089	FBgn0284221	Sema5c		Semaphorin 5c	2.4	0.0	0.0	1.72	0.05
+7402	FBgn0052666	Drak		Death-associated protein kinase related	2.4	0.0	0.0	2.48	0.49
+7666	FBgn0004509	Fur1		Furin 1	2.4	0.0	0.0	2.48	0.63
+4642	FBgn0261802	CG42748		\N	2.37	0.0	0.0	2.26	0.22
+11906	FBgn0263995	cpo		couch potato	2.37	0.0	0.0	3.01	0.98
+7511	FBgn0005640	Eip63E		Ecdysone-induced protein 63E	2.36	0.0	0.0	3.9	1.18
+2750	FBgn0036454	CG17839		\N	2.35	0.0	0.0	2.69	0.83
+12460	FBgn0001297	kay		kayak	2.35	0.0	0.0	2.28	0.27
+15131	FBgn0263289	scrib		scribble	2.35	0.0	0.0	3.38	0.96
+15205	FBgn0026179	siz		schizo	2.35	0.0	0.0	2.8	0.64
+8040	FBgn0004914	Hnf4		Hepatocyte nuclear factor 4	2.35	0.0	0.0	2.03	0.14
+5545	FBgn0028523	CG5888		\N	2.34	0.0	0.0	1.71	0.04
+12267	FBgn0016797	fz2		frizzled 2	2.33	0.0	0.0	1.93	0.17
+5588	FBgn0038679	CG6040		\N	2.33	0.0	0.0	2.21	0.35
+7439	FBgn0260003	Dys		Dystrophin	2.33	0.0	0.0	2.42	0.58
+7744	FBgn0042135	Gdap2		Gdap2	2.33	0.0	0.0	2.28	0.25
+6097	FBgn0031011	CG8034		\N	2.32	0.0	0.0	1.9	0.13
+11988	FBgn0000462	dl	O77088,Q0E8P9,Q6AWP3,Q9VJD9,Q9VJE0	dorsal	2.32	0.0	0.0	1.86	0.15
+8817	FBgn0259111	Ndae1		Na[+]-driven anion exchanger 1	2.32	0.0	0.0	1.37	0.21
+11687	FBgn0087007	bbg		big bang	2.31	0.0	0.0	2.31	0.52
+8964	FBgn0262617	Nuak	Nuak1	Nuak family kinase	2.3	0.0	0.0	2.82	0.61
+11034	FBgn0261113	Xrp1		Xrp1	2.3	0.0	0.0	2.45	0.29
+15009	FBgn0264493	rdx		roadkill	2.29	0.0	0.0	3.25	0.81
+12685	FBgn0262109	lncRNA:CR42862		Ecdysis-triggering hormone	2.28	0.0	0.0	4.09	1.42
+12375	FBgn0041150	hoe1		hoepel1	2.28	0.0	0.0	1.88	0.26
+12195	FBgn0014163	fax		failed axon connections	2.28	0.0	0.0	3.16	0.88
+11908	FBgn0259685	crb		crumbs	2.27	0.0	0.0	2.01	0.14
+8617	FBgn0035049	Mmp1		Matrix metalloproteinase 1	2.27	0.0	0.0	1.33	0.1
+3795	FBgn0052982	CG32982		\N	2.27	0.0	0.0	1.42	0.2
+214	FBgn0010548	Aldh-III		Aldehyde dehydrogenase type III	2.26	0.0	0.0	2.56	0.69
+6177	FBgn0037720	CG8312		\N	2.26	0.0	0.0	2.14	0.49
+14779	FBgn0259175	ome		omega	2.25	0.0	0.0	1.79	0.25
+14973	FBgn0033649	pyr		pyramus	2.22	0.0	0.0	1.56	0.1
+8773	FBgn0024321	NK7.1		NK7.1	2.22	0.0	0.0	2.28	0.62
+8409	FBgn0034720	Liprin-gamma		Liprin-gamma	2.21	0.0	0.0	1.2	0.14
+14961	FBgn0243512	puc		puckered	2.2	0.0	0.0	2.19	0.46
+12481	FBgn0001316	klar		klarsicht	2.2	0.0	0.0	4.24	1.6
+3288	FBgn0051176	CG31176		\N	2.19	0.0	0.0	1.3	0.04
+474	FBgn0040491	Buffy		Buffy	2.19	0.0	0.0	1.64	0.11
+15593	FBgn0033652	ths		thisbe	2.18	0.0	0.0	1.22	0.11
+1685	FBgn0035237	CG13917		\N	2.17	0.0	0.0	2.82	0.74
+15101	FBgn0285917	sbb		scribbler	2.17	0.0	0.0	3.85	1.28
+8498	FBgn0058263	MFS17		Major Facilitator Superfamily Transporter 17	2.17	0.0	0.0	3.34	0.87
+9542	FBgn0022361	Pur-alpha		Purine-rich binding protein-alpha	2.17	0.0	0.0	2.34	0.26
+8152	FBgn0001257	ImpL2		Ecdysone-inducible gene L2	2.17	0.0	0.0	1.5	0.13
+8009	FBgn0035142	Hipk		Homeodomain interacting protein kinase	2.17	0.0	0.0	2.63	0.51
+7438	FBgn0027101	Dyrk3		Dual-specificity tyrosine phosphorylation-regulated kinase 3	2.15	0.0	0.0	2.78	0.44
+15464	FBgn0085443	spri		sprint	2.15	0.0	0.0	1.78	0.18
+3878	FBgn0034985	CG3328		\N	2.15	0.0	0.0	1.23	0.06
+10617	FBgn0262473	Tl		Toll	2.15	0.0	0.0	1.47	0.1
+12182	FBgn0000320	eya		eyes absent	2.15	0.0	0.0	1.91	0.29
+14681	FBgn0034797	nahoda		nahoda	2.15	0.0	0.0	1.58	0.16
+9419	FBgn0025574	Pli		Pellino	2.14	0.0	0.0	2.44	0.47
+10597	FBgn0014073	Tie		Tie-like receptor tyrosine kinase	2.14	0.0	0.0	1.58	0.07
+826	FBgn0039927	CG11155		\N	2.13	0.0	0.0	1.94	0.16
+5197	FBgn0285963	CG46339		\N	2.11	0.0	0.0	1.1	0.06
+10217	FBgn0265523	Smr		Smrter	2.11	0.0	0.0	3.24	0.72
+9543	FBgn0035802	Pura		Puratrophin-1-like	2.1	0.0	0.0	1.77	0.15
+14968	FBgn0003175	px		plexus	2.1	0.0	0.0	2.24	0.43
+9300	FBgn0266377	Pde8		Phosphodiesterase 8	2.09	0.0	0.0	2.0	0.28
+14997	FBgn0261570	raskol		raskol	2.08	0.0	0.0	2.17	0.37
+14504	FBgn0015513	mbc		myoblast city	2.08	0.0	0.0	1.86	0.25
+14999	FBgn0031745	rau		rau	2.07	0.0	0.0	1.53	0.03
+5565	FBgn0032587	CG5953		\N	2.06	0.0	0.0	1.83	0.18
+14821	FBgn0085432	pan		pangolin	2.06	0.0	0.0	2.74	0.62
+9546	FBgn0030964	Pvf1		PDGF- and VEGF-related factor 1	2.06	0.0	0.0	1.69	0.09
+10197	FBgn0035968	Slc45-1		Solute carrier family 45 member 1	2.06	0.0	0.0	1.09	0.08
+3860	FBgn0053229	CG33229		\N	2.05	0.0	0.0	2.68	0.57
+12227	FBgn0011591	fng		fringe	2.05	0.0	0.0	1.48	0.06
+3543	FBgn0029887	CG3198		\N	2.05	0.0	0.0	1.35	0.25
+9634	FBgn0015286	Rala		Ras-like protein A	2.04	0.0	0.0	2.21	0.39
+7640	FBgn0264078	Flo2		Flotillin 2	2.04	0.0	0.0	1.83	0.18
+15622	FBgn0033636	tou		toutatis	2.04	0.0	0.0	2.75	0.78
+10371	FBgn0016917	Stat92E		Signal-transducer and activator of transcription protein at 92E	2.04	0.0	0.0	2.07	0.33
+15683	FBgn0262124	uex		unextended	2.03	0.0	0.0	3.66	1.21
+8490	FBgn0032694	MESR3		Misexpression suppressor of ras 3	2.03	0.0	0.0	1.65	0.1
+12303	FBgn0015229	glec		gliolectin	2.03	0.0	0.0	2.07	0.39
+10337	FBgn0264959	Src42A		Src oncogene at 42A	2.03	0.0	0.0	2.68	0.69
+12364	FBgn0003997	hid		head involution defective	2.02	0.0	0.0	1.35	0.15
+4069	FBgn0083956	CG34120		\N	2.0	0.0	0.0	1.75	0.25
+9662	FBgn0030479	Rbp1-like		Rbp1-like	2.0	0.0	0.0	2.01	0.23
+9567	FBgn0039209	REPTOR		Repressed by TOR	2.0	0.0	0.0	2.0	0.33
+8607	FBgn0036844	Mkp3		Mitogen-activated protein kinase phosphatase 3	2.0	0.0	0.0	1.71	0.38
+9511	FBgn0036030	Prps	CG6767	Phosphoribosyl pyrophosphate synthetase	2.0	0.0	0.0	1.8	0.29
+11019	FBgn0010453	Wnt4		Wnt oncogene analog 4	1.99	0.0	0.0	0.87	0.12
+14863	FBgn0261811	pico		pico	1.99	0.0	0.0	2.29	0.46
+1380	FBgn0032084	CG13101		\N	1.98	0.0	0.0	1.27	0.12
+8649	FBgn0015766	Msr-110		Msr-110	1.98	0.0	0.0	1.92	0.39
+7456	FBgn0011766	E2f1		E2F transcription factor 1	1.98	0.0	0.0	2.37	0.48
+9394	FBgn0016926	Pino		Pinocchio	1.98	0.0	0.0	2.35	0.56
+7493	FBgn0003731	Egfr		Epidermal growth factor receptor	1.97	0.0	0.0	1.53	0.06
+411	FBgn0260960	Baldspot		Baldspot	1.97	0.0	0.0	2.01	0.44
+8425	FBgn0051092	LpR2		Lipophorin receptor 2	1.96	0.0	0.0	1.63	0.15
+2696	FBgn0264494	CG17646		\N	1.95	0.0	0.0	1.66	0.15
+10466	FBgn0013343	Syx1A		Syntaxin 1A	1.95	0.0	0.0	3.17	1.12
+3699	FBgn0052521	CG32521		\N	1.95	0.0	0.0	1.62	0.19
+7301	FBgn0024804	Dbp80		Dead box protein 80	1.94	0.0	0.0	3.82	1.5
+1664	FBgn0034501	CG13868		\N	1.93	0.0	0.0	1.09	0.16
+3282	FBgn0051145	CG31145		\N	1.93	0.0	0.0	1.34	0.08
+8350	FBgn0033212	LRR		Leucine-rich repeat	1.93	0.0	0.0	2.2	0.55
+14845	FBgn0003053	peb		pebbled	1.92	0.0	0.0	1.39	0.18
+1842	FBgn0038632	CG14301		\N	1.92	0.0	0.0	1.39	0.29
+6272	FBgn0027585	CG8740		\N	1.92	0.0	0.0	1.54	0.13
+12235	FBgn0011592	fra		frazzled	1.92	0.0	0.0	1.91	0.63
+11933	FBgn0259938	cwo		clockwork orange	1.91	0.0	0.0	2.03	0.35
+477	FBgn0265598	Bx		Beadex	1.91	0.0	0.0	1.66	0.22
+6579	FBgn0031413	CG9967		\N	1.9	0.0	0.0	1.37	0.13
+4323	FBgn0040397	CG3655		\N	1.9	0.0	0.0	1.66	0.3
+4207	FBgn0085376	CG34347		\N	1.89	0.0	0.0	1.45	0.25
+5591	FBgn0039492	CG6051		\N	1.89	0.0	0.0	2.45	0.68
+6500	FBgn0036663	CG9674		\N	1.89	0.0	0.0	1.62	0.39
+8628	FBgn0011661	Moe		Moesin	1.89	0.0	0.0	2.28	0.52
+6832	FBgn0267912	CanA-14F		Calcineurin A at 14F	1.89	0.0	0.0	1.54	0.09
+11989	FBgn0001624	dlg1		discs large 1	1.88	0.0	0.0	2.31	0.45
+9709	FBgn0026376	Rgl		Ral guanine nucleotide dissociation stimulator-like	1.87	0.0	0.0	1.5	0.1
+9621	FBgn0014011	Rac2		Rac2	1.87	0.0	0.0	1.6	0.17
+11089	FBgn0000014	abd-A		abdominal A	1.87	0.0	0.0	1.39	0.15
+4027	FBgn0053970	osy	CG33970	oskyddad	1.87	0.0	0.0	1.14	0.23
+7566	FBgn0261547	Exn		Ephexin	1.86	0.0	0.0	1.48	0.06
+7888	FBgn0001145	Gs2		Glutamine synthetase 2	1.86	0.0	0.0	1.05	0.12
+8623	FBgn0259481	Mob2		Mob2	1.85	0.0	0.0	2.6	0.76
+11884	FBgn0259212	cno		canoe	1.85	0.0	0.0	2.16	0.5
+8944	FBgn0264975	Nrg		Neuroglian	1.85	0.0	0.0	2.39	0.67
+8725	FBgn0029762	NAAT1		Nutrient Amino Acid Transporter 1	1.85	0.0	0.0	1.25	0.27
+12184	FBgn0031414	eys		eyes shut	1.85	0.0	0.0	1.33	0.15
+9058	FBgn0038063	Octbeta2R		Octopamine beta2 receptor	1.84	0.0	0.0	0.9	0.13
+14629	FBgn0035132	mthl10		methuselah-like 10	1.83	0.0	0.0	1.44	0.09
+7790	FBgn0264574	Glut1		Glucose transporter 1	1.83	0.0	0.0	1.29	0.1
+14506	FBgn0265487	mbl		muscleblind	1.83	0.0	0.0	3.2	1.43
+10577	FBgn0263392	Tet		Ten-Eleven Translocation (TET) family protein	1.83	0.0	0.0	0.73	0.09
+15427	FBgn0003463	sog		short gastrulation	1.83	0.0	0.0	0.82	0.19
+4888	FBgn0263131	CG43373		\N	1.83	0.0	0.0	0.68	0.06
+3838	FBgn0053144	CG33144		\N	1.82	0.0	0.0	2.0	0.53
+8783	FBgn0050104	NT5E-2		Ecto-5'-nucleotidase 2	1.82	0.0	0.0	2.29	0.78
+15186	FBgn0266411	sima		similar	1.82	0.0	0.0	2.84	1.01
+10266	FBgn0005612	Sox14		Sox box protein 14	1.81	0.0	0.0	1.56	0.08
+11747	FBgn0027660	blot		bloated tubules	1.81	0.0	0.0	1.23	0.06
+8114	FBgn0283680	IP3K2		Inositol 1,4,5-triphosphate kinase 2	1.81	0.0	0.0	1.38	0.06
+10443	FBgn0034709	Swim		Secreted Wg-interacting molecule	1.81	0.0	0.0	1.47	0.3
+12562	FBgn0086686	l(3)L1231		lethal (3) L1231	1.81	0.0	0.0	2.62	0.68
+12540	FBgn0002121	l(2)gl		lethal (2) giant larvae	1.81	0.0	0.0	2.13	0.34
+8174	FBgn0265274	Inx3		Innexin 3	1.81	0.0	0.0	1.77	0.3
+7374	FBgn0037443	Dmtn		Dementin	1.81	0.0	0.0	2.01	0.38
+14819	FBgn0060296	pain		painless	1.8	0.0	0.0	1.21	0.05
+11010	FBgn0031374	Wdr62		WD repeat domain 62	1.8	0.0	0.0	3.26	1.37
+7308	FBgn0000422	Ddc		Dopa decarboxylase	1.8	0.0	0.0	1.07	0.18
+3702	FBgn0052532	CG32532		\N	1.79	0.0	0.0	0.98	0.01
+9726	FBgn0031118	RhoGAP19D		Rho GTPase activating protein at 19D	1.79	0.0	0.0	3.22	1.15
+12822	FBgn0263659	lncRNA:CR43650		Cysteinyl-tRNA synthetase, mitochondrial, isoform A	1.79	0.0	0.0	1.45	0.16
+8718	FBgn0010246	Myo61F		Myosin 61F	1.78	0.0	0.0	1.04	0.07
+15733	FBgn0003984	vn		vein	1.78	0.0	0.0	1.22	0.15
+12390	FBgn0263395	hppy		happyhour	1.78	0.0	0.0	2.59	0.9
+15002	FBgn0261549	rdgA		retinal degeneration A	1.78	0.0	0.0	1.76	0.34
+9725	FBgn0261461	RhoGAP18B		Rho GTPase activating protein at 18B	1.76	0.0	0.0	1.49	0.12
+9739	FBgn0035574	RhoGEF64C		Rho guanine nucleotide exchange factor at 64C	1.76	0.0	0.0	0.98	0.13
+15609	FBgn0026160	tna		tonalli	1.76	0.0	0.0	1.82	0.79
+15453	FBgn0086676	spin		spinster	1.74	0.0	0.0	1.51	0.21
+12778	FBgn0263413	lncRNA:CR43459		Multidrug-Resistance like protein 1, isoform C	1.74	0.0	0.0	1.42	0.05
+11920	FBgn0000382	csw		corkscrew	1.74	0.0	0.0	1.4	0.21
+15163	FBgn0003391	shg		shotgun	1.74	0.0	0.0	1.64	0.26
+243	FBgn0027356	Amph		Amphiphysin	1.73	0.0	0.0	1.34	0.36
+14714	FBgn0002945	nkd		naked cuticle	1.73	0.0	0.0	1.21	0.2
+8542	FBgn0005536	Mbs		Myosin binding subunit	1.73	0.0	0.0	2.33	0.77
+12363	FBgn0004644	hh		hedgehog	1.72	0.0	0.0	1.1	0.1
+7993	FBgn0052529	Hers		Histone gene-specific Epigenetic Repressor in late S phase	1.72	0.0	0.0	1.57	0.17
+14652	FBgn0037705	mura		murashka	1.72	0.0	0.0	1.7	0.22
+2749	FBgn0028394	CG17834		\N	1.71	0.0	0.0	1.28	0.23
+15086	FBgn0261648	salm		spalt major	1.71	7.0e-05	7.0e-05	0.45	0.15
+4607	FBgn0261553	CG42671		\N	1.7	0.0	0.0	2.03	0.49
+5188	FBgn0031299	CG4629		\N	1.7	0.0	0.0	0.95	0.07
+10640	FBgn0030412	Tomosyn		Tomosyn	1.69	0.0	0.0	1.7	0.24
+3684	FBgn0052457	CG32457		\N	1.69	0.0	0.0	1.42	1.07
+6496	FBgn0031515	CG9664		\N	1.69	0.0	0.0	1.3	0.21
+15053	FBgn0002543	robo2		roundabout 2	1.68	0.0	0.0	0.92	0.07
+8813	FBgn0036279	Ncc69		sodium chloride cotransporter 69	1.67	0.0	0.0	1.09	0.1
+6369	FBgn0031738	CG9171		\N	1.67	0.0	0.0	1.72	0.39
+8113	FBgn0032147	IP3K1		Inositol 1,4,5-triphosphate kinase 1	1.67	0.0	0.0	1.22	0.08
+6880	FBgn0265082	Cdep		Chondrocyte-derived ezrin-like domain containing protein	1.67	0.0	0.0	1.5	0.17
+7480	FBgn0000546	EcR		Ecdysone receptor	1.67	0.0	0.0	1.52	0.18
+9974	FBgn0029761	SK		small conductance calcium-activated potassium channel	1.67	0.0	0.0	1.27	0.26
+11056	FBgn0085478	Zdhhc8		Zinc finger DHHC-type containing 8	1.67	0.0	0.0	2.44	0.7
+9706	FBgn0264753	Rgk1		Rad, Gem/Kir family member 1	1.67	0.0	0.0	0.51	0.09
+6327	FBgn0033638	CG9005		\N	1.67	0.0	0.0	2.44	0.71
+5885	FBgn0036493	CG7255		\N	1.67	0.0	0.0	1.04	0.04
+9519	FBgn0005624	Psc		Posterior sex combs	1.67	0.0	0.0	1.52	0.16
+7627	FBgn0024238	Fim		Fimbrin	1.66	0.0	0.0	1.76	0.47
+12351	FBgn0010113	hdc		headcase	1.66	0.0	0.0	4.36	1.62
+540	FBgn0034439	CG10062		\N	1.66	0.0	0.0	1.13	0.11
+12889	FBgn0264384	lncRNA:CR43836		Isoform 2 of Metallophosphoesterase 1 homolog	1.65	0.0	0.0	1.5	0.21
+8435	FBgn0030608	Lsd-2		Lipid storage droplet-2	1.65	0.0	0.0	1.17	0.19
+15522	FBgn0052676	stx		stuxnet	1.65	0.0	0.0	2.29	0.72
+7117	FBgn0062413	Ctr1A		Copper transporter 1A	1.65	0.0	0.0	1.52	0.22
+6856	FBgn0031488	Ccdc85		\N	1.65	0.0	0.0	1.26	0.11
+10685	FBgn0051721	Trim9		Tripartite motif containing 9	1.65	0.0	0.0	1.0	0.17
+15710	FBgn0250785	vari		varicose	1.64	0.0	0.0	1.22	0.11
+15058	FBgn0041096	rols		rolling pebbles	1.64	0.0	0.0	1.02	0.06
+9353	FBgn0031681	Pgant5		Polypeptide N-Acetylgalactosaminyltransferase 5	1.64	0.0	0.0	1.98	0.49
+12288	FBgn0261703	gce		germ cell-expressed bHLH-PAS	1.63	0.0	0.0	1.17	0.06
+11868	FBgn0033987	ckn		caskin	1.63	0.0	0.0	1.89	0.43
+5314	FBgn0260748	CG5004		\N	1.63	0.0	0.0	1.53	0.2
+15760	FBgn0034718	wdp		windpipe	1.63	0.0	0.0	1.16	0.11
+5805	FBgn0038286	CG6966		\N	1.63	0.0	0.0	1.76	0.37
+14969	FBgn0053207	pxb		pxb	1.62	0.0	0.0	0.92	0.06
+1604	FBgn0036773	CG13698		\N	1.62	0.0	0.0	1.27	0.1
+15604	FBgn0003716	tkv		thickveins	1.62	0.0	0.0	1.5	0.26
+5667	FBgn0030870	CG6398		\N	1.62	0.0	0.0	1.47	0.18
+463	FBgn0261822	Bsg		Basigin	1.61	0.0	0.0	3.52	1.3
+14752	FBgn0002973	numb		numb	1.6	0.0	0.0	2.18	0.66
+14375	FBgn0283521	lola		longitudinals lacking	1.6	0.0	0.0	4.13	1.68
+3447	FBgn0031449	CG31689		\N	1.6	0.0	0.0	1.28	0.17
+11157	FBgn0015903	apt		apontic	1.59	0.0	0.0	1.54	0.31
+388	FBgn0023407	B4		B4	1.59	0.0	0.0	1.58	0.32
+1438	FBgn0037016	CG13252		\N	1.59	0.0	0.0	1.02	0.06
+12232	FBgn0000721	for		foraging	1.58	0.0	0.0	1.31	0.14
+8894	FBgn0083963	Nlg3		Neuroligin 3	1.58	0.0	0.0	0.66	0.09
+15138	FBgn0021764	sdk		sidekick	1.57	0.0	0.0	1.55	0.34
+11895	FBgn0039994	conu		conundrum	1.57	0.0	0.0	2.19	0.54
+7775	FBgn0001987	Gli		Gliotactin	1.57	0.0	0.0	1.12	0.04
+14838	FBgn0033988	pcs		parcas	1.57	0.0	0.0	2.09	0.65
+7712	FBgn0001104	Galphai		G protein alpha i subunit	1.57	0.0	0.0	1.77	0.31
+14834	FBgn0003041	pbl		pebble	1.57	0.0	0.0	1.12	0.37
+8717	FBgn0086347	Myo31DF		Myosin 31DF	1.57	0.0	0.0	1.23	0.12
+15021	FBgn0004795	retn		retained	1.57	0.0	0.0	0.94	0.27
+15775	FBgn0036896	wnd		wallenda	1.57	0.0	0.0	1.31	0.17
+2570	FBgn0040496	CG17104		\N	1.56	0.0	0.0	1.41	0.33
+11159	FBgn0286516	aqz		aaquetzalli	1.56	0.0	0.0	3.86	1.66
+15041	FBgn0003256	rl		rolled	1.56	0.0	0.0	4.18	1.69
+7736	FBgn0036428	Gbs-70E		Glycogen binding subunit 70E	1.55	0.0	0.0	1.05	0.09
+773	FBgn0036316	nebu	CG10960	nebulosa	1.54	0.0	0.0	0.91	0.17
+11902	FBgn0010313	corto		corto	1.54	0.0	0.0	1.4	0.23
+15445	FBgn0016977	spen		split ends	1.54	0.0	0.0	3.99	1.55
+9243	FBgn0053526	PNUTS		Phosphatase 1 nuclear targeting subunit	1.54	0.0	0.0	2.77	0.97
+15023	FBgn0261258	rgn		regeneration	1.54	0.0	0.0	1.03	0.14
+9275	FBgn0010247	Parp		Poly-(ADP-ribose) polymerase	1.54	0.0	0.0	3.99	1.85
+7928	FBgn0010825	Gug		Grunge	1.53	0.0	0.0	3.05	0.98
+11695	FBgn0052594	be		ben	1.53	0.0	0.0	1.49	0.22
+347	FBgn0020762	Atet		ABC transporter expressed in trachea	1.53	0.0	0.0	1.07	0.09
+11990	FBgn0041604	dlp		dally-like	1.53	0.0	0.0	1.3	0.25
+14382	FBgn0028582	lqf		liquid facets	1.52	0.0	0.0	2.74	1.01
+14528	FBgn0050021	metro		menage a trois	1.52	0.0	0.0	0.97	0.04
+10753	FBgn0284257	Ttd14		TRPL translocation defect 14	1.52	0.0	0.0	1.38	0.39
+14636	FBgn0028956	mthl3		methuselah-like 3	1.52	0.0	0.0	1.47	0.3
+11141	FBgn0011746	ana		anachronism	1.52	0.0	0.0	0.48	0.23
+10165	FBgn0085408	Shrm		Shroom	1.52	0.0	0.0	1.16	0.08
+15060	FBgn0011705	rost		rolling stone	1.52	0.0	0.0	0.98	0.09
+7650	FBgn0267795	Frl		Formin-like	1.52	0.0	0.0	3.1	1.33
+10255	FBgn0041184	Socs36E		Suppressor of cytokine signaling at 36E	1.52	0.0	0.0	1.22	0.17
+15782	FBgn0260005	wtrw		water witch	1.52	0.0	0.0	0.91	0.06
+15000	FBgn0003209	raw		raw	1.51	0.0	0.0	1.5	0.36
+3511	FBgn0051869	CG31869		\N	1.51	0.0	0.0	0.86	0.09
+14954	FBgn0261552	ps		pasilla	1.5	0.0	0.0	3.75	2.06
+8877	FBgn0261514	NimA		Nimrod A	1.5	0.0	0.0	1.05	0.06
+4941	FBgn0263993	CG43736		\N	1.5	0.0	0.0	1.89	0.52
+6225	FBgn0035711	CG8519		\N	1.5	0.0	0.0	0.55	0.07
+8329	FBgn0266450	Kr-h1		Kruppel homolog 1	1.49	0.0	0.0	1.11	0.06
+6260	FBgn0032938	CG8671		\N	1.49	0.0	0.0	2.49	0.81
+10086	FBgn0016059	Sema1b		Semaphorin 1b	1.49	0.0	0.0	1.67	0.44
+12494	FBgn0032683	kon		kon-tiki	1.49	0.0	0.0	0.77	0.03
+15727	FBgn0043841	vir-1		virus-induced RNA 1	1.49	0.0	0.0	1.7	0.52
+6843	FBgn0031883	Caper		Caper	1.48	0.0	0.0	2.76	0.95
+11916	FBgn0001994	crp		cropped	1.48	0.0	0.0	1.82	0.42
+4442	FBgn0085638	CG41378		\N	1.48	0.0	0.0	3.09	1.3
+9007	FBgn0036732	Oatp74D		Organic anion transporting polypeptide 74D	1.48	0.0	0.0	0.86	0.05
+11674	FBgn0011300	babo		baboon	1.48	0.0	0.0	1.55	0.36
+12516	FBgn0027279	l(1)G0196		lethal (1) G0196	1.48	0.0	0.0	1.39	0.51
+14877	FBgn0003090	pk		prickle	1.48	0.0	0.0	1.23	0.18
+15751	FBgn0039620	wat		waterproof	1.48	0.0	0.0	0.34	0.04
+12159	FBgn0000578	ena		enabled	1.47	0.0	0.0	1.79	0.53
+9731	FBgn0036518	RhoGAP71E		Rho GTPase activating protein at 71E	1.47	0.0	0.0	3.27	1.53
+3889	FBgn0032120	CG33298		\N	1.47	0.0	0.0	1.6	0.43
+263	FBgn0000083	AnxB9		Annexin B9	1.47	0.0	0.0	1.73	0.51
+15154	FBgn0003371	sgg		shaggy	1.47	0.0	0.0	2.8	1.28
+6819	FBgn0053653	Cadps		Calcium-dependent secretion activator	1.46	0.0	0.0	1.63	0.33
+12233	FBgn0053556	form3		formin 3	1.46	0.0	0.0	0.92	0.1
+12257	FBgn0023441	fus		fusilli	1.46	0.0	0.0	1.9	0.57
+10085	FBgn0011259	Sema1a		Semaphorin 1a	1.46	0.0	0.0	1.73	0.48
+8417	FBgn0261565	Lmpt		Limpet	1.46	0.0	0.0	1.3	0.18
+10925	FBgn0028671	Vha100-1		Vacuolar H[+] ATPase 100kD subunit 1	1.46	0.0	0.0	1.49	0.32
+7768	FBgn0036144	GlcAT-P		Glucuronyltransferase P	1.46	0.0	0.0	0.67	0.15
+1258	FBgn0037796	CG12814		\N	1.45	0.0	0.0	0.79	0.11
+350	FBgn0033010	Atf6		Atf6	1.45	0.0	0.0	2.15	0.58
+12344	FBgn0045852	ham		hamlet	1.45	0.0	0.0	1.22	0.24
+12223	FBgn0000711	flw		flapwing	1.44	0.0	0.0	1.38	0.26
+6538	FBgn0034861	CG9815		\N	1.44	0.0	0.0	0.68	0.05
+7368	FBgn0030276	Dlic		Dynein light intermediate chain	1.44	0.0	0.0	1.96	0.56
+11682	FBgn0031571	bark		bark beetle	1.43	0.0	0.0	1.0	0.03
+11865	FBgn0027598	cindr		CIN85 and CD2AP related	1.42	0.0	0.0	1.88	0.82
+11879	FBgn0262975	cnc		cap-n-collar	1.42	0.0	0.0	2.61	1.03
+14964	FBgn0003165	pum		pumilio	1.42	0.0	0.0	4.44	1.85
+14555	FBgn0014343	mirr		mirror	1.42	0.0	0.0	0.93	0.08
+4430	FBgn0035983	CG4080		\N	1.41	0.0	0.0	2.39	0.95
+15704	FBgn0003963	ush		u-shaped	1.41	0.0	0.0	1.31	0.2
+15653	FBgn0003870	ttk		tramtrack	1.41	0.0	0.0	1.91	0.59
+8593	FBgn0053208	Mical		Molecule interacting with CasL	1.41	0.0	0.0	1.85	0.71
+14371	FBgn0020278	loco		locomotion defects	1.41	0.0	0.0	1.1	0.26
+11115	FBgn0015576	alpha-Est8		alpha-Esterase-8	1.4	0.0	0.0	0.5	0.06
+14747	FBgn0085424	nub		nubbin	1.4	0.0	0.0	0.48	0.03
+288	FBgn0000116	Argk		Arginine kinase	1.4	0.0	0.0	2.63	1.06
+2370	FBgn0034639	CG15673		\N	1.4	0.0	0.0	0.62	0.06
+10442	FBgn0266696	Svil		Supervillin	1.4	0.0	0.0	3.36	1.84
+7739	FBgn0040319	Gclc		Glutamate-cysteine ligase catalytic subunit	1.39	0.0	0.0	0.91	0.12
+4997	FBgn0264711	CG43980		\N	1.39	0.0	0.0	0.54	0.06
+6807	FBgn0016126	CaMKI		Calcium/calmodulin-dependent protein kinase I	1.39	0.0	0.0	1.61	0.31
+14719	FBgn0011817	nmo		nemo	1.39	0.0	0.0	4.33	2.69
+12314	FBgn0004919	gol		goliath	1.39	0.0	0.0	0.96	0.12
+12626	FBgn0052218	lncRNA:CR32218		SD18573p	1.39	0.0	0.0	1.33	0.21
+6916	FBgn0035499	Chd64		Chd64	1.38	0.0	0.0	1.87	0.51
+10445	FBgn0264270	Sxl		Sex lethal	1.38	0.0	0.0	2.14	0.61
+8643	FBgn0052296	Mrtf		Myocardin-related transcription factor	1.38	0.0	0.0	1.52	0.37
+9658	FBgn0052062	Rbfox1		RNA-binding Fox protein 1	1.38	0.0	0.0	2.29	1.16
+12205	FBgn0030090	fend		forked end	1.38	0.0	0.0	1.05	0.11
+6899	FBgn0028509	CenG1A		Centaurin gamma 1A	1.37	0.0	0.0	1.21	0.24
+8618	FBgn0033438	Mmp2		Matrix metalloproteinase 2	1.37	0.0	0.0	0.63	0.1
+10287	FBgn0010905	Spn		Spinophilin	1.37	0.0	0.0	1.72	0.74
+483	FBgn0027844	CAH1		Carbonic anhydrase 1	1.36	0.0	0.0	0.82	0.16
+11862	FBgn0262582	cic		capicua	1.36	0.0	0.0	2.16	0.72
+4932	FBgn0263776	CG43693		\N	1.36	0.0	0.0	1.01	0.07
+9741	FBgn0083940	RhoU		RhoU	1.36	0.0	0.0	1.07	0.17
+10565	FBgn0267001	Ten-a		Tenascin accessory	1.36	0.0	0.0	0.87	0.25
+11147	FBgn0052000	anne		anne boleyn	1.36	0.0	0.0	1.62	0.31
+5786	FBgn0030955	CG6891		\N	1.35	0.0	0.0	1.52	0.36
+9284	FBgn0041789	Pax		Paxillin	1.35	0.0	0.0	1.31	0.29
+5961	FBgn0038256	CG7530		\N	1.35	0.0	0.0	0.97	0.11
+107	FBgn0004852	Ac76E		Adenylyl cyclase 76E	1.35	0.0	0.0	0.82	0.06
+9528	FBgn0004370	Ptp10D		Protein tyrosine phosphatase 10D	1.35	0.0	0.0	1.36	0.33
+9400	FBgn0000273	Pka-C1		Protein kinase, cAMP-dependent, catalytic subunit 1	1.35	0.0	0.0	2.24	0.75
+7995	FBgn0001186	Hex-A		Hexokinase A	1.34	0.0	0.0	1.7	0.53
+12643	FBgn0053963	lncRNA:CR33963		Probable insulin-like peptide 5	1.34	0.0	0.0	1.33	0.26
+1132	FBgn0039419	CG12290		\N	1.34	0.0	0.0	0.9	0.05
+11072	FBgn0025693	ZnT41F		Zinc transporter 41F	1.34	0.0	0.0	0.96	0.07
+11740	FBgn0014133	bif		bifocal	1.34	0.0	0.0	1.37	0.32
+10676	FBgn0050035	Tret1-1		Trehalose transporter 1-1	1.34	0.0	0.0	0.75	0.08
+12179	FBgn0033668	exp		expansion	1.33	0.0	0.0	0.56	0.02
+7455	FBgn0020445	E23		Early gene at 23	1.33	0.0	0.0	0.66	0.04
+12345	FBgn0026575	hang		hangover	1.33	0.0	0.0	1.6	0.36
+5264	FBgn0032187	CG4839		\N	1.33	0.0	0.0	0.69	0.06
+15071	FBgn0266019	rudhira		rudhira	1.32	0.0	0.0	1.94	0.66
+14649	FBgn0262737	mub		mushroom-body expressed	1.32	0.0	0.0	1.45	0.37
+11673	FBgn0025525	bab2		bric a brac 2	1.32	0.0	0.0	1.5	0.5
+11373	FBgn0266199	asRNA:CR44894		SD04526p	1.32	0.0	0.0	1.08	0.2
+11922	FBgn0000384	cta		concertina	1.31	0.0	0.0	2.07	0.61
+4930	FBgn0263772	CG43689		\N	1.31	0.0	0.0	0.73	0.04
+15757	FBgn0027492	wdb		widerborst	1.31	0.0	0.0	2.18	0.63
+6828	FBgn0013995	Calx		Na/Ca-exchange protein	1.31	0.0	0.0	1.55	0.53
+2814	FBgn0037520	CG18268		\N	1.31	0.0	0.0	1.02	0.19
+9385	FBgn0024315	Picot		Picot	1.3	0.0	0.0	0.88	0.1
+11771	FBgn0004893	bowl		brother of odd with entrails limited	1.3	0.0	0.0	1.0	0.06
+6259	FBgn0031988	CG8668		\N	1.3	0.0	0.0	1.76	0.57
+11915	FBgn0020309	crol		crooked legs	1.3	0.0	0.0	2.5	0.86
+351	FBgn0260945	Atg1		Autophagy-related 1	1.29	0.0	0.0	1.1	0.21
+8714	FBgn0033402	Myd88		Myd88	1.29	0.0	0.0	0.97	0.15
+15116	FBgn0033033	scaf		scarface	1.29	0.0	0.0	0.43	0.06
+9537	FBgn0028341	Ptpmeg2		Protein tyrosine phosphatase Meg2	1.29	0.0	0.0	1.5	0.4
+10242	FBgn0085450	Snoo		Sno oncogene	1.29	0.0	0.0	1.37	0.3
+5717	FBgn0036072	CG6628		\N	1.29	0.00114	0.00115	1.13	1.01
+1389	FBgn0032156	CG13124		\N	1.29	0.0	0.0	1.16	0.16
+15530	FBgn0038721	subdued		subdued	1.29	0.0	0.0	0.93	0.05
+7137	FBgn0039858	CycG		Cyclin G	1.28	0.0	0.0	3.67	2.02
+15153	FBgn0020251	sfl		sulfateless	1.28	0.0	0.0	1.55	0.49
+10338	FBgn0262733	Src64B		Src oncogene at 64B	1.28	0.0	0.0	1.61	0.46
+8156	FBgn0036816	Indy		I'm not dead yet	1.28	0.0	0.0	1.24	0.26
+11753	FBgn0001090	bnb		bangles and beads	1.28	0.0	0.0	0.7	0.12
+5802	FBgn0037956	CG6959		\N	1.28	0.0	0.0	0.95	0.08
+4316	FBgn0261444	CG3638		\N	1.28	0.0	0.0	1.11	0.17
+11104	FBgn0010215	alpha-Cat		alpha Catenin	1.28	0.0	0.0	2.11	0.67
+5409	FBgn0038981	CG5346		\N	1.28	0.0	0.0	1.21	0.14
+11841	FBgn0004876	cdi		center divider	1.27	0.0	0.0	2.59	1.36
+10674	FBgn0046687	Tre1		Trapped in endoderm 1	1.27	0.0	0.0	0.97	0.06
+11859	FBgn0036165	chrb		charybde	1.27	0.0	0.0	1.56	0.5
+7811	FBgn0013272	Gp150		Gp150	1.27	0.0	0.0	1.11	0.15
+4813	FBgn0262843	CG43207		\N	1.27	0.0	0.0	0.88	0.25
+3564	FBgn0052066	CG32066		\N	1.27	0.0	0.0	1.95	0.89
+5437	FBgn0039430	CG5455		\N	1.26	0.0	0.0	1.13	0.2
+7489	FBgn0051158	Efa6		Exchange factor for Arf 6	1.26	0.0	0.0	2.02	0.91
+4401	FBgn0058160	CG40160		\N	1.26	0.0	0.0	1.09	0.14
+50	FBgn0262739	AGO1		Argonaute-1	1.25	0.0	0.0	2.87	1.04
+11119	FBgn0259170	alpha-Man-Ia		alpha-Mannosidase class I a	1.25	0.0	0.0	1.66	0.54
+9299	FBgn0038237	Pde6		Phosphodiesterase 6	1.25	0.0	0.0	0.88	0.09
+255	FBgn0011747	Ank		Ankyrin	1.25	0.0	0.0	2.21	0.72
+3992	FBgn0034997	CG3376		\N	1.25	0.0	0.0	0.81	0.09
+5823	FBgn0039026	CG7029		\N	1.25	0.0	0.0	1.05	0.12
+15762	FBgn0259745	wech		wech	1.25	0.0	0.0	1.25	0.39
+6904	FBgn0037315	Cerk		Ceramide kinase	1.24	0.0	0.0	1.42	0.38
+8959	FBgn0034371	Ntan1		N-terminal amidohydrolase 1	1.24	0.0	0.0	0.99	0.41
+10741	FBgn0035936	Tsp66E		Tetraspanin 66E	1.24	0.0	0.0	0.61	0.03
+12336	FBgn0051992	gw		gawky	1.23	0.0	0.0	2.46	0.9
+2671	FBgn0032775	CG17544		\N	1.23	0.0	0.0	0.87	0.07
+12025	FBgn0261871	dpr2		defective proboscis extension response 2	1.23	0.0	0.0	0.86	0.16
+3438	FBgn0051676	CG31676		\N	1.23	0.0	0.0	0.59	0.1
+15752	FBgn0261563	wb		wing blister	1.23	0.0	0.0	0.95	0.49
+8143	FBgn0044047	Ilp6		Insulin-like peptide 6	1.23	0.0	0.0	0.71	0.07
+2710	FBgn0040056	CG17698		\N	1.23	0.0	0.0	1.02	0.09
+8312	FBgn0039925	Kif3C		Kinesin family member 3C	1.23	0.0	0.0	0.83	0.11
+10003	FBgn0005278	Sam-S		S-adenosylmethionine Synthetase	1.23	0.0	0.0	1.11	0.29
+5573	FBgn0031914	CG5973		\N	1.22	0.0	0.0	0.6	0.04
+10181	FBgn0027364	Six4		Six4	1.22	0.0	0.0	0.63	0.06
+15826	FBgn0265434	zip		zipper	1.22	0.0	0.0	2.59	1.3
+9240	FBgn0259214	PMCA		plasma membrane calcium ATPase	1.22	0.0	0.0	2.91	1.08
+8724	FBgn0004647	N		Notch	1.22	0.0	0.0	0.97	0.24
+7564	FBgn0262740	Evi5		Ecotropic viral integration site 5	1.22	0.0	0.0	1.63	0.48
+9736	FBgn0023172	RhoGEF2		Rho guanine nucleotide exchange factor 2	1.21	0.0	0.0	1.36	0.31
+7713	FBgn0001122	Galphao		G protein alpha o subunit	1.21	0.0	0.0	1.29	0.3
+2351	FBgn0034194	CG15611		\N	1.2	0.0	0.0	0.86	0.06
+1920	FBgn0028953	CG14478		\N	1.2	0.0	0.0	2.23	0.84
+12244	FBgn0016081	fry		furry	1.2	0.0	0.0	1.57	0.49
+10933	FBgn0262736	Vha16-1		Vacuolar H[+] ATPase 16kD subunit 1	1.2	0.0	0.0	3.43	1.7
+7107	FBgn0262081	Csk		C-terminal Src kinase	1.2	0.0	0.0	1.97	0.73
+12573	FBgn0086372	lap		like-AP180	1.2	0.0	0.0	2.04	0.74
+14664	FBgn0026199	myo		myoglianin	1.2	0.0	0.0	1.23	0.2
+12155	FBgn0000575	emc		extra macrochaetae	1.2	0.0	0.0	0.83	0.06
+65	FBgn0030089	AP-1gamma		Adaptor Protein complex 1, gamma subunit	1.19	0.0	0.0	1.43	0.33
+12334	FBgn0026239	gukh		GUK-holder	1.19	0.0	0.0	1.23	0.3
+12146	FBgn0004858	elB		elbow B	1.19	0.0	0.0	0.82	0.06
+546	FBgn0035720	CG10077		\N	1.19	0.0	0.0	3.2	1.69
+15165	FBgn0003396	shn		schnurri	1.19	0.0	0.0	2.0	0.8
+12513	FBgn0026713	Prp16	l(1)G0007	pre-mRNA processing factor 16	1.18	0.0	0.0	1.0	0.15
+14831	FBgn0036007	path		pathetic	1.18	0.0	0.0	1.07	0.31
+14522	FBgn0023001	melt		melted	1.18	0.0	0.0	0.77	0.04
+8925	FBgn0024320	Npc1a		Niemann-Pick type C-1a	1.18	0.0	0.0	1.54	0.46
+11897	FBgn0010434	cora		coracle	1.18	0.0	0.0	0.95	0.07
+9255	FBgn0024734	PRL-1		PRL-1 phosphatase	1.18	0.0	0.0	1.45	0.34
+8414	FBgn0017581	Lk6		Lk6 kinase	1.18	0.0	0.0	2.88	1.43
+10087	FBgn0011260	Sema2a		Semaphorin 2a	1.17	0.0	0.0	0.93	0.1
+15571	FBgn0052506	tbc	CG32506	trabuco	1.17	0.0	0.0	0.54	0.04
+11975	FBgn0011202	dia		diaphanous	1.17	0.0	0.0	1.08	0.16
+11074	FBgn0035432	ZnT63C		Zinc transporter 63C	1.17	0.0	0.0	1.12	0.29
+8172	FBgn0086359	Invadolysin		Invadolysin	1.17	0.0	0.0	1.36	0.49
+11752	FBgn0036449	bmm		brummer	1.16	0.0	0.0	0.98	0.16
+9723	FBgn0030808	RhoGAP15B		Rho GTPase activating protein at 15B	1.16	0.0	0.0	0.84	0.04
+592	FBgn0032681	CG10283		\N	1.16	0.0	0.0	0.76	0.02
+8509	FBgn0032456	MRP		Multidrug-Resistance like Protein 1	1.16	0.0	0.0	1.2	0.43
+15217	FBgn0037203	slif		slimfast	1.16	0.0	0.0	0.8	0.1
+9471	FBgn0036770	Prestin		Prestin	1.16	0.0	0.0	0.85	0.07
+11021	FBgn0031902	Wnt6		Wnt oncogene analog 6	1.15	0.0	0.0	0.5	0.08
+9060	FBgn0014184	Oda		Ornithine decarboxylase antizyme	1.15	0.0	0.0	2.43	1.12
+12013	FBgn0000490	dpp		decapentaplegic	1.15	0.0	0.0	0.92	0.24
+12228	FBgn0000719	fog		folded gastrulation	1.15	0.0	0.0	0.77	0.06
+14736	FBgn0262738	norpA		no receptor potential A	1.15	0.0	0.0	1.43	0.4
+11167	FBgn0000119	arr		arrow	1.15	0.0	0.0	1.21	0.29
+7822	FBgn0260798	Gprk1		G protein-coupled receptor kinase 1	1.15	0.0	0.0	4.04	2.11
+7823	FBgn0261988	Gprk2		G protein-coupled receptor kinase 2	1.15	0.0	0.0	2.0	0.74
+15424	FBgn0003460	so		sine oculis	1.15	0.0	0.0	0.91	0.1
+358	FBgn0037363	Atg17		Autophagy-related 17	1.14	0.0	0.0	1.77	0.6
+8358	FBgn0010238	Lac		Lachesin	1.14	0.0	0.0	0.99	0.11
+12139	FBgn0023214	edl		ETS-domain lacking	1.14	0.0	0.0	0.76	0.04
+15746	FBgn0266418	wake		wide awake	1.14	0.0	0.0	0.8	0.14
+14568	FBgn0051217	modSP		modular serine protease	1.13	0.0	0.0	0.69	0.04
+8061	FBgn0038755	Hs6st		Heparan sulfate 6-O-sulfotransferase	1.13	0.0	0.0	1.25	0.34
+12560	FBgn0287182	l(3)80Fj		lethal (3) 80Fj	1.13	0.0	0.0	3.29	1.34
+6817	FBgn0015609	CadN		Cadherin-N	1.13	0.0	0.0	0.75	0.42
+10174	FBgn0022764	Sin3A		Sin3A	1.13	0.0	0.0	1.81	0.56
+12163	FBgn0264693	ens		ensconsin	1.13	0.0	0.0	1.77	0.59
+11755	FBgn0014135	bnl		branchless	1.13	0.0	0.0	0.98	0.4
+8621	FBgn0023215	Mnt		Mnt	1.12	0.0	0.0	1.3	0.34
+8565	FBgn0011656	Mef2		Myocyte enhancer factor 2	1.12	0.0	0.0	1.15	0.29
+15570	FBgn0260938	tay		tay bridge	1.12	0.0	0.0	2.11	0.77
+7586	FBgn0020440	Fak		Focal adhesion kinase	1.12	0.0	0.0	1.53	0.59
+3049	FBgn0023528	CG2924		\N	1.11	0.0	0.0	1.11	0.18
+12408	FBgn0028546	ics		icarus	1.11	0.0	0.0	1.04	0.15
+13542	FBgn0266180	lncRNA:CR44886		Diacylglycerol kinase	1.11	0.0	0.0	0.93	0.18
+500	FBgn0013759	CASK		CASK	1.1	0.0	0.0	1.53	0.44
+4352	FBgn0036684	CG3764		\N	1.1	0.0	0.0	0.99	0.18
+1062	FBgn0039831	CG12054		\N	1.1	0.0	0.0	1.62	0.54
+10253	FBgn0033654	Sobp		Sine oculis-binding protein	1.09	0.0	0.0	0.41	0.02
+2931	FBgn0039886	CG2003		\N	1.09	0.0	0.0	0.85	0.28
+9770	FBgn0026181	Rok		Rho kinase	1.09	0.0	0.0	1.23	0.31
+9267	FBgn0267698	Pak		p21-activated kinase	1.08	0.0	0.0	1.19	0.34
+15523	FBgn0014388	sty		sprouty	1.08	0.0	0.0	0.84	0.13
+202	FBgn0027932	Akap200		A kinase anchor protein 200	1.08	0.0	0.0	2.66	1.39
+2709	FBgn0039993	CG17691		\N	1.08	0.0	0.0	1.47	0.5
+10817	FBgn0030809	Ubr1		Ubr1 ubiquitin ligase	1.08	0.0	0.0	1.5	0.57
+3095	FBgn0050089	CG30089		\N	1.07	0.0	0.0	0.76	0.06
+8868	FBgn0031865	Nha1		Na[+]/H[+] hydrogen antiporter 1	1.07	0.0	0.0	0.47	0.02
+7173	FBgn0033524	Cyp49a1		Cyp49a1	1.07	0.0	0.0	0.7	0.07
+12571	FBgn0016031	lama		lamina ancestor	1.07	0.0	0.0	0.74	0.05
+14889	FBgn0003118	pnt		pointed	1.07	0.0	0.0	0.71	0.09
+12176	FBgn0004583	ex		expanded	1.07	0.0	0.0	0.75	0.07
+10610	FBgn0025879	Timp		Tissue inhibitor of metalloproteases	1.06	0.0	0.0	0.69	0.1
+7512	FBgn0004910	Eip63F-1		Ecdysone-induced protein 63F 1	1.06	0.0	0.0	0.64	0.03
+10444	FBgn0032731	Swip-1		Swiprosin-1	1.06	0.0	0.0	0.88	0.1
+8803	FBgn0015772	Nak		Numb-associated kinase	1.06	0.0	0.0	0.99	0.18
+14958	FBgn0263102	psq		pipsqueak	1.06	0.0	0.0	2.85	1.15
+3669	FBgn0052425	CG32425		\N	1.06	0.0	0.0	1.41	0.61
+10061	FBgn0052654	Sec16		Secretory 16	1.06	0.0	0.0	1.25	0.32
+10011	FBgn0013334	Sap47		Synapse-associated protein 47kD	1.06	0.0	0.0	2.26	1.01
+7482	FBgn0260746	Ect3		Ectoderm-expressed 3	1.06	0.0	0.0	0.67	0.05
+10958	FBgn0004397	Vinc		Vinculin	1.06	0.0	0.0	0.8	0.06
+11800	FBgn0031150	bves		bves	1.06	0.0	0.0	0.86	0.25
+3692	FBgn0266918	CG32486		\N	1.06	0.0	0.0	1.72	0.64
+9943	FBgn0003310	S		Star	1.06	0.0	0.0	1.92	0.87
+14772	FBgn0004646	ogre		optic ganglion reduced	1.06	0.0	0.0	0.59	0.05
+7745	FBgn0001098	Gdh		Glutamate dehydrogenase	1.05	0.0	0.0	1.03	0.26
+10894	FBgn0050421	Usp15-31		Ubiquitin specific protease 15/31	1.05	0.0	0.0	0.86	0.17
+527	FBgn0039590	CG10011		\N	1.05	0.0	0.0	1.3	0.44
+12515	FBgn0027280	l(1)G0193		lethal (1) G0193	1.05	0.0	0.0	0.95	0.18
+15093	FBgn0034408	sano		serrano	1.05	0.0	0.0	0.81	0.24
+2539	FBgn0033443	CG1698		\N	1.05	0.0	0.0	0.42	0.04
+9296	FBgn0030520	Pdcd4		Programmed cell death 4	1.04	0.0	0.0	1.76	0.89
+9734	FBgn0026375	RhoGAPp190		Rho GTPase activating protein p190	1.04	0.0	0.0	1.16	0.26
+14557	FBgn0263490	mld		molting defective	1.04	0.0	0.0	1.29	0.57
+419	FBgn0040238	Best1		Bestrophin 1	1.04	0.0	0.0	0.73	0.03
+6811	FBgn0037963	Cad87A		Cadherin 87A	1.04	0.0	0.0	0.96	0.28
+3441	FBgn0029896	CG3168		\N	1.04	0.0	0.0	0.68	0.06
+10435	FBgn0040271	Sulf1		Sulfated	1.04	0.0	0.0	0.97	0.24
+15737	FBgn0016076	vri		vrille	1.04	0.0	0.0	0.79	0.1
+14022	FBgn0267228	lncRNA:CR45668		MIP14975p	1.03	0.0	0.0	0.71	0.03
+12410	FBgn0001250	if		inflated	1.03	0.0	0.0	0.69	0.05
+5643	FBgn0032350	CG6287		\N	1.03	0.0	0.0	1.12	0.32
+10624	FBgn0262624	Tmhs		Tetraspan membrane protein in hair cell stereocilia	1.03	0.0	0.0	0.58	0.03
+7552	FBgn0013953	Esp		Epidermal stripes and patches	1.02	0.0	0.0	0.59	0.02
+7619	FBgn0266084	Fhos		Formin homology 2 domain containing	1.02	0.0	0.0	0.65	0.06
+1001	FBgn0039266	CG11791		\N	1.02	0.0	0.0	1.29	0.36
+10675	FBgn0003748	Treh		Trehalase	1.01	0.0	0.0	1.1	0.41
+6003	FBgn0038638	CG7702		\N	1.01	0.0	0.0	0.77	0.1
+9439	FBgn0003129	Poxm		Pox meso	1.01	0.0	0.0	0.5	0.03
+12352	FBgn0038842	hdly		hadley	1.01	0.0	0.0	0.87	0.23
+15542	FBgn0004648	svr		silver	1.01	0.0	0.0	0.91	0.13
+15240	FBgn0003447	sn		singed	1.0	0.0	0.0	0.95	0.28
+9530	FBgn0004368	Ptp4E		Protein tyrosine phosphatase 4E	1.0	0.0	0.0	0.99	0.25
+10613	FBgn0011837	Tis11		Tis11 zinc finger protein	1.0	0.0	0.0	1.36	0.47
+10593	FBgn0026869	Tdg	Thd1	Thymine DNA glycosylase	1.0	0.0	0.0	1.0	0.22
+3550	FBgn0052017	CG32017		\N	1.0	0.0	0.0	0.63	0.06
+3087	FBgn0050069	CG30069		\N	1.0	0.0	0.0	0.56	0.13
+12132	FBgn0000542	ec		echinus	1.0	0.0	0.0	0.77	0.13
